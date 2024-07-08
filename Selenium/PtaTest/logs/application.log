@@ -1,0 +1,149 @@
+2024-05-13 10:51:46.232 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 10:51:49.202 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 10:51:49.676 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Click su Test Exceptions Page eseguito correttamente
+2024-05-13 10:51:49.678 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Fare clic su ADD
+2024-05-13 10:51:49.733 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Attendere che la seconda riga 2 venga visualizzata
+2024-05-13 10:51:54.897 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Seconda riga caricata correttamente
+2024-05-13 10:51:54.900 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 10:51:55.139 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 10:51:57.572 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 10:51:58.037 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Click su Test Exceptions Page eseguito correttamente
+2024-05-13 10:51:58.090 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Inserimento testo nella seconda riga
+2024-05-13 10:52:03.328 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Eseguo il click per salvare
+2024-05-13 10:52:03.402 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Testo nella seconda riga salvato correttamente
+2024-05-13 10:52:03.402 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 10:52:03.604 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 10:52:06.003 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 10:52:06.467 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Click su Test Exceptions Page eseguito correttamente
+2024-05-13 10:52:06.467 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Clicca sul pulsante input
+2024-05-13 10:52:06.521 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Cancella il campo di immissione e digito il nuovo testo
+2024-05-13 10:52:06.663 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Verifica che il testo sia cambiato
+2024-05-13 10:52:06.672 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Test completato con successo
+2024-05-13 10:52:06.673 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 10:52:06.857 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 10:52:09.250 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 10:52:09.686 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Click su Test Exceptions Page eseguito correttamente
+2024-05-13 10:52:09.686 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Trova l'elemento del testo delle istruzioni
+2024-05-13 10:52:09.705 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Premi il pulsante Aggiungi
+2024-05-13 10:52:09.752 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Attendi che l'elemento delle istruzioni scompaia
+2024-05-13 10:52:09.761 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Verifica che l'elemento delle istruzioni non sia più visualizzato
+2024-05-13 10:52:09.770 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Test completato con successo
+2024-05-13 10:52:09.771 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 10:52:09.934 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 10:52:12.313 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 10:52:12.724 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Click su Test Exceptions Page eseguito correttamente
+2024-05-13 10:52:12.724 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Fare clic sul pulsante Aggiungi
+2024-05-13 10:52:12.774 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Attendere che il secondo campo di input venga visualizzato
+2024-05-13 10:52:17.916 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Verificare che il secondo campo di input sia visualizzato
+2024-05-13 10:52:17.923 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Test completato con successo
+2024-05-13 10:52:17.923 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:05:08.608 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:05:15.128 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:05:25.433 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:05:25.663 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:05:26.674 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:05:36.942 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:05:38.652 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:05:39.644 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:05:49.917 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:05:50.099 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:05:51.080 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:07:41.750 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo il setUp corretto
+2024-05-13 12:07:41.761 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:07:41.790 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo il setUp corretto
+2024-05-13 12:07:41.791 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:07:41.793 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo il setUp corretto
+2024-05-13 12:07:41.793 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:07:41.795 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo il setUp corretto
+2024-05-13 12:07:41.797 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:07:41.800 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo il setUp corretto
+2024-05-13 12:07:41.800 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:11:41.691 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:11:43.272 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo il setUp corretto
+2024-05-13 12:11:45.001 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:11:45.427 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Click su Test Exceptions Page eseguito correttamente
+2024-05-13 12:11:45.430 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Fare clic su ADD
+2024-05-13 12:11:45.491 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Attendere che la seconda riga 2 venga visualizzata
+2024-05-13 12:11:50.641 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Seconda riga caricata correttamente
+2024-05-13 12:11:50.643 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:11:50.890 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:11:51.676 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo il setUp corretto
+2024-05-13 12:11:53.356 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:11:53.738 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Click su Test Exceptions Page eseguito correttamente
+2024-05-13 12:11:53.799 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Inserimento testo nella seconda riga
+2024-05-13 12:11:59.025 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Eseguo il click per salvare
+2024-05-13 12:11:59.099 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Testo nella seconda riga salvato correttamente
+2024-05-13 12:11:59.099 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:11:59.258 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:12:00.017 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo il setUp corretto
+2024-05-13 12:12:01.725 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:12:02.162 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Click su Test Exceptions Page eseguito correttamente
+2024-05-13 12:12:02.162 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Clicca sul pulsante input
+2024-05-13 12:12:02.217 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Cancella il campo di immissione e digito il nuovo testo
+2024-05-13 12:12:02.362 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Verifica che il testo sia cambiato
+2024-05-13 12:12:02.369 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Test completato con successo
+2024-05-13 12:12:02.370 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:12:02.535 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:12:03.378 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo il setUp corretto
+2024-05-13 12:12:05.105 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:12:05.492 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Click su Test Exceptions Page eseguito correttamente
+2024-05-13 12:12:05.492 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Trova l'elemento del testo delle istruzioni
+2024-05-13 12:12:05.518 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Premi il pulsante Aggiungi
+2024-05-13 12:12:05.569 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Attendi che l'elemento delle istruzioni scompaia
+2024-05-13 12:12:05.580 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Verifica che l'elemento delle istruzioni non sia più visualizzato
+2024-05-13 12:12:05.590 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Test completato con successo
+2024-05-13 12:12:05.590 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:12:05.773 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:12:06.591 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo il setUp corretto
+2024-05-13 12:12:07.424 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:35:00.147 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:35:01.556 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:35:11.871 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:35:12.103 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:35:12.889 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 12:35:23.168 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 12:35:23.277 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 12:35:24.148 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 13:03:25.371 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:03:26.813 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 13:03:37.105 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:03:37.253 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:03:38.100 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 13:08:53.736 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:08:55.168 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 13:23:14.140 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:23:16.720 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:23:16.924 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:23:17.826 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:23:17.982 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:23:18.804 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:23:18.946 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:23:19.843 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:23:19.984 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:23:20.793 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:23:35.343 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:23:36.942 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:23:37.119 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:23:37.958 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:23:38.131 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:23:38.956 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:23:39.111 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:23:39.997 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:23:40.167 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:23:41.075 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:24:01.004 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:24:02.495 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:24:02.655 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:24:03.347 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:24:03.534 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:24:04.220 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:24:04.378 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:24:05.042 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:24:05.202 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:24:05.895 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - ________________________________
+2024-05-13 13:26:43.202 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver
+2024-05-13 13:26:46.369 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Driver creato correttamente
+2024-05-13 13:26:47.483 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Click su Test Exceptions Page eseguito correttamente
+2024-05-13 13:26:47.484 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Fare clic su ADD
+2024-05-13 13:26:47.543 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Attendere che la seconda riga 2 venga visualizzata
+2024-05-13 14:23:50.455 [main] INFO  it.smartpaper.Pta.PtaExceptionTest - Creo un nuovo driver

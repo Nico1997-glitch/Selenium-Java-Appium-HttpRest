@@ -1,0 +1,343 @@
+2024-05-28 16:13:27.029 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 16:15:06.286 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 16:16:15.461 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 16:17:02.399 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 17:10:18.860 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 17:17:10.497 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 17:21:26.169 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 17:22:35.044 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 17:23:54.583 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 17:25:23.300 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 17:26:48.126 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 17:28:58.848 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-28 17:36:25.369 [main] INFO  it.smartpaper.ThirdApp.ThirdApp - Eseguo il login con l'username: standard_user
+2024-05-29 09:46:24.329 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 09:46:29.927 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 09:46:32.482 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 10:38:57.657 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 10:39:00.111 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 10:39:01.814 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 10:39:02.472 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 10:39:03.771 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 10:39:36.803 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: locked_out_user
+2024-05-29 10:39:40.007 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 10:39:41.111 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 10:39:41.767 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 10:39:41.767 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico messaggio di errore
+2024-05-29 10:39:42.536 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : 
+2024-05-29 10:45:11.139 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: locked_out_user
+2024-05-29 10:45:13.695 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 10:45:14.796 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 10:45:15.443 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 10:45:15.443 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico messaggio di errore
+2024-05-29 10:45:17.586 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : Sorry, this user has been locked out.
+2024-05-29 10:45:52.869 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: locked_out_user
+2024-05-29 10:45:55.461 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 10:45:56.560 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 10:45:57.238 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 10:45:57.239 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart
+2024-05-29 10:46:37.552 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: problem_user
+2024-05-29 10:46:41.196 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 10:46:42.293 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 10:46:42.891 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 10:46:42.892 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart
+2024-05-29 10:46:44.723 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart su un secondo elemento
+2024-05-29 10:55:38.651 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: problem_user
+2024-05-29 10:55:40.709 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 10:55:41.808 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 10:55:42.530 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 10:55:42.531 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart
+2024-05-29 10:55:44.301 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart su un secondo elemento
+2024-05-29 10:56:49.849 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: problem_user
+2024-05-29 10:56:52.422 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 10:56:53.527 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 10:56:54.195 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 10:56:54.195 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart
+2024-05-29 10:56:56.074 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart su un secondo elemento
+2024-05-29 11:46:02.977 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: problem_user
+2024-05-29 11:46:05.775 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 11:46:06.875 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 11:46:07.521 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 11:46:07.521 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart
+2024-05-29 11:46:09.236 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Avvio la verifica sul pulsante
+2024-05-29 11:46:10.213 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Stato del pulsante: false
+2024-05-29 11:46:10.213 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Uso assertFalse per verificare che il pulsante non sia abilitato
+2024-05-29 12:16:32.507 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: problem_user
+2024-05-29 12:16:35.027 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 12:16:36.226 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 12:16:36.880 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 12:16:36.880 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart
+2024-05-29 12:16:38.571 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Avvio la verifica sul pulsante
+2024-05-29 12:16:39.511 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Stato del pulsante: false
+2024-05-29 12:16:39.512 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Uso assertFalse per verificare che il pulsante non sia abilitato
+2024-05-29 12:17:11.867 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 12:17:14.487 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 12:17:15.099 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 12:17:15.758 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 12:17:17.092 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 12:17:17.092 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 12:18:12.359 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 12:18:14.879 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 12:18:15.976 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 12:18:16.620 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 12:18:17.929 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 12:18:17.930 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 12:18:19.590 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 12:18:20.620 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 12:18:25.509 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 12:18:25.510 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 12:18:25.510 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 12:19:34.605 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 12:19:37.046 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 12:19:38.538 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 12:19:39.303 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 12:20:05.434 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 12:20:08.875 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 12:20:16.425 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 12:20:24.582 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 12:20:31.512 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 12:20:31.518 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 12:20:31.523 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 12:24:45.082 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 12:24:45.881 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 12:24:46.974 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 12:24:47.629 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 12:24:48.895 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 12:24:48.896 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 12:24:50.538 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 12:24:51.568 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 12:27:09.525 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 12:27:12.210 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 12:27:13.320 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 12:27:13.979 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 12:27:15.325 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 12:27:15.325 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 12:27:16.893 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 12:27:17.918 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 12:27:42.059 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 12:27:46.451 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 12:27:48.372 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 12:28:45.786 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 12:28:48.146 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 12:28:49.265 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 12:28:49.923 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 12:28:51.228 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 12:28:51.228 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 12:28:52.784 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 12:28:53.542 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 12:28:59.109 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 12:28:59.109 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 12:28:59.109 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 12:28:59.110 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue
+2024-05-29 12:28:59.274 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su Finish
+2024-05-29 12:30:15.745 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 12:30:18.711 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 12:30:19.819 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 12:30:20.471 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 12:30:21.834 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 12:30:21.835 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 12:30:23.490 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 12:30:24.536 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 12:30:30.479 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 12:30:30.479 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 12:30:30.479 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 12:30:30.634 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue
+2024-05-29 12:34:26.715 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 12:34:29.758 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 12:34:30.865 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 12:34:31.523 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 12:34:32.882 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 12:34:32.882 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 12:34:34.592 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 12:34:35.646 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 12:34:41.468 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 12:34:41.469 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 12:34:41.469 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 12:34:41.653 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue
+2024-05-29 12:43:44.255 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 12:43:46.764 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 12:43:47.864 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 12:43:48.521 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 12:43:49.817 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 12:43:49.817 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 12:43:51.488 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 12:43:52.242 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 12:43:58.034 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 12:43:58.034 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 12:43:58.034 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 12:43:58.221 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue
+2024-05-29 13:58:05.767 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 13:58:08.327 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 13:58:09.436 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 13:58:10.075 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 13:58:11.372 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 13:58:11.372 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 13:58:12.999 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 13:58:13.777 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 13:58:19.753 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 13:58:19.754 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 13:58:19.754 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 13:58:19.951 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue
+2024-05-29 13:58:21.221 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su Finish
+2024-05-29 13:58:21.221 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico messaggio di errore
+2024-05-29 14:03:39.563 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 14:03:42.099 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:03:42.715 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:03:43.372 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:03:44.726 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 14:03:44.726 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 14:03:46.317 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 14:03:47.070 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 14:03:53.007 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 14:03:53.007 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 14:03:53.007 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 14:03:53.181 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue 
+2024-05-29 14:03:54.468 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su Finish
+2024-05-29 14:03:54.468 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico CHECKOUT
+2024-05-29 14:03:55.962 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : THANK YOU FOR YOU ORDER
+2024-05-29 14:11:28.260 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: locked_out_user
+2024-05-29 14:11:30.817 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:11:31.924 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:11:32.585 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:11:32.585 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico messaggio di errore
+2024-05-29 14:11:34.922 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : Sorry, this user has been locked out.
+2024-05-29 14:11:45.020 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 14:11:47.693 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:11:48.804 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:11:49.447 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:11:50.775 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 14:11:50.776 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 14:11:52.498 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 14:11:53.288 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 14:11:59.421 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 14:11:59.422 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 14:11:59.422 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 14:11:59.749 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue 
+2024-05-29 14:12:01.145 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su Finish
+2024-05-29 14:12:01.145 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico CHECKOUT
+2024-05-29 14:12:02.771 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : THANK YOU FOR YOU ORDER
+2024-05-29 14:12:46.755 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: problem_user
+2024-05-29 14:12:49.308 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:12:50.424 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:12:51.078 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:12:51.079 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart
+2024-05-29 14:12:52.801 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Avvio la verifica sul pulsante
+2024-05-29 14:12:53.344 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Stato del pulsante: false
+2024-05-29 14:12:53.345 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Uso assertFalse per verificare che il pulsante non sia abilitato
+2024-05-29 14:13:03.749 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: locked_out_user
+2024-05-29 14:13:06.539 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:13:07.161 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:13:07.832 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:13:07.832 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico messaggio di errore
+2024-05-29 14:13:10.332 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : Sorry, this user has been locked out.
+2024-05-29 14:13:20.911 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 14:13:24.367 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:13:24.977 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:13:25.652 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:13:27.013 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 14:13:27.014 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 14:13:30.568 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 14:13:31.771 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 14:13:38.003 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 14:13:38.003 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 14:13:38.003 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 14:13:38.168 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue 
+2024-05-29 14:13:39.407 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su Finish
+2024-05-29 14:13:39.408 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico CHECKOUT
+2024-05-29 14:13:41.088 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : THANK YOU FOR YOU ORDER
+2024-05-29 14:14:41.985 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - _______________________________
+2024-05-29 14:14:42.035 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: problem_user
+2024-05-29 14:14:45.008 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:14:46.104 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:14:46.763 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:14:46.763 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart
+2024-05-29 14:14:48.608 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Avvio la verifica sul pulsante
+2024-05-29 14:14:49.087 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Stato del pulsante: false
+2024-05-29 14:14:49.088 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Uso assertFalse per verificare che il pulsante non sia abilitato
+2024-05-29 14:15:00.072 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - _______________________________
+2024-05-29 14:15:00.073 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: locked_out_user
+2024-05-29 14:15:03.431 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:15:05.079 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:15:05.738 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:15:05.738 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico messaggio di errore
+2024-05-29 14:15:08.115 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : Sorry, this user has been locked out.
+2024-05-29 14:15:19.751 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - _______________________________
+2024-05-29 14:15:19.752 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 14:15:22.901 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:15:24.057 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:15:24.706 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:15:25.999 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 14:15:25.999 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 14:15:27.658 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 14:15:28.899 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 14:15:34.826 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 14:15:34.826 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 14:15:34.826 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 14:15:35.023 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue 
+2024-05-29 14:15:36.302 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su Finish
+2024-05-29 14:15:36.302 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico CHECKOUT
+2024-05-29 14:15:37.903 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : THANK YOU FOR YOU ORDER
+2024-05-29 14:17:55.938 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - _______________________________
+2024-05-29 14:17:55.983 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: problem_user
+2024-05-29 14:17:58.738 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:17:59.906 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:18:00.570 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:18:00.570 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart
+2024-05-29 14:18:02.554 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Avvio la verifica sul pulsante
+2024-05-29 14:18:03.105 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Stato del pulsante: false
+2024-05-29 14:18:03.105 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Uso assertFalse per verificare che il pulsante non sia abilitato
+2024-05-29 14:18:16.197 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - _______________________________
+2024-05-29 14:18:16.197 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: locked_out_user
+2024-05-29 14:18:19.421 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:18:20.613 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:18:21.285 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:18:21.285 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico messaggio di errore
+2024-05-29 14:18:24.065 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : Sorry, this user has been locked out.
+2024-05-29 14:18:38.225 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - _______________________________
+2024-05-29 14:18:38.225 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 14:18:41.937 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:18:43.050 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:18:44.168 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:18:45.494 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 14:18:45.494 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 14:18:47.323 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 14:18:48.205 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 14:18:54.339 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 14:18:54.339 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 14:18:54.339 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 14:18:54.528 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue 
+2024-05-29 14:18:55.936 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su Finish
+2024-05-29 14:18:55.936 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico CHECKOUT
+2024-05-29 14:18:57.774 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : THANK YOU FOR YOU ORDER
+2024-05-29 14:29:57.381 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - _______________________________
+2024-05-29 14:29:57.429 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: standard_user
+2024-05-29 14:30:00.264 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:30:01.364 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:30:02.015 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:30:03.348 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - L'accesso è avvenuto correttamente.
+2024-05-29 14:30:03.348 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su elementi da aggiungere al carello
+2024-05-29 14:30:05.164 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su carello
+2024-05-29 14:30:06.202 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su checkout
+2024-05-29 14:30:12.177 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected First Name: Matteo - Actual First Name: Matteo
+2024-05-29 14:30:12.178 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Last Name: Rossi - Actual Last Name: Rossi
+2024-05-29 14:30:12.178 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Expected Zip Code: 80900 - Actual Zip Code: 80900
+2024-05-29 14:30:12.406 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su continue 
+2024-05-29 14:30:13.707 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su Finish
+2024-05-29 14:30:13.707 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico CHECKOUT
+2024-05-29 14:30:15.348 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : THANK YOU FOR YOU ORDER
+2024-05-29 14:30:25.336 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - _______________________________
+2024-05-29 14:30:25.336 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: locked_out_user
+2024-05-29 14:30:27.875 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:30:28.986 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:30:29.634 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:30:29.634 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Verifico messaggio di errore
+2024-05-29 14:30:31.828 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Risultato corretto : Sorry, this user has been locked out.
+2024-05-29 14:30:41.689 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - _______________________________
+2024-05-29 14:30:41.689 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Eseguo il login con l'username: problem_user
+2024-05-29 14:30:44.786 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito username.
+2024-05-29 14:30:45.894 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Inserito password.
+2024-05-29 14:30:46.552 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - CLiccato sul login button.
+2024-05-29 14:30:46.553 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Click su add cart
+2024-05-29 14:30:48.340 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Avvio la verifica sul pulsante
+2024-05-29 14:30:49.248 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Stato del pulsante: false
+2024-05-29 14:30:49.248 [main] INFO  it.smartpaper.ThirdApp.ThirdAppTest - Uso assertFalse per verificare che il pulsante non sia abilitato

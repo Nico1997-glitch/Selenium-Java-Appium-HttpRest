@@ -1,0 +1,15 @@
+2024-05-07 09:27:38.770 [main] INFO  it.smartpaper.selenium.LoginTest - Eseguo il metodo openSeleniumTest
+2024-05-07 09:35:43.805 [main] INFO  it.smartpaper.selenium.LoginTest - Click su accetta
+2024-05-07 09:35:43.922 [main] INFO  it.smartpaper.selenium.LoginTest - Eseguo il metodo openSeleniumTest
+2024-05-07 09:35:43.924 [main] INFO  it.smartpaper.selenium.LoginTest - Metodo prova1
+2024-05-07 09:35:43.935 [main] INFO  it.smartpaper.selenium.LoginTest - Eseguo il metodo openSeleniumTest
+2024-05-07 09:36:17.651 [main] INFO  it.smartpaper.selenium.LoginTest - Eseguo il metodo openSeleniumTest
+2024-05-07 09:36:17.652 [main] INFO  it.smartpaper.selenium.LoginTest - Metodo prova2
+2024-05-07 10:51:14.203 [main] INFO  it.smartpaper.selenium.CreazioneAccountTest - Apro il sito web
+2024-05-07 10:51:17.881 [main] INFO  it.smartpaper.selenium.CreazioneAccountTest - Attendo e accetto il banner
+2024-05-07 10:51:21.845 [main] INFO  it.smartpaper.selenium.CreazioneAccountTest - Inserisco Nome
+2024-05-07 10:51:21.910 [main] INFO  it.smartpaper.selenium.CreazioneAccountTest - Inserisco cognome
+2024-05-07 10:51:22.053 [main] INFO  it.smartpaper.selenium.CreazioneAccountTest - Inserisco la mail
+2024-05-07 10:51:22.138 [main] INFO  it.smartpaper.selenium.CreazioneAccountTest - Inserisco la mail
+2024-05-07 10:51:22.202 [main] INFO  it.smartpaper.selenium.CreazioneAccountTest - Inserisco password e conferma
+2024-05-07 10:51:25.794 [main] INFO  it.smartpaper.selenium.CreazioneAccountTest - Processo andato a buonFine

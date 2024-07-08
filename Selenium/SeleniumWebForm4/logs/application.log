@@ -1,0 +1,1441 @@
+2024-05-08 14:48:25.759 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-08 14:48:25.761 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-08 14:48:25.898 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-08 14:48:26.007 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-08 14:48:26.104 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-08 14:48:26.172 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-08 14:48:26.249 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-08 14:48:26.348 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-08 14:48:26.432 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-08 14:54:15.581 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 14:54:15.583 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 14:54:15.780 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 14:54:15.948 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 14:54:16.065 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 14:54:16.128 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 14:54:16.188 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 14:54:16.533 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 14:54:18.425 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 14:54:18.425 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 14:54:18.614 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 14:54:18.763 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 14:54:18.853 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 14:54:20.706 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 14:54:20.706 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 14:54:20.852 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 14:54:20.955 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 14:54:21.160 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il click sul prodotto non corrisponde.
+2024-05-08 14:54:23.047 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 14:54:23.047 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 14:54:23.242 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 14:54:23.356 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 14:54:30.038 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 14:54:30.040 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 14:54:30.210 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 14:54:30.318 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 14:54:30.410 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 14:54:30.492 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento non è stato rimosso correttamente dal carrello.
+2024-05-08 14:54:32.203 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 14:54:32.203 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 14:54:32.362 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 14:54:32.472 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 14:54:32.567 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 14:54:32.633 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 14:54:32.689 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 14:54:32.928 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 14:54:32.944 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 15:13:48.532 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 15:13:48.535 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:13:48.694 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:13:48.790 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:13:48.868 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:13:48.930 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:13:48.990 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:13:49.324 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 15:13:51.068 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:13:51.068 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:13:51.188 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:13:51.284 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:13:51.365 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 15:13:53.007 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:13:53.007 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:13:53.126 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:13:53.223 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:13:55.090 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 15:13:55.090 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:13:55.224 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:13:55.316 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:14:03.614 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 15:14:03.614 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:14:03.727 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:14:03.822 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:14:03.902 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:14:03.955 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:14:04.008 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:14:04.234 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 15:14:04.249 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 15:33:34.252 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 15:33:34.254 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:33:34.394 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:33:34.499 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:33:34.580 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:33:34.638 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:33:34.713 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:33:35.041 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 15:33:37.046 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:33:37.046 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:33:37.167 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:33:37.262 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:33:37.345 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 15:33:39.166 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:33:39.166 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:33:39.289 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:33:39.387 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:33:41.432 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 15:33:41.432 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:33:41.571 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:33:41.665 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:33:48.577 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 15:33:48.577 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:33:48.690 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:33:48.782 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:33:48.864 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 15:33:50.735 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 15:33:50.735 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:33:50.850 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:33:50.946 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:33:51.030 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:33:51.086 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:33:51.148 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:33:51.409 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 15:33:51.424 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 15:35:53.098 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 15:35:53.102 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:35:53.253 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:35:53.367 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:35:53.469 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:35:53.535 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:35:53.596 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:35:53.949 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 15:35:55.854 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:35:55.854 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:35:55.985 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:35:56.089 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:35:56.192 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 15:35:58.110 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:35:58.110 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:35:58.273 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:35:58.419 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:35:58.607 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 15:36:00.585 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 15:36:00.585 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:36:00.736 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:36:00.845 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:36:07.580 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 15:36:07.580 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:36:07.705 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:36:07.810 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:36:07.920 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 15:36:09.679 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 15:36:09.679 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:36:09.804 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:36:09.907 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:36:09.996 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:36:10.066 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:36:10.128 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:36:10.376 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 15:36:10.394 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 15:38:53.087 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 15:38:53.090 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:38:53.222 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:38:53.320 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:38:53.406 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:38:53.471 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:38:53.530 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:38:53.860 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 15:38:55.625 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:38:55.625 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:38:55.746 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:38:55.841 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:38:55.924 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 15:38:57.602 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:38:57.602 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:38:57.723 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:38:57.816 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:38:57.919 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 15:38:59.888 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 15:38:59.888 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:39:00.019 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:39:00.116 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:39:06.354 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 15:39:06.354 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:39:06.470 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:39:06.571 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:39:06.682 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 15:39:08.449 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 15:39:08.450 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:39:08.567 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:39:08.664 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:39:08.746 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:39:08.797 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:39:08.856 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:39:09.100 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 15:39:09.115 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 15:42:50.410 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 15:42:50.412 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:42:50.546 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:42:50.641 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:42:50.731 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:42:50.794 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:42:50.852 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:42:51.170 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 15:42:53.167 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:42:53.167 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:42:53.288 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:42:53.383 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:42:53.462 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 15:42:55.224 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:42:55.224 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:42:55.332 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:42:55.433 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:42:55.546 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 15:42:57.442 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 15:42:57.442 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:42:57.572 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:42:57.665 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:43:04.557 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 15:43:04.557 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:43:04.667 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:43:04.765 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:43:04.845 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 15:43:06.667 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 15:43:06.667 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:43:06.778 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:43:06.873 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:43:06.953 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:43:07.004 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:43:07.056 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:43:07.279 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 15:43:07.293 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 15:53:45.260 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 15:53:45.263 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:53:45.406 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:53:45.491 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:53:45.571 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:53:45.639 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:53:45.710 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:53:46.056 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 15:53:47.865 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:53:47.865 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:53:47.984 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:53:48.082 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:53:48.163 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 15:53:49.772 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:53:49.772 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:53:49.897 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:53:49.991 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:53:50.090 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 15:53:50.181 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 15:53:53.336 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 15:53:53.336 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:53:53.449 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:53:53.542 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:53:53.623 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 15:53:55.259 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 15:53:55.259 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:53:55.387 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:53:55.528 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:53:55.671 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:53:55.754 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:53:55.819 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:53:56.058 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 15:53:56.072 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 15:59:24.032 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 15:59:24.037 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:59:24.222 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:59:24.374 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:59:24.523 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:59:24.588 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:59:24.646 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:59:24.948 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 15:59:26.904 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:59:26.904 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:59:27.069 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:59:27.216 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:59:27.342 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 15:59:29.149 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 15:59:29.149 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:59:29.272 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:59:29.367 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:59:29.468 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 15:59:29.560 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 15:59:31.344 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 15:59:31.344 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:59:31.477 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:59:31.572 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:59:36.663 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 15:59:38.532 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 15:59:38.532 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:59:38.697 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:59:38.848 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:59:38.980 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 15:59:40.923 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 15:59:40.923 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 15:59:41.046 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 15:59:41.139 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 15:59:41.224 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 15:59:41.288 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 15:59:41.348 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 15:59:41.581 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 15:59:41.594 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 16:24:57.220 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 16:24:57.222 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:24:57.350 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:24:57.444 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:24:57.535 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:24:57.589 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:24:57.647 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:24:57.960 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 16:24:59.971 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:24:59.971 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:00.105 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:00.202 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:00.282 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 16:25:02.079 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:25:02.080 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:02.200 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:02.299 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:02.399 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 16:25:02.491 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 16:25:03.960 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 16:25:03.960 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:04.097 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:04.195 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:09.374 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 16:25:10.854 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 16:25:10.855 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:10.991 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:11.089 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:11.177 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 16:25:12.630 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 16:25:12.630 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:12.748 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:12.837 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:12.920 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:25:12.990 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:25:13.047 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:25:13.288 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 16:25:13.306 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 16:25:40.008 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 16:25:40.010 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:40.138 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:40.255 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:40.337 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:25:40.389 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:25:40.444 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:25:40.750 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 16:25:42.621 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:25:42.621 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:42.746 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:42.843 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:42.926 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 16:25:44.575 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:25:44.575 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:44.694 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:44.788 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:44.892 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 16:25:44.985 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 16:25:46.650 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 16:25:46.650 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:46.786 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:46.881 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:52.024 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 16:25:53.819 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 16:25:53.819 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:53.931 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:54.026 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:54.108 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 16:25:55.631 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 16:25:55.631 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:25:55.751 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:25:55.847 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:25:55.927 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:25:55.979 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:25:56.031 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:25:56.257 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 16:25:56.271 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 16:30:09.471 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 16:30:09.473 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:30:09.605 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:30:09.732 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:30:09.821 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:30:09.879 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:30:09.936 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:30:10.243 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 16:30:12.056 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:30:12.057 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:30:12.178 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:30:12.273 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:30:12.353 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 16:30:13.928 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:30:13.928 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:30:14.050 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:30:14.147 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:30:14.247 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 16:30:14.341 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 16:30:15.896 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 16:30:15.896 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:30:16.031 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:30:16.126 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:30:21.271 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Tempo trascorso per trovare l'elemento: 13 millisecondi
+2024-05-08 16:30:21.272 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 16:30:22.800 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 16:30:22.800 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:30:22.911 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:30:23.007 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:30:23.088 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 16:30:24.696 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 16:30:24.697 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:30:24.808 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:30:24.906 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:30:24.988 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:30:25.040 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:30:25.095 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:30:25.329 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 16:30:25.343 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 16:31:48.171 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 16:31:48.175 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:31:48.308 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:31:48.406 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:31:48.495 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:31:48.560 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:31:48.620 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:31:48.934 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 16:31:50.676 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:31:50.676 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:31:50.802 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:31:50.898 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:31:51.019 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 16:31:52.601 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:31:52.601 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:31:52.731 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:31:52.827 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:31:52.936 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 16:31:53.036 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 16:31:54.694 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 16:31:54.695 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:31:54.829 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:31:54.926 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:00.081 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Tempo trascorso per trovare l'elemento: 18 millisecondi
+2024-05-08 16:32:00.081 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 16:32:01.742 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 16:32:01.742 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:01.855 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:01.953 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:02.034 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 16:32:03.732 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 16:32:03.732 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:03.847 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:03.944 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:04.025 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:32:04.088 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:32:04.145 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:32:04.389 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 16:32:04.405 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 16:32:19.007 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 16:32:19.011 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:19.170 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:19.287 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:19.372 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:32:19.430 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:32:19.492 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:32:19.817 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 16:32:21.682 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:32:21.682 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:21.806 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:21.906 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:21.990 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 16:32:23.614 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:32:23.614 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:23.743 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:23.838 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:23.939 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 16:32:24.039 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 16:32:25.651 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 16:32:25.651 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:25.788 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:25.886 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:31.032 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Tempo trascorso per trovare l'elemento: 14 millisecondi
+2024-05-08 16:32:31.032 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 16:32:32.669 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 16:32:32.669 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:32.786 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:32.880 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:32.961 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 16:32:34.634 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 16:32:34.634 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:34.783 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:34.876 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:34.962 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:32:35.031 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:32:35.089 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:32:35.333 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 16:32:35.348 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 16:32:43.510 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 16:32:43.512 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:43.649 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:43.750 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:43.837 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:32:43.905 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:32:43.962 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:32:44.292 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 16:32:46.078 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:32:46.078 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:46.205 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:46.304 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:46.385 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 16:32:48.034 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:32:48.034 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:48.160 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:48.257 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:48.366 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 16:32:48.468 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 16:32:50.294 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 16:32:50.294 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:50.430 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:50.529 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:55.677 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Tempo trascorso per trovare l'elemento: 14 millisecondi
+2024-05-08 16:32:55.677 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 16:32:57.286 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 16:32:57.286 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:57.402 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:57.495 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:57.575 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 16:32:59.269 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 16:32:59.269 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:32:59.382 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:32:59.479 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:32:59.558 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:32:59.623 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:32:59.682 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:32:59.930 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 16:32:59.945 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 16:37:43.430 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 16:37:43.433 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:37:43.564 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:37:43.707 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:37:43.785 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:37:43.838 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:37:43.898 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:37:44.217 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 16:37:45.997 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:37:45.997 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:37:46.125 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:37:46.225 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:37:46.312 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il messaggio di errore atteso è visualizzato correttamente: Epic sadface: Sorry, this user has been locked out.
+2024-05-08 16:37:47.804 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:37:47.804 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:37:47.932 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:37:48.032 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:37:48.140 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 16:37:48.235 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 16:37:49.814 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 16:37:49.814 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:37:49.957 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:37:50.057 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:37:55.204 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 16:37:56.799 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 16:37:56.800 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:37:56.915 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:37:57.013 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:37:57.093 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 16:37:58.706 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 16:37:58.707 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:37:58.816 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:37:58.915 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:37:58.998 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:37:59.049 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:37:59.102 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:37:59.331 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 16:37:59.346 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 16:56:28.715 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 16:56:28.717 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:56:28.849 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:56:28.949 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:56:29.031 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:56:29.097 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:56:29.165 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:56:29.500 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 16:56:31.260 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:56:31.260 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:56:31.383 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:56:31.480 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:56:33.174 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 16:56:33.174 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:56:33.295 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:56:33.389 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:56:33.487 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 16:56:33.576 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 16:56:35.226 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 16:56:35.226 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:56:35.359 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:56:35.454 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:56:40.600 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 16:56:42.202 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 16:56:42.203 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:56:42.315 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:56:42.415 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:56:42.496 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 16:56:44.235 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 16:56:44.235 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 16:56:44.355 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 16:56:44.449 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 16:56:44.532 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 16:56:44.584 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 16:56:44.635 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 16:56:44.865 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica che il testo non sia stato inserito correttamente
+2024-05-08 16:56:44.880 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo è stato inserito correttamente nel campo last-name: Pasticcio
+2024-05-08 17:01:29.993 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 17:01:29.996 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:01:30.134 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:01:30.237 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:01:30.325 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 17:01:30.389 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 17:01:30.448 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 17:01:30.782 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 17:01:32.541 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 17:01:32.541 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:01:32.661 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:01:32.758 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:01:32.842 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-08 17:01:34.563 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 17:01:34.563 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:01:34.681 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:01:34.778 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:01:34.877 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 17:01:34.970 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 17:01:36.607 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 17:01:36.607 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:01:36.745 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:01:36.839 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:01:41.984 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 17:01:43.627 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 17:01:43.627 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:01:43.739 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:01:43.835 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:01:43.915 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 17:01:45.636 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 17:01:45.636 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:01:45.751 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:01:45.847 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:01:45.929 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 17:01:45.982 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 17:01:46.034 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 17:02:31.307 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-08 17:02:31.310 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:02:31.443 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:02:31.538 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:02:31.632 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 17:02:31.686 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 17:02:31.743 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-08 17:02:32.043 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-08 17:02:33.776 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 17:02:33.776 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:02:33.893 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:02:33.990 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:02:34.075 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-08 17:02:35.677 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-08 17:02:35.677 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:02:35.799 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:02:35.895 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:02:35.994 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-08 17:02:36.083 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-08 17:02:37.748 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-08 17:02:37.748 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:02:37.884 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:02:37.978 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:02:43.125 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-08 17:02:44.765 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-08 17:02:44.766 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:02:44.880 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:02:44.978 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:02:45.064 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-08 17:02:46.720 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-08 17:02:46.720 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-08 17:02:46.835 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-08 17:02:46.931 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-08 17:02:47.012 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-08 17:02:47.065 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-08 17:02:47.119 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:23:37.083 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:23:37.085 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:23:37.213 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:23:37.314 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:23:37.394 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:23:37.445 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:23:37.530 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:23:37.847 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-09 09:23:39.494 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:23:39.494 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:23:39.617 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:23:39.716 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:23:39.802 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 09:23:41.332 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:23:41.332 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:23:41.488 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:23:41.583 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:23:41.685 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 09:23:41.779 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 09:23:43.222 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 09:23:43.222 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:23:43.359 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:23:43.454 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:23:48.599 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 09:23:50.148 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 09:23:50.148 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:23:50.257 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:23:50.349 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:23:50.434 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 09:23:51.981 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 09:23:51.981 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:23:52.091 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:23:52.187 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:23:52.268 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:23:52.319 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:23:52.372 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:24:59.787 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:24:59.789 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:24:59.914 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:25:00.009 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:25:00.095 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:25:00.146 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:25:00.225 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:25:00.542 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-09 09:25:02.133 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:25:02.133 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:25:02.257 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:25:02.355 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:25:02.439 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 09:25:03.913 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:25:03.913 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:25:04.035 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:25:04.133 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:25:04.231 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 09:25:04.323 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 09:25:05.865 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 09:25:05.865 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:25:06.001 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:25:06.093 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:25:11.264 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 09:25:12.749 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 09:25:12.749 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:25:12.861 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:25:12.957 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:25:13.043 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 09:25:14.629 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 09:25:14.629 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:25:14.744 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:25:14.837 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:25:14.919 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:25:14.976 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:25:15.031 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:29:23.860 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:29:23.863 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:29:23.998 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:29:24.093 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:29:24.176 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:31:52.366 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:31:54.078 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:31:54.078 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:31:54.199 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:31:54.297 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:31:54.382 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 09:31:56.031 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:31:56.031 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:32:14.922 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:32:14.924 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:32:15.054 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:32:15.192 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:32:15.274 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:32:15.329 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:32:15.383 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:32:15.678 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-09 09:32:17.595 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:32:17.597 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:32:17.713 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:32:17.811 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:32:17.914 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 09:32:19.687 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:32:19.687 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:32:19.808 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:32:19.906 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:32:20.004 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 09:32:20.094 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 09:32:21.934 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 09:32:21.934 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:32:22.070 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:32:22.167 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:32:27.315 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 09:32:29.088 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 09:32:29.088 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:32:29.199 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:32:29.297 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:32:29.380 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 09:32:31.220 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 09:32:31.220 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:32:31.333 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:32:31.431 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:32:31.514 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:32:31.566 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:32:31.620 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:33:37.007 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:33:37.010 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:33:37.141 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:33:37.237 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:33:37.340 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:33:37.406 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:33:37.465 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:33:37.759 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-09 09:33:46.215 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:33:46.217 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:33:46.361 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:33:46.491 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:33:46.593 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:33:46.663 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:33:46.731 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:33:47.053 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-09 09:34:27.061 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:34:27.063 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:34:27.194 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:34:27.292 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:34:27.376 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:34:27.429 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:34:27.486 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:34:27.787 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-09 09:34:29.525 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:34:29.526 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:34:29.648 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:34:29.745 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:34:29.829 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 09:34:31.445 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:34:31.445 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:34:31.568 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:34:31.667 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:34:31.765 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 09:34:31.864 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 09:34:33.407 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 09:34:33.407 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:34:33.543 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:34:33.640 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:35:08.898 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:35:08.901 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:35:09.033 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:35:09.127 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:35:09.223 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:35:14.775 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:36:45.613 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:36:45.615 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:36:45.752 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:36:45.864 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:36:45.949 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:36:49.834 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:36:52.491 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:37:33.369 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:37:33.372 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:37:33.530 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:37:33.671 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:37:33.756 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:37:37.137 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:37:46.462 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:37:51.091 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-09 09:38:52.212 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:38:52.215 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:38:52.376 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:38:52.479 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:38:52.562 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:38:59.625 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:39:13.896 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:39:18.538 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-09 09:39:35.873 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:39:35.876 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:39:36.003 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:39:36.096 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:39:36.184 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:39:36.239 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:39:36.334 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:39:36.620 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su continue e finish
+2024-05-09 09:39:38.236 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:39:38.236 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:39:38.354 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:39:38.451 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:39:38.535 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 09:39:40.005 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:39:40.005 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:39:40.125 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:39:40.220 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:39:40.319 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 09:39:40.409 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 09:39:41.932 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 09:39:41.932 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:39:42.046 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:39:42.125 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:39:47.274 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 09:39:48.736 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 09:39:48.736 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:39:48.848 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:39:48.946 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:39:49.029 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 09:39:50.594 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 09:39:50.594 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:39:50.706 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:39:50.803 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:39:50.885 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:39:50.938 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:39:50.993 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 09:43:31.499 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:43:31.504 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:43:31.648 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:43:31.752 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:43:31.840 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:43:31.904 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:43:32.006 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento nel carello è stato trovato
+2024-05-09 09:43:32.006 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo dell'elemento nel carello corrisponde
+2024-05-09 09:43:33.747 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:43:33.747 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:43:33.881 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:43:34.011 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:43:34.095 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 09:43:35.748 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:43:35.748 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:43:35.864 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:43:35.961 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:43:36.060 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 09:43:36.149 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 09:43:49.696 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:43:49.697 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:43:49.871 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:43:49.972 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:43:50.057 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:43:50.111 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:43:50.210 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento nel carello è stato trovato
+2024-05-09 09:43:50.210 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo dell'elemento nel carello corrisponde
+2024-05-09 09:43:51.873 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:43:51.873 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:43:51.993 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:48:45.536 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:48:45.538 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:48:45.712 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:48:45.806 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:48:45.890 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:48:45.957 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:48:46.076 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento nel carello è stato trovato
+2024-05-09 09:48:46.076 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo dell'elemento nel carello corrisponde
+2024-05-09 09:48:47.776 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:48:47.776 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:48:47.900 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:48:47.996 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:48:48.086 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 09:48:49.655 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:48:49.655 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:48:49.776 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:48:49.879 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:48:49.982 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 09:48:50.071 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 09:48:51.706 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 09:48:51.706 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:48:51.850 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:48:51.944 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:48:57.106 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 09:48:58.741 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 09:48:58.741 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:48:58.855 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:49:08.912 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:49:12.964 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 09:50:24.190 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:50:24.193 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:50:24.326 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:50:24.436 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:50:24.519 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:50:24.571 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:50:24.669 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento nel carello è stato trovato
+2024-05-09 09:50:24.669 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo dell'elemento nel carello corrisponde
+2024-05-09 09:50:26.394 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:50:26.395 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:50:26.516 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:50:26.613 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:50:26.700 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 09:50:28.405 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:50:28.405 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:50:28.522 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:50:28.621 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:50:28.723 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 09:50:28.815 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 09:50:30.438 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 09:50:30.438 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:50:30.573 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:50:30.668 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:50:35.817 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 09:50:37.489 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 09:50:37.489 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:50:37.600 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:50:38.907 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:50:40.347 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 09:50:48.524 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento non è stato rimosso dal carrello.
+2024-05-09 09:51:21.750 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 09:51:21.753 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:51:21.908 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:51:22.026 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:51:22.118 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:51:22.170 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:51:22.268 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento nel carello è stato trovato
+2024-05-09 09:51:22.268 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo dell'elemento nel carello corrisponde
+2024-05-09 09:51:23.896 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:51:23.896 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:51:24.013 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:51:24.108 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:51:24.194 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 09:51:25.818 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 09:51:25.818 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:51:25.932 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:51:26.026 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:51:26.128 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 09:51:26.211 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 09:51:27.849 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 09:51:27.849 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:51:27.977 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:51:28.100 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:51:33.259 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 09:51:34.919 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 09:51:34.919 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:51:35.030 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:51:35.123 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:51:35.203 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 09:51:35.269 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento non è stato rimosso dal carrello.
+2024-05-09 09:51:36.827 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 09:51:36.827 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 09:51:36.940 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 09:51:37.035 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 09:51:37.114 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 09:51:37.168 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 09:51:37.221 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 10:02:05.573 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 10:02:05.575 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 10:02:05.692 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 10:02:05.770 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 10:02:05.861 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 10:02:05.915 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 10:02:05.978 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 10:02:06.051 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 10:02:06.111 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-09 10:03:14.558 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 10:03:14.561 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 10:03:14.691 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 10:03:14.824 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 10:03:14.919 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 10:03:14.974 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 10:03:15.035 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 10:03:15.092 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 10:03:15.159 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-09 10:03:15.234 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - L'elemento è stato aggiunto correttamente al carrello.
+2024-05-09 10:09:24.612 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 10:09:24.614 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 10:09:24.741 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 10:09:24.837 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 10:09:24.955 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 10:10:02.302 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 10:10:02.306 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 10:10:02.444 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 10:10:02.558 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 10:10:02.656 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 10:10:02.712 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 10:10:02.770 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 10:10:02.836 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 10:11:42.587 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 10:11:42.590 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 10:11:42.717 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 10:11:42.826 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 10:11:42.999 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 10:11:43.069 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 10:11:43.132 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 10:11:43.190 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 10:11:43.272 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-09 10:12:55.915 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 10:12:55.919 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 10:12:56.077 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 10:12:56.190 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 10:12:56.278 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 10:12:56.334 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 10:12:56.392 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 10:12:56.460 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 10:12:56.527 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-09 10:12:56.605 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - GLi elementi sono stati inseriti correttamente al carrello.
+2024-05-09 10:14:56.805 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 10:14:56.808 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 10:14:56.936 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 10:14:57.031 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 10:14:57.126 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 10:14:57.181 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 10:14:57.237 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 10:14:57.298 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 10:14:57.355 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-09 10:14:57.428 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - L'elementi sono stati inseriti correttamente al carrello.
+2024-05-09 10:14:57.444 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - L'elementi sono stati inseriti correttamente al carrello.
+2024-05-09 10:16:17.838 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 10:16:17.842 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 10:16:17.976 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 10:16:18.073 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 10:16:18.176 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 10:16:18.240 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 10:16:18.302 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 10:16:18.366 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 10:16:18.429 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-09 10:16:18.509 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - sauce-labs-bike-light è inserito correttamente al carrello.
+2024-05-09 10:16:18.529 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - test.allthethings()-t-shirt-(red) è inserito correttamente al carrello.
+2024-05-09 10:16:18.536 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 10:16:18.882 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - I campi sono stati compilati correttamente.
+2024-05-09 10:51:56.426 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 10:51:56.429 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 10:51:56.560 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 10:51:56.664 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 10:51:56.743 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 10:51:56.799 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 10:51:56.898 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento nel carello è stato trovato
+2024-05-09 10:51:56.899 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo dell'elemento nel carello corrisponde
+2024-05-09 10:51:58.618 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 10:51:58.619 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 10:51:58.739 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 10:51:58.837 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 10:51:58.919 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 10:52:00.533 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 10:52:00.533 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 10:52:00.653 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 10:52:00.756 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 10:52:00.861 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 10:52:00.957 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 10:52:02.566 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 10:52:02.567 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 10:52:02.703 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 10:52:02.801 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 10:52:07.945 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 10:52:09.549 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 10:52:09.549 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 10:52:09.663 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 10:52:09.758 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 10:52:09.842 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 10:52:09.910 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento non è stato rimosso dal carrello.
+2024-05-09 10:52:11.547 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 10:52:11.547 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 10:52:11.662 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 10:52:11.758 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 10:52:11.838 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 10:52:11.891 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 10:52:11.948 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 10:52:12.200 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo inserito corrisponde a quello atteso.
+2024-05-09 11:51:42.835 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 11:51:42.837 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:51:42.970 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:51:43.068 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:51:43.149 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 11:51:43.204 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 11:51:44.803 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 11:51:44.803 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:51:44.929 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:51:45.025 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:51:45.112 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 11:51:46.630 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 11:51:46.631 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:51:46.749 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:51:46.845 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:51:48.462 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 11:51:48.462 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:51:48.603 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:51:48.698 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:51:53.844 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 11:51:55.392 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 11:51:55.392 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:51:55.505 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:51:55.603 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:51:55.685 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 11:51:55.752 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento non è stato rimosso dal carrello.
+2024-05-09 11:51:57.338 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 11:51:57.338 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:51:57.453 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:51:57.548 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:51:57.628 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 11:51:57.682 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 11:51:57.734 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 11:51:57.972 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo inserito corrisponde a quello atteso.
+2024-05-09 11:52:39.439 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 11:52:39.442 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:52:39.584 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:52:39.705 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:52:39.792 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 11:52:56.092 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 11:53:54.206 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 11:53:54.209 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:53:54.324 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:53:54.410 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:53:54.517 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 11:53:54.572 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 11:53:56.186 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 11:53:56.186 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:53:56.310 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:53:56.407 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:53:56.488 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 11:53:58.126 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 11:53:58.126 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:53:58.241 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:53:58.335 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:54:00.029 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 11:54:00.029 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:54:00.170 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:54:00.263 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:54:05.434 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 11:54:07.025 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 11:54:07.025 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:54:07.140 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:54:07.242 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:54:07.324 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 11:54:07.413 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento non è stato rimosso dal carrello.
+2024-05-09 11:54:09.054 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 11:54:09.054 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:54:09.168 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:54:09.266 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:54:09.377 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 11:54:09.441 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 11:54:09.505 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 11:54:09.764 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo inserito corrisponde a quello atteso.
+2024-05-09 11:54:45.853 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 11:54:45.856 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:54:45.997 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:54:46.099 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:54:46.192 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 11:54:52.944 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 11:55:22.420 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 11:55:22.423 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:55:22.558 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:55:22.677 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:55:22.762 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 11:56:17.502 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 11:56:17.504 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:56:17.632 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:56:17.727 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:56:17.815 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 11:56:17.875 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 11:56:17.982 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento nel carello è stato trovato
+2024-05-09 11:56:17.982 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo dell'elemento nel carello corrisponde
+2024-05-09 11:56:19.975 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 11:56:19.975 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:56:20.104 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:56:20.201 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:56:20.292 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 11:56:22.257 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 11:56:22.257 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:56:22.368 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:56:22.450 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:56:22.557 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 11:56:22.650 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 11:56:24.251 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 11:56:24.251 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:56:24.389 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:56:24.489 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:56:29.635 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 11:56:31.246 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 11:56:31.246 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:56:31.376 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:56:31.514 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:56:31.635 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 11:56:31.718 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento non è stato rimosso dal carrello.
+2024-05-09 11:56:33.305 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 11:56:33.305 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 11:56:33.425 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 11:56:33.524 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 11:56:33.605 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 11:56:33.671 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 11:56:33.734 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 11:56:34.013 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo inserito corrisponde a quello atteso.
+2024-05-09 12:05:35.959 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 12:05:35.961 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:05:36.117 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:05:36.216 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:05:36.292 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 12:05:36.356 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 12:05:36.484 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento nel carello è stato trovato
+2024-05-09 12:05:36.484 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo dell'elemento nel carello corrisponde
+2024-05-09 12:05:38.234 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 12:05:38.234 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:05:38.364 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:05:38.462 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:05:38.555 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 12:05:40.180 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 12:05:40.180 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:05:40.307 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:05:40.412 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:05:40.512 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 12:05:40.606 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 12:05:42.258 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 12:05:42.258 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:05:42.397 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:05:42.494 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:05:47.643 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 12:05:49.297 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 12:05:49.297 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:05:49.417 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:05:49.519 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:05:49.606 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 12:05:49.696 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento non è stato rimosso dal carrello.
+2024-05-09 12:05:51.269 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 12:05:51.269 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:05:51.385 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:05:51.484 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:05:51.570 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 12:05:51.626 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 12:05:51.682 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 12:05:51.925 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo inserito corrisponde a quello atteso.
+2024-05-09 12:19:24.533 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 12:19:24.535 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:19:24.663 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:19:24.758 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:19:24.835 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 12:19:24.888 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 12:19:24.993 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento nel carello è stato trovato
+2024-05-09 12:19:24.993 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo dell'elemento nel carello corrisponde
+2024-05-09 12:19:26.697 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 12:19:26.698 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:19:26.827 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:19:26.925 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:19:27.005 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 12:19:28.621 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 12:19:28.621 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:19:28.739 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:19:28.839 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:19:28.935 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 12:19:29.023 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 12:19:30.673 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 12:19:30.673 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:19:30.815 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:19:30.911 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:19:36.066 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 12:19:37.725 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 12:19:37.726 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:19:37.841 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:19:37.938 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:19:38.025 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 12:19:38.098 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento non è stato rimosso dal carrello.
+2024-05-09 12:19:39.742 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 12:19:39.742 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 12:19:39.854 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 12:19:39.949 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 12:19:40.030 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 12:19:40.086 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 12:19:40.140 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 12:19:40.378 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo inserito corrisponde a quello atteso.
+2024-05-09 12:48:27.689 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 12:48:27.691 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 12:48:27.842 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 12:48:27.959 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 12:48:28.047 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 12:48:28.104 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 12:48:28.164 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 12:48:28.230 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 12:48:28.272 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 12:51:14.095 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 12:51:14.097 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 12:51:14.227 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 12:51:14.321 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 12:51:14.416 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 12:51:14.476 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 12:51:14.541 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 12:51:14.599 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 12:51:14.665 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-09 12:51:14.694 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 12:52:15.531 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 12:52:15.533 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 12:52:15.678 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 12:52:15.778 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 12:52:15.875 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 12:52:15.937 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 12:52:15.998 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 12:52:16.069 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 12:52:16.121 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-09 12:52:16.191 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - sauce-labs-bike-light è inserito correttamente al carrello.
+2024-05-09 12:52:16.209 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - test.allthethings()-t-shirt-(red) è inserito correttamente al carrello.
+2024-05-09 12:52:16.217 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 12:52:16.618 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - I campi sono stati compilati correttamente.
+2024-05-09 12:56:05.155 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 12:56:05.157 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 12:56:05.286 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 12:56:05.384 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 12:56:05.488 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 12:56:05.551 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 12:56:05.610 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 12:56:05.674 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 12:56:05.735 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-09 12:56:05.805 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - sauce-labs-bike-light è inserito correttamente al carrello.
+2024-05-09 12:56:05.822 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - test.allthethings()-t-shirt-(red) è inserito correttamente al carrello.
+2024-05-09 12:56:05.830 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 12:56:06.183 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - I campi sono stati compilati correttamente.
+2024-05-09 13:36:11.304 [main] INFO  it.smartpaper.selenium.AssertionTest - Login effettuato con successo.
+2024-05-09 14:20:06.640 [main] INFO  it.smartpaper.selenium.AssertionTest - Dati Login inseriti correttamente.
+2024-05-09 14:20:06.846 [main] INFO  it.smartpaper.selenium.AssertionTest - Effettuato il login.
+2024-05-09 14:20:59.446 [main] INFO  it.smartpaper.selenium.AssertionTest - Dati Login inseriti correttamente.
+2024-05-09 14:20:59.665 [main] INFO  it.smartpaper.selenium.AssertionTest - Effettuato il login.
+2024-05-09 14:20:59.702 [main] INFO  it.smartpaper.selenium.AssertionTest - L'utente è loggato correttamente.
+2024-05-09 14:20:59.715 [main] INFO  it.smartpaper.selenium.AssertionTest - Login effettuato con successo.
+2024-05-09 14:31:56.312 [main] INFO  it.smartpaper.selenium.AssertionTest - Trova gli elementi della pagina di login
+2024-05-09 14:31:56.314 [main] INFO  it.smartpaper.selenium.AssertionTest - Inserisco i Dati Utente
+2024-05-09 14:31:56.594 [main] INFO  it.smartpaper.selenium.AssertionTest - Dati Login inseriti correttamente.
+2024-05-09 14:31:56.652 [main] INFO  it.smartpaper.selenium.AssertionTest - Effettuato il login.
+2024-05-09 14:31:56.676 [main] INFO  it.smartpaper.selenium.AssertionTest - L'utente è loggato correttamente.
+2024-05-09 14:31:56.693 [main] INFO  it.smartpaper.selenium.AssertionTest - Login effettuato con successo.
+2024-05-09 14:32:02.122 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - effettuoAccessoTest()
+2024-05-09 14:32:02.124 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco UserName
+2024-05-09 14:32:02.256 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Inserisco Password
+2024-05-09 14:32:02.352 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Login
+2024-05-09 14:32:02.445 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click su Add to cart
+2024-05-09 14:32:02.502 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul carello
+2024-05-09 14:32:02.568 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Faccio il click sul continua shopping
+2024-05-09 14:32:02.636 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Esegue uno scrollWeb ed inserisce il nuovo elemento
+2024-05-09 14:32:02.691 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Ritorna sul carello
+2024-05-09 14:32:02.764 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - sauce-labs-bike-light è inserito correttamente al carrello.
+2024-05-09 14:32:02.780 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - test.allthethings()-t-shirt-(red) è inserito correttamente al carrello.
+2024-05-09 14:32:02.788 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 14:32:03.120 [main] INFO  it.smartpaper.selenium.EffettuaAcquistiTest - I campi sono stati compilati correttamente.
+2024-05-09 14:32:25.307 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio standardUserTest
+2024-05-09 14:32:25.311 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 14:32:25.452 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 14:32:25.553 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 14:32:25.647 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 14:32:25.716 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 14:32:25.826 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento nel carello è stato trovato
+2024-05-09 14:32:25.827 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo dell'elemento nel carello corrisponde
+2024-05-09 14:32:27.424 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 14:32:27.424 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 14:32:27.548 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 14:32:27.646 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 14:32:27.728 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-09 14:32:29.312 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio lockedOutUserTest
+2024-05-09 14:32:29.312 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 14:32:29.431 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 14:32:29.528 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 14:32:29.643 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-09 14:32:29.743 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo prima e dopo il clic sul prodotto non corrisponde.
+2024-05-09 14:32:31.454 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio performance_glitch_user
+2024-05-09 14:32:31.454 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 14:32:31.589 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 14:32:31.684 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 14:32:36.843 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Elemento carello trovato correttamente.
+2024-05-09 14:32:38.465 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio error_user
+2024-05-09 14:32:38.465 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 14:32:38.575 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 14:32:38.670 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 14:32:38.752 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-09 14:32:38.826 [main] INFO  it.smartpaper.selenium.VerificaUserTest - L'elemento non è stato rimosso dal carrello.
+2024-05-09 14:32:40.417 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Avvio visual_userTest
+2024-05-09 14:32:40.417 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco UserName
+2024-05-09 14:32:40.535 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Inserisco Password
+2024-05-09 14:32:40.628 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Login
+2024-05-09 14:32:40.709 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click su Add to cart
+2024-05-09 14:32:40.768 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Faccio il click sul carello
+2024-05-09 14:32:40.825 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-09 14:32:41.063 [main] INFO  it.smartpaper.selenium.VerificaUserTest - Il testo inserito corrisponde a quello atteso.

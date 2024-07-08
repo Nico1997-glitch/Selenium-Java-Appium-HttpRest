@@ -1,0 +1,172 @@
+2024-05-29 17:20:10.449 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-29 17:21:02.445 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-29 17:23:28.727 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 09:47:19.287 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 09:47:23.969 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:02:15.694 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:02:20.574 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:02:25.636 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:03:41.067 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:03:44.339 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:03:47.301 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:03:47.340 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contenga il testo previsto
+2024-05-30 10:10:38.954 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:10:42.326 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:10:45.310 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:10:45.353 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 10:10:45.407 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verificato che il pulsante Logout sia visualizzato
+2024-05-30 10:26:05.117 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:26:08.400 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:26:10.533 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:26:10.558 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:26:11.621 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:26:11.661 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 10:26:11.714 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il pulsante Logout è visualizzato
+2024-05-30 10:26:11.735 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:26:11.735 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:26:12.156 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:26:12.156 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:28:51.537 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:28:54.818 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:28:57.591 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:28:57.620 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:28:59.388 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:28:59.426 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 10:28:59.477 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il pulsante Logout è visualizzato
+2024-05-30 10:28:59.491 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:28:59.491 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:29:00.004 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:29:00.004 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:29:00.288 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il messaggio di errore è stato visualizzato correttamente.
+2024-05-30 10:33:35.090 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:33:38.359 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:33:40.683 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:33:40.711 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:33:42.177 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:33:42.220 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 10:33:42.272 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il pulsante Logout è visualizzato
+2024-05-30 10:33:43.113 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:33:47.927 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:33:49.881 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:33:49.882 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:33:50.197 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il messaggio di errore è stato visualizzato correttamente.
+2024-05-30 10:33:51.018 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:33:54.160 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:33:56.457 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:33:56.458 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:33:56.798 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il messaggio di errore è stato visualizzato correttamente.
+2024-05-30 10:39:03.779 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:39:07.068 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:39:09.228 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:39:09.257 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:39:10.196 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:39:10.233 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 10:39:10.282 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il pulsante Logout è visualizzato
+2024-05-30 10:39:11.134 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:39:13.505 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:39:15.767 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:39:15.768 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:39:16.072 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - L'username è sbagliata
+2024-05-30 10:39:16.906 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:39:19.280 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:39:21.285 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:39:21.286 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:41:01.672 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:41:04.900 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:41:06.961 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:41:06.984 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:41:07.935 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:41:07.976 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 10:41:08.031 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il pulsante Logout è visualizzato
+2024-05-30 10:41:08.870 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:41:11.260 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:41:16.361 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:41:16.362 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:41:16.672 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - L'errore sarà : Your username is invalid!
+2024-05-30 10:41:17.477 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:41:19.794 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:41:22.864 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:41:22.865 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:41:23.174 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - L'errore sarà : 
+2024-05-30 10:46:27.628 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:46:30.885 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:46:32.865 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:46:32.889 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:46:33.997 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:46:34.033 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 10:46:34.084 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il pulsante Logout è visualizzato
+2024-05-30 10:46:34.925 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:46:37.330 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:46:39.313 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:46:39.314 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:46:39.609 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - L'errore sarà : Your username is invalid!
+2024-05-30 10:46:40.458 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:46:42.786 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:46:44.780 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:46:44.780 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:46:45.071 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - L'errore sarà : Your password is invalid!
+2024-05-30 10:48:51.159 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:48:54.444 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:48:59.891 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:48:59.919 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:49:01.535 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:49:01.571 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 10:49:01.619 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il pulsante Logout è visualizzato
+2024-05-30 10:49:02.490 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:49:04.836 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:49:06.765 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:49:06.766 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:49:07.892 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:49:10.224 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:49:12.099 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:49:12.100 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:50:58.397 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:51:01.694 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:51:03.672 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:51:03.703 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:51:04.804 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 10:51:04.845 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 10:51:04.900 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il pulsante Logout è visualizzato
+2024-05-30 10:51:05.759 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:51:08.154 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:51:10.267 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:51:10.268 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:51:11.410 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 10:51:13.777 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 10:51:15.729 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 10:51:15.730 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 10:51:16.031 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - L'errore sarà : 
+2024-05-30 11:41:44.377 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 11:41:49.290 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 11:41:51.315 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 11:41:51.344 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 11:41:52.912 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 11:41:52.955 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 11:41:53.005 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il pulsante Logout è visualizzato
+2024-05-30 11:41:53.867 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 11:41:56.247 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 11:41:58.275 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 11:41:58.276 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 11:41:58.575 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - L'errore sarà : 
+2024-05-30 11:41:59.400 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 11:42:01.782 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 11:42:04.091 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 11:42:04.092 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 11:42:04.394 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - L'errore sarà : Your password is invalid!
+2024-05-30 11:44:26.577 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 11:44:29.859 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 11:44:32.323 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 11:44:32.346 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 11:44:34.513 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Verifico che la pagina contenga il testo previsto
+2024-05-30 11:44:34.553 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - La pagina contiene il testo previsto
+2024-05-30 11:44:34.606 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Il pulsante Logout è visualizzato
+2024-05-30 11:44:35.450 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 11:44:37.834 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 11:44:40.518 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 11:44:40.519 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 11:44:40.863 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - L'errore sarà : Your username is invalid!
+2024-05-30 11:44:41.676 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Creo un nuovo driver
+2024-05-30 11:44:44.089 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Driver creato correttamente
+2024-05-30 11:44:46.539 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Effettuo il login
+2024-05-30 11:44:46.540 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - Inserisco l'username e password
+2024-05-30 11:44:46.889 [main] INFO  it.smartpaper.PtaImplementationTest.PtaImplementationTest - L'errore sarà : Your password is invalid!

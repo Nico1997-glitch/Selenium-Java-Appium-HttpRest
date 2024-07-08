@@ -1,0 +1,377 @@
+2024-05-30 12:23:57.626 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 12:24:02.368 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 12:24:02.374 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Avvio standardUserTest
+2024-05-30 12:24:06.224 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 12:24:06.255 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 12:25:13.275 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 12:25:17.248 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 12:25:17.252 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Avvio standardUserTest
+2024-05-30 12:25:17.252 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 12:25:17.278 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 12:25:51.418 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 12:25:54.743 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 12:25:54.746 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Avvio standardUserTest
+2024-05-30 12:25:56.438 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 12:25:56.474 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 12:25:57.036 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 12:44:51.025 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 12:44:54.376 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 12:44:54.379 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Avvio standardUserTest
+2024-05-30 12:44:56.407 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 12:44:56.436 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 12:44:57.074 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 12:44:57.149 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 12:44:57.223 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul cartItem
+2024-05-30 12:55:06.209 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 12:55:09.533 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 12:55:09.536 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Avvio standardUserTest
+2024-05-30 12:55:11.364 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 12:55:11.394 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 12:55:11.878 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 12:55:11.952 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 12:55:12.023 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul cartItem
+2024-05-30 12:58:53.584 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 12:58:56.854 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 12:58:56.858 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Avvio standardUserTest
+2024-05-30 12:58:57.547 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 12:58:57.592 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 12:58:57.971 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 12:58:58.074 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 12:58:58.166 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul cartItem
+2024-05-30 12:59:22.621 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 12:59:26.004 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 12:59:31.617 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Avvio standardUserTest
+2024-05-30 12:59:34.062 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 12:59:35.314 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 12:59:38.161 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 12:59:43.821 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 12:59:50.277 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul cartItem
+2024-05-30 13:02:36.409 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 13:02:39.906 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 13:02:49.120 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Avvio standardUserTest
+2024-05-30 13:02:52.587 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 13:02:53.768 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 13:02:55.667 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 13:02:59.083 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 13:03:02.884 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul cartItem
+2024-05-30 13:03:41.416 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 13:03:44.965 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 13:04:00.112 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Avvio standardUserTest
+2024-05-30 13:04:01.994 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 13:04:03.340 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 13:04:05.140 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 13:04:09.246 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 13:04:23.771 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica button result: true
+2024-05-30 13:04:25.978 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Ottengo il testo dell'elemento nel carello
+2024-05-30 13:04:30.419 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Confronto il testo dell'elemento nel carello con una stringa di test specifica
+2024-05-30 14:31:05.300 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 14:31:09.428 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 14:31:11.234 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 14:31:11.269 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 14:31:11.881 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-30 14:34:06.992 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 14:34:11.282 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 14:34:12.284 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 14:34:12.324 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 14:34:12.766 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-30 14:34:12.942 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo primaSauce Labs Backpacke dopo Sauce Labs Fleece Jacketclic sul prodotto non corrisponde.
+2024-05-30 14:34:45.179 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 14:34:48.443 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 14:34:49.206 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login
+2024-05-30 14:34:49.247 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 14:34:49.690 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-30 14:34:49.855 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo prima : {}Sauce Labs Backpacke dopo : {} Sauce Labs Fleece Jacket clic sul prodotto non corrisponde.
+2024-05-30 14:47:56.832 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 14:48:00.114 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 14:48:00.119 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Avvio lockedOutUserTest
+2024-05-30 14:48:00.120 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ___________________________________________
+2024-05-30 14:48:01.626 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: locked_out_user
+2024-05-30 14:48:01.658 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 14:48:02.102 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica il messaggio di errore atteso
+2024-05-30 14:48:02.144 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-30 14:48:59.353 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 14:48:59.358 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 14:49:02.627 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 14:49:03.382 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: locked_out_user
+2024-05-30 14:49:03.426 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 14:49:03.780 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica il messaggio di errore atteso
+2024-05-30 14:49:03.827 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-30 15:05:40.382 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 15:05:40.389 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 15:05:43.758 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 15:05:45.678 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: locked_out_user
+2024-05-30 15:05:45.709 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 15:05:46.227 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica il messaggio di errore atteso
+2024-05-30 15:05:46.264 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-30 15:05:46.277 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 15:05:46.277 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 15:05:46.277 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 15:05:46.542 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: performance_glitch_user
+2024-05-30 15:05:46.542 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 15:07:29.211 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 15:07:29.218 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 15:07:32.487 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 15:07:33.191 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: locked_out_user
+2024-05-30 15:07:33.239 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 15:07:33.584 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica il messaggio di errore atteso
+2024-05-30 15:07:33.629 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-30 15:07:33.649 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 15:07:33.649 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 15:07:33.649 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 15:07:33.747 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: performance_glitch_user
+2024-05-30 15:07:33.749 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 15:07:39.317 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Elemento carello trovato correttamente
+2024-05-30 15:28:12.145 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 15:28:12.151 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 15:28:17.001 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 15:28:18.556 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: performance_glitch_user
+2024-05-30 15:28:18.591 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 15:28:24.325 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Elemento carello trovato correttamente
+2024-05-30 15:28:24.344 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 15:28:24.345 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 15:28:24.345 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 15:28:24.457 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: error_user
+2024-05-30 15:28:24.458 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 15:28:24.742 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-30 15:28:24.892 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - L'elemento non è stato rimosso dal carrello.
+2024-05-30 16:03:14.714 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:03:14.720 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:03:18.023 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:03:19.858 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: standard_user
+2024-05-30 16:03:19.889 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:03:20.416 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:03:20.552 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:03:20.720 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - L'elemento nel carello è stato trovato
+2024-05-30 16:03:20.720 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Ottengo il testo dell'elemento nel carello
+2024-05-30 16:03:20.750 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Confronto il testo dell'elemento nel carello
+2024-05-30 16:03:20.754 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Nel carello c'è : Sauce Labs Bike Light
+2024-05-30 16:03:21.686 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:03:21.686 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:03:24.099 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:03:24.824 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: locked_out_user
+2024-05-30 16:03:24.825 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:03:25.400 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica il messaggio di errore atteso
+2024-05-30 16:03:25.436 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-30 16:03:26.355 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:03:26.355 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:03:28.727 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:03:29.745 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: problem_user
+2024-05-30 16:03:29.746 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:03:30.162 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-30 16:03:31.232 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:03:31.232 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:03:33.602 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:03:34.238 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: performance_glitch_user
+2024-05-30 16:03:34.239 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:03:39.840 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Elemento carello trovato correttamente
+2024-05-30 16:03:40.771 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:03:40.771 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:03:43.075 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:03:43.776 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: error_user
+2024-05-30 16:03:43.776 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:03:44.145 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-30 16:03:44.356 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - L'elemento non è stato rimosso dal carrello.
+2024-05-30 16:03:45.277 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:03:45.277 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:03:47.636 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:03:48.293 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_userTest
+2024-05-30 16:03:48.294 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:03:48.643 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:06:01.097 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:06:01.103 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:06:04.579 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:06:05.421 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: problem_user
+2024-05-30 16:06:05.476 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:06:12.017 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-30 16:08:06.289 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:08:06.296 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:08:09.753 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:08:10.739 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: problem_user
+2024-05-30 16:08:10.790 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:08:16.662 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-30 16:12:06.006 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:12:06.012 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:12:09.520 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:12:11.441 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: problem_user
+2024-05-30 16:12:11.476 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:12:18.259 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-30 16:14:19.202 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:14:19.210 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:14:22.657 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:14:23.499 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: problem_user
+2024-05-30 16:14:23.551 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:14:28.997 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-30 16:14:45.194 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo prima: Sauce Labs Backpacke dopo:  Sauce Labs Fleece Jacket ..il clic sul prodotto non corrisponde.
+2024-05-30 16:15:31.977 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:15:31.983 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:15:35.449 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:15:36.176 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_userTest
+2024-05-30 16:15:36.226 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:16:04.265 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:16:04.273 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:16:07.822 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:16:08.845 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_user
+2024-05-30 16:16:08.897 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:16:11.634 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:16:16.056 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:16:23.739 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-30 16:16:48.313 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo inserito corrisponde a : Pasticcio
+2024-05-30 16:37:46.497 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:37:46.504 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:37:51.653 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:37:53.696 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_user
+2024-05-30 16:37:53.700 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:37:54.288 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:37:54.454 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:37:54.595 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-30 16:38:45.682 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:38:45.689 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:38:49.137 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:38:49.865 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_user
+2024-05-30 16:38:49.869 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:38:50.264 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:38:50.477 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:38:50.652 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-30 16:40:04.138 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:40:04.144 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:40:07.548 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:40:08.276 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_user
+2024-05-30 16:40:08.282 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:40:08.678 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:40:08.870 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:40:09.041 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-30 16:41:02.930 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:41:02.936 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:41:06.082 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:41:06.711 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_user
+2024-05-30 16:41:06.716 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:41:07.096 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:41:07.296 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:41:07.472 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-30 16:42:02.212 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:42:02.217 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:42:05.495 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:42:06.183 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_user
+2024-05-30 16:42:06.231 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:42:06.613 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:42:06.820 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:42:06.978 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-30 16:42:07.281 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Nome inseritoCiccio
+2024-05-30 16:42:07.286 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo inserito corrisponde a : Pasticcio
+2024-05-30 16:42:37.293 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:42:37.300 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:42:40.645 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:42:41.677 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_user
+2024-05-30 16:42:41.723 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:42:42.103 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:42:42.305 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:42:42.493 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-30 16:49:50.010 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:49:50.016 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:49:53.411 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:49:55.268 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_user
+2024-05-30 16:49:55.302 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:49:56.055 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:49:56.202 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:49:56.329 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-30 16:49:56.750 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Nome inserito: CiccioCap: 98909
+2024-05-30 16:49:56.754 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo inserito corrisponde a : Pasticcio
+2024-05-30 16:49:56.838 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il test è andato a buon fine 
+2024-05-30 16:50:42.831 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:50:42.836 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:50:46.126 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:50:46.829 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: standard_user
+2024-05-30 16:50:46.872 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:50:47.641 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:50:47.772 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:50:47.945 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - L'elemento nel carello è stato trovato
+2024-05-30 16:50:47.946 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Ottengo il testo dell'elemento nel carello
+2024-05-30 16:50:47.978 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Confronto il testo dell'elemento nel carello
+2024-05-30 16:50:47.983 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Nel carello c'è : Sauce Labs Bike Light
+2024-05-30 16:50:48.934 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:50:48.934 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:50:51.287 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:50:51.909 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: locked_out_user
+2024-05-30 16:50:51.909 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:50:52.266 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica il messaggio di errore atteso
+2024-05-30 16:50:52.308 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-05-30 16:50:53.189 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:50:53.189 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:50:55.595 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:50:56.215 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: problem_user
+2024-05-30 16:50:56.216 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:50:56.629 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-05-30 16:50:56.882 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo prima: Sauce Labs Backpacke dopo:  Sauce Labs Fleece Jacket ..il clic sul prodotto non corrisponde.
+2024-05-30 16:50:57.795 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:50:57.796 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:51:00.153 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:51:00.831 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: performance_glitch_user
+2024-05-30 16:51:00.832 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:51:06.429 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Elemento carello trovato correttamente
+2024-05-30 16:51:07.352 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:51:07.352 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:51:09.572 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:51:10.208 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: error_user
+2024-05-30 16:51:10.210 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:51:10.576 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettua il primo clic sul pulsante Add to Cart
+2024-05-30 16:51:10.787 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - L'elemento non è stato rimosso dal carrello.
+2024-05-30 16:51:11.715 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - ________________________________________
+2024-05-30 16:51:11.715 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Creo un nuovo driver
+2024-05-30 16:51:14.058 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Driver creato correttamente
+2024-05-30 16:51:14.715 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Effettuo il login per: visual_user
+2024-05-30 16:51:14.715 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Inserisco l'username e password
+2024-05-30 16:51:15.086 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click su Add to cart
+2024-05-30 16:51:15.253 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Faccio il click sul carello
+2024-05-30 16:51:15.409 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-05-30 16:51:15.823 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Nome inserito: Ciccio Cap: 98909
+2024-05-30 16:51:15.823 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il testo inserito corrisponde a : Pasticcio
+2024-05-30 16:51:15.897 [main] INFO  it.smartpaper.ImplementationFour.ImplementationFourTest - Il test è andato a buon fine 
+2024-06-03 16:45:49.474 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - ________________________________________
+2024-06-03 16:45:49.481 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Creo un nuovo driver
+2024-06-03 16:45:55.788 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Driver creato correttamente
+2024-06-03 16:45:55.794 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Effettuo il login per: standard_user
+2024-06-03 16:45:57.612 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Inserisco l'username e password
+2024-06-03 16:45:58.124 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Faccio il click su Add to cart
+2024-06-03 16:45:58.256 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Faccio il click sul carello
+2024-06-03 16:45:58.413 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - L'elemento nel carello è stato trovato
+2024-06-03 16:45:58.413 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Ottengo il testo dell'elemento nel carello
+2024-06-03 16:45:58.442 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Confronto il testo dell'elemento nel carello
+2024-06-03 16:45:58.446 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Nel carello c'è : Sauce Labs Bike Light
+2024-06-03 16:45:59.396 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - ________________________________________
+2024-06-03 16:45:59.396 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Creo un nuovo driver
+2024-06-03 16:46:01.816 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Driver creato correttamente
+2024-06-03 16:46:01.817 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Effettuo il login per: locked_out_user
+2024-06-03 16:46:02.558 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Inserisco l'username e password
+2024-06-03 16:46:03.109 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Verifica il messaggio di errore atteso
+2024-06-03 16:46:03.141 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Il testo sarà : Epic sadface: Sorry, this user has been locked out.
+2024-06-03 16:46:03.983 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - ________________________________________
+2024-06-03 16:46:03.984 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Creo un nuovo driver
+2024-06-03 16:46:06.245 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Driver creato correttamente
+2024-06-03 16:46:06.246 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Effettuo il login per: problem_user
+2024-06-03 16:46:07.356 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Inserisco l'username e password
+2024-06-03 16:46:07.787 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Verifica se il testo prima e dopo il clic sul prodotto è lo stesso
+2024-06-03 16:46:07.996 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Il testo prima: Sauce Labs Backpacke dopo:  Sauce Labs Fleece Jacket ..il clic sul prodotto non corrisponde.
+2024-06-03 16:46:08.911 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - ________________________________________
+2024-06-03 16:46:08.911 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Creo un nuovo driver
+2024-06-03 16:46:11.270 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Driver creato correttamente
+2024-06-03 16:46:11.271 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Effettuo il login per: performance_glitch_user
+2024-06-03 16:46:12.511 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Inserisco l'username e password
+2024-06-03 16:46:18.111 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Elemento carello trovato correttamente
+2024-06-03 16:46:19.092 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - ________________________________________
+2024-06-03 16:46:19.092 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Creo un nuovo driver
+2024-06-03 16:46:21.441 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Driver creato correttamente
+2024-06-03 16:46:21.442 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Effettuo il login per: error_user
+2024-06-03 16:46:22.254 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Inserisco l'username e password
+2024-06-03 16:46:22.617 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Effettua il primo clic sul pulsante Add to Cart
+2024-06-03 16:46:22.807 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - L'elemento non è stato rimosso dal carrello.
+2024-06-03 16:46:23.736 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - ________________________________________
+2024-06-03 16:46:23.737 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Creo un nuovo driver
+2024-06-03 16:46:26.102 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Driver creato correttamente
+2024-06-03 16:46:26.103 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Effettuo il login per: visual_user
+2024-06-03 16:46:26.856 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Inserisco l'username e password
+2024-06-03 16:46:27.279 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Faccio il click su Add to cart
+2024-06-03 16:46:27.456 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Faccio il click sul carello
+2024-06-03 16:46:27.609 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Eseguo il click su Checkout e inserisco datiCliente
+2024-06-03 16:46:28.025 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Nome inserito: Ciccio Cap: 98909
+2024-06-03 16:46:28.026 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Il testo inserito corrisponde a : Pasticcio
+2024-06-03 16:46:28.110 [main] INFO  it.smartpaper.ImplementationFour.UserImplTest - Il test è andato a buon fine 

@@ -1,0 +1,1074 @@
+2024-05-22 10:05:04.317 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:05:07.431 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (b293e9d7-4e91-4bdb-8057-b1612448e2de)] -> xpath: //android.widget.EditText[@content-desc="messageInput"]]
+2024-05-22 10:05:08.654 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 10:07:39.442 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:07:41.995 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (9fd4ce3b-ad23-4179-a2fb-f5377fd8e141)] -> class name: android.widget.EditText]
+2024-05-22 10:07:43.238 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 10:10:24.795 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:17:02.596 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:17:05.655 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (06f7ed75-761b-44f1-b9a6-a2a1c1b5e39b)] -> class name: android.widget.EditText]
+2024-05-22 10:18:24.647 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:18:27.721 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (004def65-e6ac-4b40-bbf9-e219957c2037)] -> class name: android.widget.EditText]
+2024-05-22 10:19:18.800 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:19:21.864 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (d1e52db0-b171-460d-85a9-e23ae1c2aad9)] -> class name: android.widget.EditText]
+2024-05-22 10:19:23.089 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 10:28:13.541 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 10:28:21.968 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:28:24.545 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (97baa0d6-307c-4000-982b-1f578680aa3c)] -> class name: android.widget.EditText]
+2024-05-22 10:28:25.772 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 10:28:51.031 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 10:29:08.515 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:29:11.700 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (e2a40794-356f-4b7e-b5ef-b71c95320f8c)] -> class name: android.widget.EditText]
+2024-05-22 10:29:12.923 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 10:31:43.811 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 10:32:01.001 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:32:03.611 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (19dc5ff4-c3a5-4262-8ee4-6edfccdd1ef9)] -> class name: android.widget.EditText]
+2024-05-22 10:32:04.840 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 10:33:27.916 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 10:33:36.125 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:33:39.204 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (4be83c84-9a02-456c-ad59-ec2eb541747e)] -> class name: android.widget.EditText]
+2024-05-22 10:33:40.440 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 10:38:56.023 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 10:39:04.093 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:39:06.749 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (6987e098-041c-4ab5-9d40-05fc8a83ea71)] -> class name: android.widget.EditText]
+2024-05-22 10:39:07.972 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 10:40:18.136 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 10:40:36.992 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:40:39.557 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (242202d4-cd8c-4079-a866-e699a0382a38)] -> class name: android.widget.EditText]
+2024-05-22 10:40:40.811 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 10:55:41.083 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 10:55:43.550 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-22 10:55:45.224 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-22 10:55:55.496 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 10:55:58.708 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (cc2321cf-6a49-44d4-ad12-1c20b7992e89)] -> class name: android.widget.EditText]
+2024-05-22 10:55:59.957 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 11:00:00.001 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 11:00:02.735 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-22 11:00:03.919 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-22 11:00:04.516 [main] INFO  it.smartpaper.TastCase.AppTest - Aspetto il messaggio di errore
+2024-05-22 11:00:14.496 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 11:00:18.105 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (589245e1-982e-44f5-b4c3-f336f45d3e6b)] -> class name: android.widget.EditText]
+2024-05-22 11:00:19.354 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 11:26:52.624 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 11:26:55.423 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-22 11:26:57.044 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-22 11:27:09.314 [main] INFO  it.smartpaper.TastCase.AppTest - Aspetto il messaggio di errore
+2024-05-22 11:27:57.832 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Invalid login credentials, please try again
+2024-05-22 11:48:33.484 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 11:48:36.152 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-22 11:48:37.278 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-22 11:48:37.873 [main] INFO  it.smartpaper.TastCase.AppTest - Aspetto il messaggio di errore
+2024-05-22 11:48:38.966 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Invalid login credentials, please try again
+2024-05-22 11:48:46.890 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 11:48:49.942 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (89498525-6244-4ce1-8c2a-9a079794d750)] -> class name: android.widget.EditText]
+2024-05-22 11:49:25.924 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 11:49:28.657 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-22 11:49:29.781 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-22 11:50:53.329 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 11:50:55.750 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-22 11:50:57.414 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-22 11:51:12.778 [main] INFO  it.smartpaper.TastCase.AppTest - Aspetto il messaggio di errore
+2024-05-22 11:51:12.918 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Invalid login credentials, please try again
+2024-05-22 11:51:19.980 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 11:51:23.065 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (89e2d79a-fa7e-4053-95db-cd3799eb87f1)] -> class name: android.widget.EditText]
+2024-05-22 11:54:46.703 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 11:54:49.203 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-22 11:54:49.880 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-22 11:54:50.476 [main] INFO  it.smartpaper.TastCase.AppTest - Aspetto il messaggio di errore
+2024-05-22 11:54:51.543 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Invalid login credentials, please try again
+2024-05-22 11:54:58.608 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 11:55:01.733 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (259cc4fd-765d-4d81-b2e7-14e05b7f17f3)] -> class name: android.widget.EditText]
+2024-05-22 11:55:24.568 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 11:57:41.179 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 11:57:43.689 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-22 11:57:44.362 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-22 11:57:44.958 [main] INFO  it.smartpaper.TastCase.AppTest - Aspetto il messaggio di errore
+2024-05-22 11:57:45.998 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Invalid login credentials, please try again
+2024-05-22 11:57:52.833 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 11:57:55.884 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (86253764-780a-4ce7-baf7-73977d2024e4)] -> class name: android.widget.EditText]
+2024-05-22 11:58:19.243 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 11:58:22.237 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (044310ac-8187-4d08-920d-06276e9bc3d7)] -> class name: android.widget.EditText]
+2024-05-22 11:58:45.328 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 11:59:54.362 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 11:59:56.797 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-22 11:59:57.960 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-22 11:59:58.542 [main] INFO  it.smartpaper.TastCase.AppTest - Aspetto il messaggio di errore
+2024-05-22 11:59:59.598 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Invalid login credentials, please try again
+2024-05-22 12:00:06.465 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 12:00:09.066 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (8ff58c5b-0779-4ac0-bf81-443e88effce4)] -> class name: android.widget.EditText]
+2024-05-22 12:00:10.296 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 12:16:15.888 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-22 12:16:18.452 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (7cb094c0-5791-47e9-a6a7-281cb30c013e)] -> class name: android.widget.EditText]
+2024-05-22 12:16:19.687 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-22 12:16:26.769 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:16:36.191 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-22 12:16:38.546 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-22 12:16:40.217 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-22 12:16:40.810 [main] INFO  it.smartpaper.TastCase.AppTest - Aspetto il messaggio di errore
+2024-05-22 12:16:41.875 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Invalid login credentials, please try again
+2024-05-22 12:18:39.318 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:19:40.818 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:20:11.230 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:20:48.379 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:22:23.271 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:29:34.895 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:30:29.873 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:31:48.941 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:35:54.363 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:36:58.949 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 12:38:46.460 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 13:19:28.821 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 13:19:52.399 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 13:21:44.873 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 13:22:35.429 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 13:23:49.663 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 13:23:57.353 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 13:25:20.385 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 13:25:28.139 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 13:25:50.210 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 13:27:13.991 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 13:27:40.555 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 13:27:51.613 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 13:28:31.564 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 13:28:37.143 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 14:06:06.723 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 14:06:58.987 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 14:07:36.037 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 14:07:38.624 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 14:07:40.173 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 14:08:48.098 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 14:08:59.192 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 14:12:13.005 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 14:12:24.973 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 14:12:53.636 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : 
+2024-05-22 14:12:59.031 [main] INFO  it.smartpaper.TastCase.AppTest - Il è stato aggiornato correttamente
+2024-05-22 14:13:51.006 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 14:14:02.435 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 14:14:20.783 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : 
+2024-05-22 14:14:22.559 [main] INFO  it.smartpaper.TastCase.AppTest - Il è stato aggiornato correttamente
+2024-05-22 14:16:56.155 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 14:16:58.607 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 14:17:00.063 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : 
+2024-05-22 14:17:00.067 [main] INFO  it.smartpaper.TastCase.AppTest - Il è stato aggiornato correttamente
+2024-05-22 14:18:27.300 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 14:18:29.839 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 14:18:31.247 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : 
+2024-05-22 14:18:31.251 [main] INFO  it.smartpaper.TastCase.AppTest - Il è stato aggiornato correttamente
+2024-05-22 14:19:26.752 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-22 14:19:29.159 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-22 14:19:30.577 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : 
+2024-05-22 14:19:30.582 [main] INFO  it.smartpaper.TastCase.AppTest - Il è stato aggiornato correttamente
+2024-05-22 14:33:37.294 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su WebView Demo
+2024-05-22 14:43:27.946 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su WebView Demo
+2024-05-22 14:55:05.179 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su WebView Demo
+2024-05-22 14:55:10.147 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-22 14:57:38.344 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su WebView Demo
+2024-05-22 14:57:43.426 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-22 14:57:43.501 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo WebView Demo
+2024-05-22 15:00:53.106 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su WebView Demo
+2024-05-22 15:00:54.787 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco e inserisco l'url
+2024-05-22 15:00:56.734 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Go
+2024-05-22 15:00:58.285 [main] INFO  it.smartpaper.TastCase.AppTest - Verifico il testo
+2024-05-22 15:01:38.214 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su WebView Demo
+2024-05-22 15:01:39.819 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco e inserisco l'url
+2024-05-22 15:01:41.245 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Go
+2024-05-22 15:01:42.794 [main] INFO  it.smartpaper.TastCase.AppTest - Verifico il testo
+2024-05-22 15:01:42.822 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-22 15:01:42.921 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo WebView Demo
+2024-05-22 15:02:15.950 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su WebView Demo
+2024-05-22 15:02:17.522 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco e inserisco l'url
+2024-05-22 15:02:19.457 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Go
+2024-05-22 15:02:21.015 [main] INFO  it.smartpaper.TastCase.AppTest - Verifico il testo
+2024-05-22 15:02:21.039 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-22 15:02:21.121 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo WebView Demo
+2024-05-22 15:07:41.652 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su WebView Demo
+2024-05-22 15:07:43.251 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco e inserisco l'url
+2024-05-22 15:07:44.666 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Go
+2024-05-22 15:07:46.245 [main] INFO  it.smartpaper.TastCase.AppTest - Verifico il testo
+2024-05-22 15:07:46.272 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-22 15:07:46.272 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su OK
+2024-05-22 15:07:46.358 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clear
+2024-05-22 15:38:56.884 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su List Demo
+2024-05-22 16:12:29.476 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-22 16:12:31.644 [main] INFO  it.smartpaper.TastCase.AppTest - Leggi il testo della foto 1
+2024-05-22 16:12:34.079 [main] INFO  it.smartpaper.TastCase.AppTest - Testo nella foto 1: This is a picture of: A long thin cloud below mountain level
+2024-05-22 16:12:34.080 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Ok
+2024-05-22 16:12:34.183 [main] INFO  it.smartpaper.TastCase.AppTest - Leggi il testo della foto 2
+2024-05-22 16:12:35.819 [main] INFO  it.smartpaper.TastCase.AppTest - Testo nella foto 2: This is a picture of: English bay with snowy mountains
+2024-05-22 16:12:35.819 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Ok
+2024-05-22 16:12:35.955 [main] INFO  it.smartpaper.TastCase.AppTest - Leggi il testo della foto 3
+2024-05-22 16:12:37.558 [main] INFO  it.smartpaper.TastCase.AppTest - Testo nella foto 3: This is a picture of: Wispy clouds in a blue sky
+2024-05-22 16:12:37.558 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Ok
+2024-05-22 16:12:37.691 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo su Photo Demo
+2024-05-22 16:12:37.692 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo su Photo Demo
+2024-05-22 16:21:05.971 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-22 16:21:07.725 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su 
+2024-05-23 09:19:37.668 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-23 09:19:39.352 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Only this time
+2024-05-23 09:19:40.986 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo i dati della geolocalizzazione
+2024-05-23 09:21:03.934 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-23 09:21:05.451 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Only this time
+2024-05-23 09:21:06.722 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo i dati della geolocalizzazione
+2024-05-23 09:23:26.488 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-23 09:23:33.528 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Only this time
+2024-05-23 09:23:39.908 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo i dati della geolocalizzazione
+2024-05-23 10:21:47.020 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-23 10:21:48.708 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Only this time
+2024-05-23 10:21:50.106 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo i dati della geolocalizzazione
+2024-05-23 10:21:51.433 [main] INFO  it.smartpaper.TastCase.AppTest - Testo del quarto elemento TextView: Accuracy: 600
+2024-05-23 10:21:59.533 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-23 10:22:01.291 [main] INFO  it.smartpaper.TastCase.AppTest - Leggi il testo della foto 1
+2024-05-23 10:22:03.230 [main] INFO  it.smartpaper.TastCase.AppTest - Testo nella foto 1: This is a picture of: Imposing mountains and West Vancouver
+2024-05-23 10:56:34.875 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 10:57:29.480 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 10:57:49.240 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 10:58:55.103 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 10:59:59.783 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 11:05:16.131 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 11:08:37.497 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 11:19:40.075 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 11:47:20.779 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 11:47:58.619 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 11:48:00.951 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 11:48:02.049 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 11:48:02.178 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul giorno/mese desiderato
+2024-05-23 11:48:02.210 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo giorno/mese selezionato
+2024-05-23 11:48:02.210 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 11:48:02.210 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul giorno desiderato
+2024-05-23 11:48:02.312 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul giorno/mese desiderato
+2024-05-23 11:48:02.341 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo giorno/mese selezionato
+2024-05-23 11:48:02.341 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 11:49:18.054 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 11:49:19.597 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 11:49:20.480 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 11:49:20.579 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul giorno/mese desiderato
+2024-05-23 11:49:20.604 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo giorno/mese selezionato
+2024-05-23 11:49:20.605 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 11:49:20.605 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul giorno desiderato
+2024-05-23 11:49:20.693 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul giorno/mese desiderato
+2024-05-23 11:49:20.722 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo giorno/mese selezionato
+2024-05-23 11:49:20.722 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 12:01:57.767 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:01:59.347 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:02:00.230 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:02:00.230 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:02:00.230 [main] INFO  it.smartpaper.TastCase.AppTest - Waiting for element to be clickable
+2024-05-23 12:02:00.312 [main] INFO  it.smartpaper.TastCase.AppTest - Element is clickable. Performing click.
+2024-05-23 12:02:00.628 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:02:00.628 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 12:02:00.628 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 12:02:00.628 [main] INFO  it.smartpaper.TastCase.AppTest - Click sul box giorno
+2024-05-23 12:02:00.628 [main] INFO  it.smartpaper.TastCase.AppTest - Waiting for element to be clickable
+2024-05-23 12:05:36.939 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:05:45.340 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:05:52.227 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:05:53.092 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:05:53.095 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:05:53.251 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:05:54.177 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:05:54.179 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 12:05:54.183 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 12:12:12.206 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:12:19.954 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:12:23.899 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:12:26.056 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:12:26.058 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:12:26.209 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:12:27.130 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:12:27.132 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 12:15:23.385 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:15:25.013 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:15:25.914 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:15:25.914 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:15:25.914 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:15:26.007 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:15:26.352 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:15:26.352 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 12:15:26.353 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 12:15:26.353 [main] INFO  it.smartpaper.TastCase.AppTest - Click sul box giorno
+2024-05-23 12:15:26.353 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:16:17.428 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:16:24.635 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:16:26.751 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:16:39.955 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:16:39.957 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:16:40.103 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:16:41.099 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:16:41.851 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul mese di : 5
+2024-05-23 12:20:29.149 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:20:30.696 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:20:31.576 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:20:31.577 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:20:31.577 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:20:31.658 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:20:31.953 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:20:31.953 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 12:21:23.881 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:21:28.379 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:21:31.098 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:21:32.392 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:21:32.395 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:21:32.548 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:21:33.536 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:21:33.590 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul mese di: June
+2024-05-23 12:22:58.072 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:23:00.167 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:23:01.178 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:23:01.178 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:23:01.178 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:23:01.269 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:23:01.545 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:23:01.545 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 12:23:56.850 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:23:58.448 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:23:59.348 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:24:46.937 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:24:48.503 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:24:49.363 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:24:49.363 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:24:49.363 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:24:49.451 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:24:49.804 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:24:49.805 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 12:27:37.534 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:27:38.981 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:27:39.946 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:27:39.946 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:27:39.946 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:27:40.037 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:27:40.378 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:27:42.383 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 12:29:55.533 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:29:57.131 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:29:58.045 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:29:58.045 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:29:58.045 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:29:58.137 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:29:59.175 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:29:59.192 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul mese di: June
+2024-05-23 12:32:31.871 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:32:38.143 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:32:40.887 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:32:42.329 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:32:42.332 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:32:42.490 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:32:43.611 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:32:43.658 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul mese di: June
+2024-05-23 12:35:13.133 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:35:14.699 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:35:15.614 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:35:15.614 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:35:15.614 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:35:15.716 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:35:16.737 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:35:16.761 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul mese di: June
+2024-05-23 12:35:17.439 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 12:35:17.440 [main] INFO  it.smartpaper.TastCase.AppTest - Click sul box giorno
+2024-05-23 12:35:17.440 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:35:17.536 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:35:18.585 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il giorno selezionato
+2024-05-23 12:35:18.585 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 12:35:18.586 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-23 12:37:02.484 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:37:04.098 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:37:05.079 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:37:05.080 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:37:05.080 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:37:05.170 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:37:06.121 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:37:06.152 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul mese di: June
+2024-05-23 12:38:35.888 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:38:37.538 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:38:38.445 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:38:38.445 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:38:38.445 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:38:38.535 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:38:39.994 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:38:40.013 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul mese di: June
+2024-05-23 12:41:52.174 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 12:41:53.898 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 12:41:54.796 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 12:41:54.796 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 12:41:54.796 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 12:41:54.894 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 12:41:55.915 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 12:41:55.942 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul mese di: June
+2024-05-23 13:05:31.813 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 13:05:33.567 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 13:05:34.549 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 13:05:34.549 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:06:44.210 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 13:06:45.766 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 13:06:46.680 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 13:06:46.680 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box mese
+2024-05-23 13:06:46.681 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:06:46.778 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:06:47.835 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il mese selezionato
+2024-05-23 13:06:47.856 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul mese di: June
+2024-05-23 13:10:18.538 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 13:10:20.414 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 13:10:21.280 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 13:10:21.281 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 13:10:21.281 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:10:21.391 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:10:22.478 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 13:10:23.220 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : 5
+2024-05-23 13:11:38.478 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 13:11:40.179 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 13:11:41.063 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 13:11:41.064 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 13:11:41.064 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:11:41.161 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:11:42.206 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 13:11:42.949 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : 5
+2024-05-23 13:12:15.905 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 13:12:17.599 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 13:12:18.513 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 13:12:18.513 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 13:12:18.513 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:12:18.623 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:12:19.641 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 13:12:20.365 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 13:18:40.890 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 13:18:42.564 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 13:18:43.432 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 13:18:43.432 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 13:18:43.432 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:18:43.536 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:18:44.554 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 13:18:45.274 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 13:18:45.274 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 13:18:45.274 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 13:18:45.274 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:18:45.374 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:18:46.400 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 13:18:46.400 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 13:20:00.373 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 13:20:02.119 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 13:20:03.030 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 13:20:03.030 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 13:20:03.030 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:20:03.132 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:20:04.138 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 13:20:04.885 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 13:20:09.082 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 13:20:12.351 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 13:20:12.354 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:20:12.540 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:20:13.688 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 13:20:13.690 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 13:22:44.670 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 13:22:46.534 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 13:22:47.447 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 13:22:47.447 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 13:22:47.447 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:22:47.545 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:22:48.610 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 13:22:49.350 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 13:22:49.350 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 13:22:49.350 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 13:22:49.350 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:22:49.454 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:22:50.514 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 13:22:50.515 [main] WARN  it.smartpaper.TastCase.AppTest - Non ci sono abbastanza elementi per cliccare su quello desiderato.
+2024-05-23 13:22:50.515 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-23 13:26:10.334 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 13:26:11.969 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 13:26:12.879 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 13:26:12.880 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 13:26:12.880 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:26:12.979 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:26:13.978 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 13:26:14.699 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 13:26:14.700 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 13:26:14.700 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 13:26:14.700 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 13:26:14.801 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 13:26:15.812 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 13:26:16.549 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Giorno di : 9
+2024-05-23 13:26:16.549 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-23 14:11:32.915 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 14:11:34.617 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 14:11:35.500 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 14:11:35.501 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 14:11:35.501 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:11:35.610 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:11:36.726 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 14:11:37.458 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 14:11:37.459 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 14:11:37.459 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 14:11:37.459 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:11:37.567 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:11:38.647 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 14:11:39.392 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Giorno di : 9
+2024-05-23 14:11:39.393 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-23 14:11:39.393 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:11:39.502 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:11:39.967 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà Pick a date to learn more about it
+2024-05-23 14:12:56.434 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 14:12:58.099 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 14:12:58.998 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 14:12:58.999 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 14:12:58.999 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:12:59.113 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:13:00.781 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 14:13:01.511 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 14:13:01.511 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 14:13:01.511 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 14:13:01.511 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:13:01.618 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:13:02.731 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 14:13:03.451 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Giorno di : 9
+2024-05-23 14:13:03.451 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-23 14:13:07.331 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:13:07.509 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:13:19.819 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : On this day (6/9) in 1957...
+2024-05-23 14:15:24.768 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 14:15:27.353 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 14:15:27.434 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 14:15:27.435 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 14:15:27.435 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:15:27.554 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:15:28.607 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 14:15:29.373 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 14:15:29.373 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 14:15:29.373 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 14:15:29.373 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:15:29.481 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:15:30.582 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 14:15:31.285 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Giorno di : 9
+2024-05-23 14:15:31.286 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-23 14:15:31.286 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:15:31.394 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:16:03.534 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 14:16:05.220 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 14:16:06.119 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 14:16:06.119 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 14:16:06.119 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:16:06.238 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:16:07.289 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 14:16:08.077 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 14:16:08.077 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 14:16:08.077 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 14:16:08.077 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:16:08.178 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:16:09.280 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 14:16:09.977 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Giorno di : 9
+2024-05-23 14:16:09.977 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-23 14:16:09.978 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:16:10.068 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:17:15.387 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 14:17:17.106 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 14:17:18.024 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 14:17:18.025 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 14:17:18.025 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:17:18.190 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:17:19.293 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 14:17:20.034 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 14:17:20.034 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 14:17:20.034 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 14:17:20.034 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:17:20.134 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:17:21.182 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 14:17:21.916 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Giorno di : 9
+2024-05-23 14:17:21.916 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-23 14:17:24.662 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:17:24.835 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:17:35.943 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Indian nationalist Birsa Munda dies of cholera in a British prison.
+2024-05-23 14:22:25.675 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 14:22:28.083 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 14:22:28.983 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 14:22:28.983 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 14:22:28.983 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:22:29.090 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:22:30.136 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 14:22:30.869 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 14:22:30.870 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 14:22:30.870 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 14:22:30.870 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:22:30.974 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:22:32.069 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 14:22:32.794 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Giorno di : 9
+2024-05-23 14:22:32.794 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-23 14:22:32.796 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:22:32.909 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:22:59.262 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-23 14:23:01.667 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-23 14:23:02.568 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-23 14:23:02.568 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-23 14:23:02.570 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:23:02.690 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:23:03.723 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-23 14:23:04.446 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-23 14:23:04.447 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-23 14:23:04.447 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-23 14:23:04.447 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:23:04.545 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-23 14:23:05.646 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-23 14:23:06.373 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Giorno di : 9
+2024-05-23 14:23:06.373 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-23 14:23:06.373 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-23 14:23:06.475 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-24 09:37:40.045 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Photo Demo
+2024-05-24 09:37:43.233 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Only this time
+2024-05-24 09:37:44.919 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Leggo i dati della geolocalizzazione
+2024-05-24 09:37:46.255 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Testo richiesto: Latitude: 37.4220936
+2024-05-24 09:37:54.300 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Echo Box
+2024-05-24 09:37:58.100 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Hai inserito nel campo : Milano
+2024-05-24 09:37:58.856 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-24 09:37:58.857 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo Echo Box
+2024-05-24 09:38:07.050 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Clipboard Demo
+2024-05-24 09:38:09.541 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo attuale sarà : (No clipboard text)
+2024-05-24 09:38:11.639 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo attuale sarà : 
+2024-05-24 09:38:11.645 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il è stato aggiornato correttamente
+2024-05-24 09:38:11.645 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo Clipboard Demo
+2024-05-24 09:38:18.626 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Photo Demo
+2024-05-24 09:38:20.142 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Leggi il testo della foto 1
+2024-05-24 09:38:22.103 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Testo nella foto 1: This is a picture of: Imposing mountains and West Vancouver
+2024-05-24 09:38:30.197 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Login Screen
+2024-05-24 09:38:32.626 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Inserisco i dati per il login
+2024-05-24 09:38:33.833 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Login
+2024-05-24 09:38:34.382 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Aspetto il messaggio di errore
+2024-05-24 09:38:35.553 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo sarà : Invalid login credentials, please try again
+2024-05-24 09:38:35.553 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo Login Screen
+2024-05-24 09:38:43.905 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su WebView Demo
+2024-05-24 09:38:45.531 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco e inserisco l'url
+2024-05-24 09:38:47.464 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Go
+2024-05-24 09:38:49.010 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Verifico il testo
+2024-05-24 09:38:49.047 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-24 09:38:49.047 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su OK
+2024-05-24 09:38:49.131 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Clear
+2024-05-24 09:39:07.611 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Picker Demo
+2024-05-24 09:39:09.183 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Faccio click sul box del mese
+2024-05-24 09:39:10.080 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Faccio operazioni sul mese desiderato
+2024-05-24 09:39:10.163 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Eseguo l'operazione 'Mese' sull'elemento
+2024-05-24 09:39:11.218 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Leggo il Mese selezionato
+2024-05-24 09:39:11.950 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Cliccato sul Mese di : 6
+2024-05-24 09:39:11.952 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Operazioni eseguite sul mese desiderato.
+2024-05-24 09:39:12.032 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Eseguo l'operazione 'Giorno' sull'elemento
+2024-05-24 09:39:12.890 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Leggo il Giorno selezionato
+2024-05-24 09:39:13.615 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Cliccato sul Giorno di : 14
+2024-05-24 09:39:13.615 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Operazioni eseguite sul giorno desiderato.
+2024-05-24 09:57:02.947 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-24 09:57:04.749 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Only this time
+2024-05-24 09:57:06.202 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo i dati della geolocalizzazione
+2024-05-24 09:57:07.566 [main] INFO  it.smartpaper.TastCase.AppTest - Testo richiesto: Latitude: 37.4220936
+2024-05-24 09:57:14.535 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-24 09:57:17.607 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (ce8a5fb2-f54b-4472-bc37-9adbec229b75)] -> class name: android.widget.EditText]
+2024-05-24 09:57:18.841 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-24 09:57:18.842 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo Echo Box
+2024-05-24 09:57:26.755 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-24 09:57:29.345 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-24 09:57:31.237 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : 
+2024-05-24 09:57:31.241 [main] INFO  it.smartpaper.TastCase.AppTest - Il è stato aggiornato correttamente
+2024-05-24 09:57:31.241 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo Clipboard Demo
+2024-05-24 09:57:38.017 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-24 09:57:39.440 [main] INFO  it.smartpaper.TastCase.AppTest - Leggi il testo della foto 1
+2024-05-24 09:57:41.402 [main] INFO  it.smartpaper.TastCase.AppTest - Testo nella foto 1: This is a picture of: Imposing mountains and West Vancouver
+2024-05-24 09:57:48.246 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-24 09:57:50.919 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-24 09:57:52.581 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-24 09:57:53.164 [main] INFO  it.smartpaper.TastCase.AppTest - Aspetto il messaggio di errore
+2024-05-24 09:57:54.212 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Invalid login credentials, please try again
+2024-05-24 09:57:54.213 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo Login Screen
+2024-05-24 09:58:01.141 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su WebView Demo
+2024-05-24 09:58:02.784 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco e inserisco l'url
+2024-05-24 09:58:04.690 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Go
+2024-05-24 09:58:06.167 [main] INFO  it.smartpaper.TastCase.AppTest - Verifico il testo
+2024-05-24 09:58:06.181 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-24 09:58:06.183 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su OK
+2024-05-24 09:58:06.250 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clear
+2024-05-24 09:58:14.610 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-24 09:58:16.316 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-24 09:58:17.299 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-24 09:58:17.300 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-24 09:58:17.300 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-24 09:58:17.388 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-24 09:58:18.398 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-24 09:58:19.089 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-24 09:58:19.089 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-24 09:58:19.089 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-24 09:58:19.089 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-24 09:58:19.172 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-24 09:58:20.063 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-24 09:58:20.770 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Giorno di : 9
+2024-05-24 09:58:20.770 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-24 09:58:20.771 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-24 09:58:20.855 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-24 10:28:29.703 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-24 10:28:31.300 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Only this time
+2024-05-24 10:28:32.584 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo i dati della geolocalizzazione
+2024-05-24 10:28:33.865 [main] INFO  it.smartpaper.TastCase.AppTest - Testo richiesto: Latitude: 37.4220936
+2024-05-24 10:28:40.861 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Echo Box
+2024-05-24 10:28:43.257 [main] INFO  it.smartpaper.TastCase.AppTest - Hai inserito nel campo : [[AndroidDriver:  on ANDROID (4cc46bfc-d506-4fa0-b7bf-e69f929e9d24)] -> class name: android.widget.EditText]
+2024-05-24 10:28:44.496 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-24 10:28:44.496 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo Echo Box
+2024-05-24 10:28:51.289 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clipboard Demo
+2024-05-24 10:28:53.866 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : (No clipboard text)
+2024-05-24 10:28:55.773 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo attuale sarà : 
+2024-05-24 10:28:55.780 [main] INFO  it.smartpaper.TastCase.AppTest - Il è stato aggiornato correttamente
+2024-05-24 10:28:55.782 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo Clipboard Demo
+2024-05-24 10:29:03.160 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Photo Demo
+2024-05-24 10:29:04.840 [main] INFO  it.smartpaper.TastCase.AppTest - Leggi il testo della foto 1
+2024-05-24 10:29:06.788 [main] INFO  it.smartpaper.TastCase.AppTest - Testo nella foto 1: This is a picture of: A long thin cloud below mountain level
+2024-05-24 10:29:13.924 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login Screen
+2024-05-24 10:29:16.694 [main] INFO  it.smartpaper.TastCase.AppTest - Inserisco i dati per il login
+2024-05-24 10:29:17.862 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Login
+2024-05-24 10:29:18.466 [main] INFO  it.smartpaper.TastCase.AppTest - Aspetto il messaggio di errore
+2024-05-24 10:29:19.556 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Invalid login credentials, please try again
+2024-05-24 10:29:19.556 [main] INFO  it.smartpaper.TastCase.AppTest - Concludo Login Screen
+2024-05-24 10:29:26.741 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su WebView Demo
+2024-05-24 10:29:28.350 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco e inserisco l'url
+2024-05-24 10:29:29.823 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Go
+2024-05-24 10:29:31.411 [main] INFO  it.smartpaper.TastCase.AppTest - Verifico il testo
+2024-05-24 10:29:31.430 [main] INFO  it.smartpaper.TastCase.AppTest - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-24 10:29:31.430 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su OK
+2024-05-24 10:29:31.500 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Clear
+2024-05-24 10:29:38.796 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco su Picker Demo
+2024-05-24 10:29:40.804 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio click sul box del mese
+2024-05-24 10:29:41.781 [main] INFO  it.smartpaper.TastCase.AppTest - Faccio operazioni sul mese desiderato
+2024-05-24 10:29:41.782 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Mese
+2024-05-24 10:29:41.782 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-24 10:29:41.861 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-24 10:29:42.851 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Mese selezionato
+2024-05-24 10:29:43.568 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Mese di : June
+2024-05-24 10:29:43.569 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul mese desiderato.
+2024-05-24 10:29:43.569 [main] INFO  it.smartpaper.TastCase.AppTest - Clicco sul box Giorno
+2024-05-24 10:29:43.569 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-24 10:29:43.651 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-24 10:29:44.595 [main] INFO  it.smartpaper.TastCase.AppTest - Leggo il Giorno selezionato
+2024-05-24 10:29:45.287 [main] INFO  it.smartpaper.TastCase.AppTest - Cliccato sul Giorno di : 9
+2024-05-24 10:29:45.287 [main] INFO  it.smartpaper.TastCase.AppTest - Operazioni eseguite sul giorno desiderato.
+2024-05-24 10:29:45.287 [main] INFO  it.smartpaper.TastCase.AppTest - Attendo prima di cliccare
+2024-05-24 10:29:45.372 [main] INFO  it.smartpaper.TastCase.AppTest - L'elemento è cliccabile. Sto eseguendo il click.
+2024-05-24 10:30:37.547 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: username, Password: password
+2024-05-24 10:30:37.550 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: john_doe , Password: password123
+2024-05-24 10:30:37.550 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: jane_smith , Password: qwerty
+2024-05-24 10:30:37.550 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: alice , Password: alice123
+2024-05-24 10:48:49.466 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Photo Demo
+2024-05-24 10:48:51.017 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Only this time
+2024-05-24 10:48:52.400 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Leggo i dati della geolocalizzazione
+2024-05-24 10:48:53.711 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Testo richiesto: Latitude: 37.4220936
+2024-05-24 10:49:01.048 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Echo Box
+2024-05-24 10:49:04.617 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Hai inserito nel campo : Milano
+2024-05-24 10:49:05.372 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-24 10:49:05.374 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo Echo Box
+2024-05-24 10:49:12.646 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Login Screen
+2024-05-24 10:49:15.157 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Inserisco i dati per il login
+2024-05-24 10:49:16.856 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Login
+2024-05-24 10:49:17.466 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Aspetto il messaggio di errore
+2024-05-24 10:49:18.585 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo sarà : Invalid login credentials, please try again
+2024-05-24 10:49:18.586 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo Login Screen
+2024-05-24 10:49:25.756 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su WebView Demo
+2024-05-24 10:49:27.300 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco e inserisco l'url
+2024-05-24 10:49:29.257 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Go
+2024-05-24 10:49:30.844 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Verifico il testo
+2024-05-24 10:49:30.882 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-24 10:49:30.883 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su OK
+2024-05-24 10:49:30.966 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Clear
+2024-05-24 11:17:29.560 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su WebView Demo
+2024-05-24 11:17:31.166 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco e inserisco l'url
+2024-05-24 11:17:32.551 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Go
+2024-05-24 11:17:34.163 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Verifico il testo
+2024-05-24 11:17:42.638 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-24 11:17:44.587 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su OK
+2024-05-24 11:17:49.508 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Clear
+2024-05-24 11:18:09.846 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo WebView Demo
+2024-05-24 11:20:17.878 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su WebView Demo
+2024-05-24 11:20:19.433 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco e inserisco l'url
+2024-05-24 11:20:21.390 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Go
+2024-05-24 11:20:22.978 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Verifico il testo
+2024-05-24 11:20:26.954 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-24 11:20:27.763 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su OK
+2024-05-24 11:20:29.245 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Clear
+2024-05-24 11:20:31.998 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo WebView Demo
+2024-05-24 11:21:43.057 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Photo Demo
+2024-05-24 11:21:44.566 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Only this time
+2024-05-24 11:21:45.968 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Leggo i dati della geolocalizzazione
+2024-05-24 11:21:47.309 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Testo richiesto: Latitude: 37.4220936
+2024-05-24 11:21:55.686 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Echo Box
+2024-05-24 11:21:59.207 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Hai inserito nel campo : Milano
+2024-05-24 11:21:59.992 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo dell'elemento corrisponde a quello atteso.
+2024-05-24 11:21:59.992 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo Echo Box
+2024-05-24 11:22:08.486 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Clipboard Demo
+2024-05-24 11:22:11.102 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo attuale sarà : (No clipboard text)
+2024-05-24 11:22:13.250 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo attuale sarà : 
+2024-05-24 11:22:13.255 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il è stato aggiornato correttamente
+2024-05-24 11:22:13.255 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo Clipboard Demo
+2024-05-24 11:22:21.629 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Login Screen
+2024-05-24 11:22:24.213 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Inserisco i dati per il login
+2024-05-24 11:22:25.352 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Login
+2024-05-24 11:22:25.984 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Aspetto il messaggio di errore
+2024-05-24 11:22:27.112 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo sarà : Invalid login credentials, please try again
+2024-05-24 11:22:27.112 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo Login Screen
+2024-05-24 11:22:35.504 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su WebView Demo
+2024-05-24 11:22:37.135 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco e inserisco l'url
+2024-05-24 11:22:39.101 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Go
+2024-05-24 11:22:40.682 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Verifico il testo
+2024-05-24 11:22:40.725 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo sarà : Sorry, you are not allowed to visit that url
+2024-05-24 11:22:40.726 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su OK
+2024-05-24 11:22:40.834 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Clear
+2024-05-24 11:22:41.504 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo WebView Demo
+2024-05-24 11:22:50.210 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Picker Demo
+2024-05-24 11:22:51.883 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Faccio click sul box del mese
+2024-05-24 11:22:52.800 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Faccio operazioni sul mese desiderato
+2024-05-24 11:22:52.905 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Eseguo l'operazione 'Mese' sull'elemento
+2024-05-24 11:22:53.976 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Leggo il Mese selezionato
+2024-05-24 11:22:54.744 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Cliccato sul Mese di : 6
+2024-05-24 11:22:54.744 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Operazioni eseguite sul mese desiderato.
+2024-05-24 11:22:54.842 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Eseguo l'operazione 'Giorno' sull'elemento
+2024-05-24 11:22:55.819 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Leggo il Giorno selezionato
+2024-05-24 11:22:56.522 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Cliccato sul Giorno di : 14
+2024-05-24 11:22:56.522 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Operazioni eseguite sul giorno desiderato.
+2024-05-24 11:26:32.838 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Picker Demo
+2024-05-24 11:26:34.500 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Faccio click sul box del mese
+2024-05-24 11:26:35.652 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Faccio operazioni sul mese desiderato
+2024-05-24 11:26:35.762 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Eseguo l'operazione 'Mese' sull'elemento
+2024-05-24 11:26:36.754 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Leggo il Mese selezionato
+2024-05-24 11:26:37.518 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Cliccato sul Mese di : 6
+2024-05-24 11:26:37.518 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Operazioni eseguite sul mese desiderato.
+2024-05-24 11:26:37.609 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Eseguo l'operazione 'Giorno' sull'elemento
+2024-05-24 11:26:38.477 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Leggo il Giorno selezionato
+2024-05-24 11:26:39.199 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Cliccato sul Giorno di : 14
+2024-05-24 11:28:10.249 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Clicco su Picker Demo
+2024-05-24 11:28:11.768 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Faccio click sul box del mese
+2024-05-24 11:28:12.685 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Faccio operazioni sul mese desiderato
+2024-05-24 11:28:12.784 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Eseguo l'operazione 'Mese' sull'elemento
+2024-05-24 11:28:13.790 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Leggo il Mese selezionato
+2024-05-24 11:28:14.510 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Cliccato sul Mese di : 6
+2024-05-24 11:28:14.510 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Operazioni eseguite sul mese desiderato.
+2024-05-24 11:28:14.600 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Eseguo l'operazione 'Giorno' sull'elemento
+2024-05-24 11:28:15.420 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Leggo il Giorno selezionato
+2024-05-24 11:28:16.137 [main] INFO  it.smartpaper.PhoneDriverManager.AppiumDriverManager - Cliccato sul Giorno di : 14
+2024-05-24 11:28:18.929 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Operazioni eseguite sul giorno desiderato.
+2024-05-24 11:28:27.576 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Il testo sarà : World War II: Franklin D. Roosevelt and Winston Churchill begin the Casablanca Conference to discuss strategy and study the next phase of the war.
+2024-05-24 11:28:29.636 [main] INFO  it.smartpaper.TastCase.AppTestImplement - Concludo su Picker Demo
+2024-05-24 12:02:26.126 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: username, Password: password
+2024-05-24 12:02:26.131 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: john_doe , Password: password123
+2024-05-24 12:02:26.131 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: jane_smith , Password: qwerty
+2024-05-24 12:02:26.131 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: alice , Password: alice123
+2024-05-24 12:03:16.808 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: username, Password: password
+2024-05-24 12:03:16.811 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: john_doe , Password: password123
+2024-05-24 12:03:16.811 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: jane_smith , Password: qwerty
+2024-05-24 12:03:16.811 [main] INFO  it.smartpaper.ReadOnSvg.ReadSvg - Username: alice , Password: alice123
+2024-05-24 16:08:32.830 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 10:15:51.640 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 10:15:54.608 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 10:15:54.707 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Rimozione del prodotto dai preferiti.
+2024-05-27 10:48:26.999 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 10:48:29.976 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 10:55:29.416 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 10:55:32.244 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 10:55:32.995 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 10:59:16.840 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 10:59:19.775 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 10:59:21.036 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 10:59:25.623 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 10:59:26.260 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 10:59:26.260 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Rimozione del prodotto dai preferiti.
+2024-05-27 11:28:56.053 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 11:28:59.004 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 11:28:59.770 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 11:29:04.436 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 11:29:05.103 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 11:29:05.103 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Rimozione del prodotto dai preferiti.
+2024-05-27 11:29:05.103 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Cliccato sull'icona del carrello.
+2024-05-27 11:29:05.338 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicco sul pulsante 'Rimuovi Prodotto'.
+2024-05-27 11:29:06.321 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul pulsante 'Aggiungi'
+2024-05-27 11:30:37.843 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 11:30:40.802 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 11:30:41.576 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 11:30:46.001 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 11:30:46.720 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 11:30:46.720 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Rimozione del prodotto dai preferiti.
+2024-05-27 11:30:46.720 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Cliccato sull'icona del carrello.
+2024-05-27 11:30:46.968 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicco sul pulsante 'Rimuovi Prodotto'.
+2024-05-27 11:30:47.900 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul pulsante 'Aggiungi'
+2024-05-27 11:30:48.724 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica se l'elemento di rimozione è ancora presente nel carrello
+2024-05-27 11:31:20.062 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 11:31:23.031 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 11:31:23.808 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 11:31:28.370 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 11:31:29.053 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 11:31:29.053 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Rimozione del prodotto dai preferiti.
+2024-05-27 11:31:29.053 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Cliccato sull'icona del carrello.
+2024-05-27 11:31:29.333 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicco sul pulsante 'Rimuovi Prodotto'.
+2024-05-27 11:31:30.253 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul pulsante 'Aggiungi'
+2024-05-27 11:31:31.087 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica se l'elemento di rimozione è ancora presente nel carrello
+2024-05-27 11:31:31.397 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Prodotto eliminato con successo dal carrello.
+2024-05-27 11:46:03.854 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 11:46:03.856 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 11:47:18.084 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 11:47:18.087 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 11:49:11.562 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 11:49:17.732 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 11:53:29.753 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 11:53:29.755 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 11:54:48.996 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 11:54:54.952 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 11:55:52.040 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 11:55:58.481 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 11:58:28.732 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 11:58:35.460 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 11:58:38.428 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 11:58:39.359 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 12:17:47.019 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 12:17:47.021 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 12:17:48.392 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 12:17:49.230 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 12:17:54.021 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 12:17:54.685 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 12:17:54.685 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Cliccato sull'icona del carrello.
+2024-05-27 12:17:55.044 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisco i dati per la spedizione
+2024-05-27 12:20:26.334 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 12:20:26.336 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Click sul  prodotto.
+2024-05-27 12:20:27.705 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 12:20:28.507 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 12:20:33.095 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che il prodotto sia inserito nel carello.
+2024-05-27 12:20:33.824 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'elemento è stato aggiunto correttamente
+2024-05-27 12:20:33.824 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Cliccato sull'icona del carrello.
+2024-05-27 12:20:34.988 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisco i dati per la spedizione
+2024-05-27 12:20:41.156 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifica che tutti i campi siano stati compilati
+2024-05-27 12:54:54.872 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 12:54:56.420 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 12:54:58.013 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 12:54:58.680 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 12:56:55.586 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 12:56:57.157 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 12:56:58.659 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 12:56:59.330 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 12:57:00.829 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login fallito : Sorry, this user has been locked out.
+2024-05-27 12:57:46.801 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 12:57:48.373 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 12:57:49.938 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 12:57:50.603 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 12:57:52.097 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Login avvenuto
+2024-05-27 12:59:43.202 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 12:59:44.751 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 12:59:46.352 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 12:59:47.007 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 13:26:30.582 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 13:26:32.098 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 13:26:33.821 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 13:26:34.589 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:15:46.244 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:15:47.825 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:15:49.487 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:15:50.125 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:16:46.759 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:16:48.341 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:16:49.908 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:16:50.575 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:17:38.376 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:17:39.959 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:17:41.542 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:17:42.206 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:17:43.034 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Risultato corretto : Login è fallito
+2024-05-27 14:19:00.198 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:19:01.722 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:19:03.326 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:19:03.982 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:19:04.909 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Risultato corretto : 
+2024-05-27 14:19:43.028 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:19:44.757 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:19:46.377 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:19:47.037 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:19:47.857 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Risultato corretto : 
+2024-05-27 14:20:38.442 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:20:40.025 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:20:41.623 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:20:42.267 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:21:20.625 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:21:22.206 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:21:23.812 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:21:24.484 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:21:25.877 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Risultato corretto : Sorry, this user has been locked out.
+2024-05-27 14:50:48.728 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:50:50.348 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:50:51.980 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:50:52.662 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:50:53.359 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifico massaggio di errore
+2024-05-27 14:50:54.056 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Risultato corretto : Sorry, this user has been locked out.
+2024-05-27 14:51:21.717 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:51:23.249 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:51:24.841 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:51:25.513 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:51:26.209 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifico massaggio di errore
+2024-05-27 14:52:13.560 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:52:15.140 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:52:16.743 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:52:17.413 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:52:18.139 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifico massaggio di errore
+2024-05-27 14:52:55.832 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:52:57.366 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:52:58.995 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:52:59.648 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:54:50.227 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:54:51.820 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:54:53.420 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:54:54.072 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:58:15.644 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 14:58:17.212 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 14:58:18.883 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 14:58:19.672 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 14:58:21.315 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifico massaggio di errore
+2024-05-27 15:01:25.912 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:01:27.493 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:01:29.153 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:01:29.831 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:01:31.517 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - L'accesso è avvenuto correttamente.
+2024-05-27 15:03:28.144 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:03:29.746 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:03:31.385 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:03:32.247 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:04:38.071 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:04:39.561 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:04:41.226 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:04:41.962 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:10:01.163 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:10:02.695 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:10:04.789 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:10:05.452 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:12:52.948 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:12:54.480 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:12:56.114 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:12:56.801 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:15:26.909 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:15:28.481 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:15:30.054 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:15:30.741 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:15:31.461 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifico messaggio di errore
+2024-05-27 15:16:11.480 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:16:13.023 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:16:14.617 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:16:15.285 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:16:15.989 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Verifico messaggio di errore
+2024-05-27 15:16:16.679 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Risultato corretto : Sorry, this user has been locked out.
+2024-05-27 15:17:25.844 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:17:27.429 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:17:29.028 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:17:29.696 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:20:51.444 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:20:53.004 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:20:54.609 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:20:55.324 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:21:26.796 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:21:28.361 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:21:29.932 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:21:30.605 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:23:50.946 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:23:52.531 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:23:54.133 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:23:54.808 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:24:26.326 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:24:27.897 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:24:29.527 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:24:30.179 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:25:23.910 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:25:25.509 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:25:27.155 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:25:27.809 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso
+2024-05-27 15:28:22.046 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Clicca sull'opzione di accesso nel menu
+2024-05-27 15:28:23.663 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci l'indirizzo email nell'input del campo Username
+2024-05-27 15:28:25.358 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Inserisci la password nell'input del campo Password
+2024-05-27 15:28:26.030 [main] INFO  it.smartpaper.TastCase2.SecondAppTest - Fai clic sul pulsante di accesso

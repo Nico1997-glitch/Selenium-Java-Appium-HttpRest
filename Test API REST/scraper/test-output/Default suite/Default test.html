@@ -1,0 +1,2576 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Jun 07 16:55:17 CEST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>4 seconds (4023 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='it.smartpaper.app.AppTest.submittingForm()'><b>submittingForm</b><br>Test class: it.smartpaper.app.AppTest</td>
+<td><div><pre>======= EXCEPTION START ========
+Exception class=[net.sourceforge.htmlunit.corejs.javascript.EvaluatorException]
+com.gargoylesoftware.htmlunit.ScriptException: missing formal parameter (https://www.w3schools.com/lib/common-deps.js?v=1.0.5#398)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:1001)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:590)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:484)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.callSecured(HtmlUnitContextFactory.java:349)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:830)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:796)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:118)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1153)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:1024)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport.executeScriptIfNeeded(ScriptElementSupport.java:196)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport$1.execute(ScriptElementSupport.java:120)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport.onAllChildrenAddedToPage(ScriptElementSupport.java:143)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:191)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.endElement(HtmlUnitNekoDOMBuilder.java:572)
+	at net.sourceforge.htmlunit.xerces.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:451)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.endElement(HtmlUnitNekoDOMBuilder.java:517)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1242)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1169)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:218)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:310)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3145)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2091)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:918)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:367)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:318)
+	at net.sourceforge.htmlunit.xerces.parsers.XMLParser.parse(XMLParser.java:80)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.parse(HtmlUnitNekoDOMBuilder.java:773)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoHtmlParser.parse(HtmlUnitNekoHtmlParser.java:204)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:299)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:219)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:669)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:571)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:489)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:396)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:534)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:516)
+	at it.smartpaper.app.AppTest.submittingForm(AppTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: net.sourceforge.htmlunit.corejs.javascript.EvaluatorException: missing formal parameter (https://www.w3schools.com/lib/common-deps.js?v=1.0.5#398)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory$HtmlUnitErrorReporter.error(HtmlUnitContextFactory.java:435)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.addError(Parser.java:257)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.reportError(Parser.java:336)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.reportError(Parser.java:332)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mustMatchToken(Parser.java:473)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mustMatchToken(Parser.java:464)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parseFunctionParams(Parser.java:804)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.function(Parser.java:910)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.function(Parser.java:845)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.primaryExpr(Parser.java:3081)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.memberExpr(Parser.java:2711)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.unaryExpr(Parser.java:2614)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.expExpr(Parser.java:2534)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mulExpr(Parser.java:2517)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.addExpr(Parser.java:2503)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.shiftExpr(Parser.java:2486)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.relExpr(Parser.java:2464)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.eqExpr(Parser.java:2440)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitAndExpr(Parser.java:2431)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitXorExpr(Parser.java:2422)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitOrExpr(Parser.java:2413)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.andExpr(Parser.java:2404)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.orExpr(Parser.java:2395)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.condExpr(Parser.java:2362)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.assignExpr(Parser.java:2320)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.assignExpr(Parser.java:2343)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.expr(Parser.java:2303)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.nameOrLabel(Parser.java:2061)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.statementHelper(Parser.java:1240)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.statement(Parser.java:1104)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parse(Parser.java:632)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parse(Parser.java:562)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.parse(Context.java:2549)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileImpl(Context.java:2480)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileString(Context.java:1448)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory$TimeoutContext.compileString(HtmlUnitContextFactory.java:221)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileString(Context.java:1436)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$1.doRun(JavaScriptEngine.java:821)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:984)
+	... 64 more
+Enclosed exception: 
+net.sourceforge.htmlunit.corejs.javascript.EvaluatorException: missing formal parameter (https://www.w3schools.com/lib/common-deps.js?v=1.0.5#398)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory$HtmlUnitErrorReporter.error(HtmlUnitContextFactory.java:435)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.addError(Parser.java:257)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.reportError(Parser.java:336)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.reportError(Parser.java:332)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mustMatchToken(Parser.java:473)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mustMatchToken(Parser.java:464)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parseFunctionParams(Parser.java:804)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.function(Parser.java:910)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.function(Parser.java:845)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.primaryExpr(Parser.java:3081)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.memberExpr(Parser.java:2711)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.unaryExpr(Parser.java:2614)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.expExpr(Parser.java:2534)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mulExpr(Parser.java:2517)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.addExpr(Parser.java:2503)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.shiftExpr(Parser.java:2486)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.relExpr(Parser.java:2464)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.eqExpr(Parser.java:2440)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitAndExpr(Parser.java:2431)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitXorExpr(Parser.java:2422)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitOrExpr(Parser.java:2413)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.andExpr(Parser.java:2404)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.orExpr(Parser.java:2395)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.condExpr(Parser.java:2362)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.assignExpr(Parser.java:2320)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.assignExpr(Parser.java:2343)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.expr(Parser.java:2303)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.nameOrLabel(Parser.java:2061)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.statementHelper(Parser.java:1240)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.statement(Parser.java:1104)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parse(Parser.java:632)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parse(Parser.java:562)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.parse(Context.java:2549)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileImpl(Context.java:2480)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileString(Context.java:1448)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory$TimeoutContext.compileString(HtmlUnitContextFactory.java:221)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileString(Context.java:1436)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$1.doRun(JavaScriptEngine.java:821)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:984)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:590)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:484)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.callSecured(HtmlUnitContextFactory.java:349)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:830)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:796)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:118)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1153)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:1024)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport.executeScriptIfNeeded(ScriptElementSupport.java:196)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport$1.execute(ScriptElementSupport.java:120)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport.onAllChildrenAddedToPage(ScriptElementSupport.java:143)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:191)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.endElement(HtmlUnitNekoDOMBuilder.java:572)
+	at net.sourceforge.htmlunit.xerces.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:451)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.endElement(HtmlUnitNekoDOMBuilder.java:517)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1242)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1169)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:218)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:310)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3145)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2091)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:918)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:367)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:318)
+	at net.sourceforge.htmlunit.xerces.parsers.XMLParser.parse(XMLParser.java:80)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.parse(HtmlUnitNekoDOMBuilder.java:773)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoHtmlParser.parse(HtmlUnitNekoHtmlParser.java:204)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:299)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:219)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:669)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:571)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:489)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:396)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:534)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:516)
+	at it.smartpaper.app.AppTest.submittingForm(AppTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+== CALLING JAVASCRIPT ==
+/*
+  Common dependencies
+  Version: 1.0.5
+*/
+
+/* js-cookie v3.0.0-rc.1 | MIT */
+!function (e, t) { &quot;object&quot; == typeof exports &amp;&amp; &quot;undefined&quot; != typeof module ? module.exports = t() : &quot;function&quot; == typeof define &amp;&amp; define.amd ? define(t) : (e = e || self, function () { var n = e.Cookies, r = e.Cookies = t(); r.noConflict = function () { return e.Cookies = n, r } }()) }(this, function () { &quot;use strict&quot;; function e(e) { for (var t = 1; t &lt; arguments.length; t++) { var n = arguments[t]; for (var r in n) e[r] = n[r] } return e } var t = { read: function (e) { return e.replace(/(%[\dA-F]{2})+/gi, decodeURIComponent) }, write: function (e) { return encodeURIComponent(e).replace(/%(2[346BF]|3[AC-F]|40|5[BDE]|60|7[BCD])/g, decodeURIComponent) } }; return function n(r, o) { function i(t, n, i) { if (&quot;undefined&quot; != typeof document) { &quot;number&quot; == typeof (i = e({}, o, i)).expires &amp;&amp; (i.expires = new Date(Date.now() + 864e5 * i.expires)), i.expires &amp;&amp; (i.expires = i.expires.toUTCString()), t = encodeURIComponent(t).replace(/%(2[346B]|5E|60|7C)/g, decodeURIComponent).replace(/[()]/g, escape), n = r.write(n, t); var c = &quot;&quot;; for (var u in i) i[u] &amp;&amp; (c += &quot;; &quot; + u, !0 !== i[u] &amp;&amp; (c += &quot;=&quot; + i[u].split(&quot;;&quot;)[0])); return document.cookie = t + &quot;=&quot; + n + c } } return Object.create({ set: i, get: function (e) { if (&quot;undefined&quot; != typeof document &amp;&amp; (!arguments.length || e)) { for (var n = document.cookie ? document.cookie.split(&quot;; &quot;) : [], o = {}, i = 0; i &lt; n.length; i++) { var c = n[i].split(&quot;=&quot;), u = c.slice(1).join(&quot;=&quot;); &apos;&quot;&apos; === u[0] &amp;&amp; (u = u.slice(1, -1)); try { var f = t.read(c[0]); if (o[f] = r.read(u, f), e === f) break } catch (e) { } } return e ? o[e] : o } }, remove: function (t, n) { i(t, &quot;&quot;, e({}, n, { expires: -1 })) }, withAttributes: function (t) { return n(this.converter, e({}, this.attributes, t)) }, withConverter: function (t) { return n(e({}, this.converter, t), this.attributes) } }, { attributes: { value: Object.freeze(o) }, converter: { value: Object.freeze(r) } }) }(t, { path: &quot;/&quot; }) });
+
+/* base64.js | https://gist.github.com/chrisveness/e121cffb51481bd1c142 | MIT */
+function Base64Encode(r){if(/([^\u0000-\u00ff])/.test(r))throw Error(&quot;String must be ASCII&quot;);var t,e,n,o,h,a,i=&quot;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=&quot;,f=[],c=&quot;&quot;;if((a=r.length%3)&gt;0)for(;a++&lt;3;)c+=&quot;=&quot;,r+=&quot;\0&quot;;for(a=0;a&lt;r.length;a+=3)e=(t=r.charCodeAt(a)&lt;&lt;16|r.charCodeAt(a+1)&lt;&lt;8|r.charCodeAt(a+2))&gt;&gt;18&amp;63,n=t&gt;&gt;12&amp;63,o=t&gt;&gt;6&amp;63,h=63&amp;t,f[a/3]=i.charAt(e)+i.charAt(n)+i.charAt(o)+i.charAt(h);return r=(r=f.join(&quot;&quot;)).slice(0,r.length-c.length)+c}function Base64Decode(r){if(!/^[a-z0-9+/]+={0,2}$/i.test(r)||r.length%4!=0)throw Error(&quot;Not base64 string&quot;);for(var t,e,n,o,h,a,i=&quot;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=&quot;,f=[],c=0;c&lt;r.length;c+=4)t=(a=i.indexOf(r.charAt(c))&lt;&lt;18|i.indexOf(r.charAt(c+1))&lt;&lt;12|(o=i.indexOf(r.charAt(c+2)))&lt;&lt;6|(h=i.indexOf(r.charAt(c+3))))&gt;&gt;&gt;16&amp;255,e=a&gt;&gt;&gt;8&amp;255,n=255&amp;a,f[c/4]=String.fromCharCode(t,e,n),64==h&amp;&amp;(f[c/4]=String.fromCharCode(t,e)),64==o&amp;&amp;(f[c/4]=String.fromCharCode(t));return r=f.join(&quot;&quot;)};
+
+if (typeof window.atob === &apos;undefined&apos;) {
+  window.atob = Base64Decode;
+}
+
+if (typeof window.btoa === &apos;undefined&apos;) {
+  window.btoa = Base64Encode;
+}
+
+/* cross-browser shim that fully implements element.classList | http://purl.eligrey.com/github/classList.js/blob/master/classList.js | Unlicense */
+&quot;document&quot;in self&amp;&amp;(&quot;classList&quot;in document.createElement(&quot;_&quot;)&amp;&amp;(!document.createElementNS||&quot;classList&quot;in document.createElementNS(&quot;http://www.w3.org/2000/svg&quot;,&quot;g&quot;))||!function(t){&quot;use strict&quot;;if(&quot;Element&quot;in t){var e=&quot;classList&quot;,n=&quot;prototype&quot;,i=t.Element[n],s=Object,r=String[n].trim||function(){return this.replace(/^\s+|\s+$/g,&quot;&quot;)},o=Array[n].indexOf||function(t){for(var e=0,n=this.length;n&gt;e;e++)if(e in this&amp;&amp;this[e]===t)return e;return-1},c=function(t,e){this.name=t,this.code=DOMException[t],this.message=e},a=function(t,e){if(&quot;&quot;===e)throw new c(&quot;SYNTAX_ERR&quot;,&quot;The token must not be empty.&quot;);if(/\s/.test(e))throw new c(&quot;INVALID_CHARACTER_ERR&quot;,&quot;The token must not contain space characters.&quot;);return o.call(t,e)},l=function(t){for(var e=r.call(t.getAttribute(&quot;class&quot;)||&quot;&quot;),n=e?e.split(/\s+/):[],i=0,s=n.length;s&gt;i;i++)this.push(n[i]);this._updateClassName=function(){t.setAttribute(&quot;class&quot;,this.toString())}},u=l[n]=[],h=function(){return new l(this)};if(c[n]=Error[n],u.item=function(t){return this[t]||null},u.contains=function(t){return~a(this,t+&quot;&quot;)},u.add=function(){var t,e=arguments,n=0,i=e.length,s=!1;do t=e[n]+&quot;&quot;,~a(this,t)||(this.push(t),s=!0);while(++n&lt;i);s&amp;&amp;this._updateClassName()},u.remove=function(){var t,e,n=arguments,i=0,s=n.length,r=!1;do for(t=n[i]+&quot;&quot;,e=a(this,t);~e;)this.splice(e,1),r=!0,e=a(this,t);while(++i&lt;s);r&amp;&amp;this._updateClassName()},u.toggle=function(t,e){var n=this.contains(t),i=n?e!==!0&amp;&amp;&quot;remove&quot;:e!==!1&amp;&amp;&quot;add&quot;;return i&amp;&amp;this[i](t),e===!0||e===!1?e:!n},u.replace=function(t,e){var n=a(t+&quot;&quot;);~n&amp;&amp;(this.splice(n,1,e),this._updateClassName())},u.toString=function(){return this.join(&quot; &quot;)},s.defineProperty){var f={get:h,enumerable:!0,configurable:!0};try{s.defineProperty(i,e,f)}catch(p){void 0!==p.number&amp;&amp;-2146823252!==p.number||(f.enumerable=!1,s.defineProperty(i,e,f))}}else s[n].__defineGetter__&amp;&amp;i.__defineGetter__(e,h)}}(self),function(){&quot;use strict&quot;;var t=document.createElement(&quot;_&quot;);if(t.classList.add(&quot;c1&quot;,&quot;c2&quot;),!t.classList.contains(&quot;c2&quot;)){var e=function(t){var e=DOMTokenList.prototype[t];DOMTokenList.prototype[t]=function(t){var n,i=arguments.length;for(n=0;i&gt;n;n++)t=arguments[n],e.call(this,t)}};e(&quot;add&quot;),e(&quot;remove&quot;)}if(t.classList.toggle(&quot;c3&quot;,!1),t.classList.contains(&quot;c3&quot;)){var n=DOMTokenList.prototype.toggle;DOMTokenList.prototype.toggle=function(t,e){return 1 in arguments&amp;&amp;!this.contains(t)==!e?e:n.call(this,t)}}&quot;replace&quot;in document.createElement(&quot;_&quot;).classList||(DOMTokenList.prototype.replace=function(t,e){var n=this.toString().split(&quot; &quot;),i=n.indexOf(t+&quot;&quot;);~i&amp;&amp;(n=n.slice(i),this.remove.apply(this,n),this.add(e),this.add.apply(this,n.slice(1)))}),t=null}());
+
+/* String.prototype.startsWith() polyfill */
+if (!String.prototype.startsWith) {
+  String.prototype.startsWith = function (str, pos) {
+    if (pos) {
+      return this.slice(pos || 0, str.length) === str;
+    } else {
+      return this.indexOf(str) === 0;
+    }
+  };
+}
+
+/* Object.keys() polyfill | https://vanillajstoolkit.com/polyfills/objectkeys/ | MIT */
+if (!Object.keys) {
+  Object.keys = (function () {
+    &apos;use strict&apos;;
+    var hasOwnProperty = Object.prototype.hasOwnProperty,
+      hasDontEnumBug = !({ toString: null }).propertyIsEnumerable(&apos;toString&apos;),
+      dontEnums = [
+        &apos;toString&apos;,
+        &apos;toLocaleString&apos;,
+        &apos;valueOf&apos;,
+        &apos;hasOwnProperty&apos;,
+        &apos;isPrototypeOf&apos;,
+        &apos;propertyIsEnumerable&apos;,
+        &apos;constructor&apos;
+      ],
+      dontEnumsLength = dontEnums.length;
+
+    return function (obj) {
+      if (typeof obj !== &apos;function&apos; &amp;&amp; (typeof obj !== &apos;object&apos; || obj === null)) {
+        throw new TypeError(&apos;Object.keys called on non-object&apos;);
+      }
+
+      var result = [], prop, i;
+
+      for (prop in obj) {
+        if (hasOwnProperty.call(obj, prop)) {
+          result.push(prop);
+        }
+      }
+
+      if (hasDontEnumBug) {
+        for (i = 0; i &lt; dontEnumsLength; i++) {
+          if (hasOwnProperty.call(obj, dontEnums[i])) {
+            result.push(dontEnums[i]);
+          }
+        }
+      }
+      return result;
+    };
+  }());
+}
+
+/*
+  Util
+  Version: 1.0.0
+*/
+
+window.Util = {
+  _debug: {},
+};
+
+Util.getCurrentUts = function () {
+  return Math.floor((new Date()).getTime() / 1000);
+};
+
+Util.getCurrentUtms = function () {
+  return (new Date()).getTime();
+};
+
+Util.getDictSnapshot = function (data, refFallback) {
+  try {
+    return JSON.parse(JSON.stringify(data));
+  } catch (exc) {
+    console.error(exc);
+  }
+
+  if (typeof refFallback === &apos;undefined&apos;) {
+    refFallback = true;
+  }
+
+  return refFallback ? data : {};
+};
+
+Util.isDebugMode = function (context) {
+  if (typeof this._debug[context] !== &apos;undefined&apos;) {
+    return this._debug[context];
+  }
+
+  if (
+    localStorage.getItem(context + &apos;.debug&apos;) === &apos;true&apos;
+    || Cookies.get(context + &apos;.debug&apos;) === &apos;true&apos;
+  ) {
+    this._debug[context] = true;
+  } else {
+    this._debug[context] = false;
+  }
+
+  return this._debug[context];
+};
+
+Util.logDebug = function (context, message, data, logRawData) {
+  if (!Util.isDebugMode(context)) {
+    return;
+  }
+
+  if (typeof logRawData === &apos;undefined&apos;) {
+    logRawData = false;
+  }
+
+  if (typeof data === &apos;undefined&apos;) {
+    console.log(Util.getCurrentUtms().toString() + &apos; &apos; + context + &apos; -&gt; &apos; + message);
+  } else {
+    console.log(Util.getCurrentUtms().toString() + &apos; &apos; + context + &apos; -&gt; &apos; + message, logRawData ? data : Util.getDictSnapshot(data));
+  }
+};
+
+Util.logError = function (context, message, data, logRawData) {
+  if (typeof logRawData === &apos;undefined&apos;) {
+    logRawData = false;
+  }
+
+  if (typeof message !== &apos;string&apos;) { // handy for traceback logs
+    console.error(message);
+
+    return;
+  }
+
+  if (typeof data === &apos;undefined&apos;) {
+    console.error(Util.getCurrentUtms().toString() + &apos; &apos; + context + &apos; -&gt; &apos; + message);
+  } else {
+    console.error(Util.getCurrentUtms().toString() + &apos; &apos; + context + &apos; -&gt; &apos; + message, logRawData ? data : Util.getDictSnapshot(data));
+  }
+};
+
+Util._isDebugMode = function () {
+  return Util.isDebugMode(&apos;Util&apos;);
+};
+
+Util._logDebug = function (message, data, logRawData) {
+  return Util.logDebug(&apos;Util&apos;, message, data, logRawData);
+};
+
+Util._logError = function (message, data, logRawData) {
+  return Util.logError(&apos;Util&apos;, message, data, logRawData);
+};
+
+Util.attachCss = function (params) {
+  var cssId = params.id;
+  var cssPath = params.path;
+  var callback = params.callback;
+
+  if (document.getElementById(cssId)) {
+    return;
+  }
+
+  var cssElm = document.createElement(&apos;link&apos;);
+
+  cssElm.id = cssId;
+  cssElm.rel = &apos;stylesheet&apos;;
+  cssElm.type = &apos;text/css&apos;;
+  cssElm.href = cssPath;
+
+  if (typeof callback === &apos;function&apos;) {
+    cssElm.onload = callback;
+  }
+
+  document.head.appendChild(cssElm);
+};
+
+Util.attachScript = function (params) {
+  var scriptId = params.id;
+  var scriptPath = params.path;
+  var entityName = params.entityName;
+  var callback = params.callback;
+
+  if (document.getElementById(scriptId)) {
+    return;
+  }
+
+  var scriptElm = document.createElement(&apos;script&apos;);
+
+  scriptElm.id = scriptId;
+  scriptElm.type = &apos;text/javascript&apos;;
+  scriptElm.src = scriptPath;
+
+  document.head.appendChild(scriptElm);
+
+  if (
+    typeof entityName !== &apos;undefined&apos;
+    &amp;&amp; typeof callback === &apos;function&apos;
+  ) {
+    Util.objFieldOnSetCallback({
+      scopeRef: window,
+      fieldName: entityName,
+      callback: callback
+    });
+  }
+};
+
+Util.ObjFieldLookupControlState = function () { // state class
+  this.lazyHalt = false; // waits lookup interval to complete
+  this._halt = undefined;
+  this._completed = undefined;
+  this._elapsedTime = undefined; // milliseconds
+};
+
+Util.objFieldOnSetCallback = function (params) {
+  var scopeRef = (typeof params.scopeRef !== &apos;undefined&apos;) ? params.scopeRef : window;
+  var fieldName = params.fieldName;
+  var callback = params.callback;
+
+  var explicitValueEqualsIsSet = false;
+  var explicitValueNotEqualsIsSet = false;
+
+  var explicitValue = undefined;
+
+  if (typeof params.fieldValue !== &apos;undefined&apos;) {
+    explicitValue = params.fieldValue;
+
+    if (typeof params.fieldValueEquals !== &apos;undefined&apos;) {
+      explicitValueEqualsIsSet = params.fieldValueEquals === true;
+    } else {
+      explicitValueEqualsIsSet = true; // defaults to equal check
+    }
+
+    explicitValueNotEqualsIsSet = !explicitValueEqualsIsSet;
+  }
+
+  var lookupControlRef = (typeof params.lookupControlRef !== &apos;undefined&apos;) ? params.lookupControlRef : new Util.ObjFieldLookupControlState();
+  var lookupTimeout = (typeof params.lookupTimeout !== &apos;undefined&apos;) ? params.lookupTimeout : 300; // seconds
+  var lookupIntervalStep = (typeof params.lookupIntervalStep !== &apos;undefined&apos;) ? params.lookupIntervalStep : 5;
+  var debug = (typeof params.debug !== &apos;undefined&apos;) ? params.debug : false;
+
+  var intervalHandler = null;
+
+  lookupControlRef._completed = false;
+  lookupControlRef._elapsedTime = 0;
+
+  lookupControlRef._halt = function () {
+    clearInterval(intervalHandler);
+    if (lookupControlRef._completed) {
+      return;
+    }
+    lookupControlRef._completed = true;
+    callback({
+      error: {
+        code: &apos;OFOSCHLT&apos;,
+        description: &apos;objFieldOnSetCallback halt&apos;,
+        meta: {
+          fieldName: fieldName
+        }
+      },
+      data: scopeRef[fieldName]
+    });
+  };
+
+  var _fieldMeetsConditions = function (scopeRef) {
+    var fieldIsSet = typeof scopeRef[fieldName] !== &apos;undefined&apos;;
+
+    if (explicitValueEqualsIsSet) {
+      return (fieldIsSet &amp;&amp; scopeRef[fieldName] === explicitValue);
+    }
+
+    if (explicitValueNotEqualsIsSet) {
+      return (fieldIsSet &amp;&amp; scopeRef[fieldName] !== explicitValue);
+    }
+
+    return fieldIsSet;
+  }
+
+  if (_fieldMeetsConditions(scopeRef)) {
+    lookupControlRef._completed = true;
+    lookupControlRef._halt = undefined;
+
+    callback({
+      error: {
+        code: &apos;0&apos;
+      },
+      data: scopeRef[fieldName]
+    });
+    return;
+  }
+
+  var lookupTimeoutMs = lookupTimeout * 1000;
+
+  intervalHandler = setInterval(function () {
+    if (debug) {
+      console.log(&apos;lookupControlRef: &apos; + JSON.stringify(lookupControlRef));
+    }
+
+    if (lookupControlRef.lazyHalt) {
+      clearInterval(intervalHandler);
+      lookupControlRef._completed = true;
+      lookupControlRef._halt = undefined;
+      callback({
+        error: {
+          code: &apos;OFOSCLHLT&apos;,
+          description: &apos;objFieldOnSetCallback lazy halt&apos;,
+          meta: {
+            fieldName: fieldName
+          }
+        },
+        data: scopeRef[fieldName]
+      });
+      return;
+    }
+
+    if (_fieldMeetsConditions(scopeRef)) {
+      clearInterval(intervalHandler);
+      lookupControlRef._completed = true;
+      lookupControlRef._halt = undefined;
+      callback({
+        error: {
+          code: &apos;0&apos;
+        },
+        data: scopeRef[fieldName]
+      });
+      return;
+    }
+
+    lookupControlRef._elapsedTime += lookupIntervalStep;
+
+    if (lookupControlRef._elapsedTime &gt;= lookupTimeoutMs) {
+      clearInterval(intervalHandler);
+      lookupControlRef._completed = true;
+      lookupControlRef._halt = undefined;
+      callback({
+        error: {
+          code: &apos;OFOSCTO&apos;,
+          description: &apos;objFieldOnSetCallback timeout&apos;,
+          meta: {
+            fieldName: fieldName,
+            lookupTimeout: lookupTimeout
+          }
+        },
+        data: scopeRef[fieldName]
+      });
+      return;
+    }
+  }, lookupIntervalStep);
+};
+
+Util.getMetaPreparedFromException = function (exc) {
+  Util._logDebug(&apos;getMetaPreparedFromException&apos;);
+
+  if (Util._isDebugMode()) {
+    Util._logError(exc);
+  }
+
+  var output = {
+    code: &apos;2&apos;,
+    description: &apos;Internal error&apos;,
+  };
+
+  // if (exc instanceof Exception) {
+  //   output.code = exc.code;
+  //   output.description = exc.description;
+
+  //   if (typeof exc.meta !== &apos;undefined&apos;) {
+  //     output.meta = exc.meta;
+  //   }
+  // } else
+  if (exc instanceof Error) {
+    output.description = exc.message;
+  } else if (typeof exc === &apos;string&apos;) {
+    output.description = exc;
+  }
+
+  return output;
+};
+
+Util.parseJson = function (
+  jsonStr,
+  requiredFields,
+) {
+  var output = {
+    error: {
+      code: &apos;1&apos;,
+      description: &apos;Failed to parse JSON&apos;
+    },
+    data: {},
+  };
+
+  try {
+    output.data = JSON.parse(jsonStr);
+
+    if (typeof requiredFields !== &apos;undefined&apos;) {
+      for (var i = 0; i &lt; requiredFields.length; i++) {
+        var key = requiredFields[i];
+
+        if (
+          typeof output.data[key] === &apos;undefined&apos;
+        ) {
+          output.error = {
+            code: &apos;FINPID&apos;,
+            description: &apos;Field is not present in data&apos;,
+            meta: {
+              key: key,
+            }
+          };
+
+          return output;
+        }
+      }
+    }
+
+    output.error = { code: &apos;0&apos; };
+  } catch (exc) {
+    output.error = Util.getMetaPreparedFromException(exc);
+  }
+
+  return output;
+};
+
+Util.fetch = function (params) {
+  var context = (typeof params.context !== &apos;undefined&apos;) ? params.context : &apos;Unknown&apos;;
+  var method = (typeof params.method !== &apos;undefined&apos;) ? params.method : &apos;POST&apos;;
+  var url = params.url;
+  var data = params.data;
+  var callback = params.callback;
+  var reqTimeout = (typeof params.reqTimeout !== &apos;undefined&apos;) ? params.reqTimeout : 15000; // milliseconds
+  var headers = (typeof params.headers !== &apos;undefined&apos;) ? params.headers : {};
+  var sendCookies = (typeof params.sendCookies !== &apos;undefined&apos;) ? params.sendCookies : false; // aka withCredentials
+  var withUserSession = (typeof params.withUserSession !== &apos;undefined&apos;) ? params.withUserSession : true; // access token auth header
+  var handleUserSessionRefresh = (typeof params.handleUserSessionRefresh !== &apos;undefined&apos;) ? params.handleUserSessionRefresh : withUserSession;
+  var handleUserSessionRedirection = (typeof params.handleUserSessionRedirection !== &apos;undefined&apos;) ? params.handleUserSessionRedirection : undefined;
+  var retriedAfterUserSessionRefresh = (typeof params.retriedAfterUserSessionRefresh !== &apos;undefined&apos;) ? params.retriedAfterUserSessionRefresh : false;
+  var prepareResponseData = (typeof params.prepareResponseData !== &apos;undefined&apos;) ? params.prepareResponseData : true;
+
+  var xhr = new XMLHttpRequest();
+
+  var reqRes = {
+    error: {
+      code: &apos;0&apos;
+    },
+    context: context,
+    status: 0,
+    contentType: undefined,
+    dataStr: &apos;&apos;,
+    data: null,
+  };
+
+  var submitResponse = function (_reqRes) {
+    Util._logDebug(&apos;fetch -&gt; submitResponse -&gt; init -&gt; reqRes: &apos;, _reqRes);
+
+    if (
+      prepareResponseData
+      &amp;&amp; _reqRes.contentType
+      &amp;&amp; _reqRes.contentType.indexOf(&apos;application/json&apos;) !== -1
+    ) {
+      var parseJsonRes = Util.parseJson(_reqRes.dataStr);
+
+      if (parseJsonRes.error.code !== &apos;0&apos;) {
+        if (_reqRes.error.code === &apos;0&apos;) {
+          _reqRes.error = parseJsonRes.error;
+        }
+
+        _reqRes.data = parseJsonRes.data;
+      } else {
+        if (typeof parseJsonRes.data.error !== &apos;undefined&apos;) {
+          _reqRes.error = parseJsonRes.data.error;
+        }
+
+        if (typeof parseJsonRes.data.data !== &apos;undefined&apos;) {
+          _reqRes.data = parseJsonRes.data.data;
+        } else {
+          _reqRes.data = parseJsonRes.data;
+        }
+      }
+    }
+
+    Util._logDebug(&apos;fetch -&gt; submitResponse -&gt; callback -&gt; reqRes: &apos;, _reqRes);
+
+    callback(_reqRes);
+  };
+
+  var reqTimeout = setTimeout(function () {
+    reqRes.error = {
+      code: &apos;RWTE&apos;,
+      description: &apos;Request wait time exceeded&apos;
+    };
+
+    submitResponse(reqRes);
+  }, reqTimeout);
+
+  xhr.onreadystatechange = function () {
+    if (this.readyState == 4) {
+      clearTimeout(reqTimeout);
+
+      reqRes.status = this.status;
+      reqRes.dataStr = this.responseText;
+      reqRes.contentType = this.getResponseHeader(&apos;Content-Type&apos;);
+
+      if (typeof reqRes.status !== &apos;undefined&apos; &amp;&amp; reqRes.status) {
+        if (reqRes.status == 401) {
+          reqRes.error = {
+            code: &apos;UNAUTHORIZED&apos;,
+            description: &apos;Request unauthorized&apos;
+          };
+        } else if (!(reqRes.status &gt;= 200 &amp;&amp; reqRes.status &lt; 300)) {
+          reqRes.error = {
+            code: &apos;RSC_&apos; + reqRes.status,
+            description: (typeof this.statusText !== &apos;undefined&apos; &amp;&amp; this.statusText) ? this.statusText : &apos;Request failed&apos;
+          };
+        }
+      } else {
+        reqRes.error = {
+          code: &apos;RTWNSC&apos;, // Request terminated with no status code
+          description: &apos;Request failed&apos;
+        };
+      }
+
+      if (
+        withUserSession
+        &amp;&amp; reqRes.error.code === &apos;UNAUTHORIZED&apos;
+        &amp;&amp; !retriedAfterUserSessionRefresh
+      ) {
+        UserSession.changeStatusCodeInUserSessionCookies(&apos;-3&apos;); // UserSessionStatusCodeEnum.RefreshRequired
+
+        UserSession.processUserSession({
+          context: context + &apos; -&gt; Util -&gt; fetch -&gt; attempt&apos;,
+          handleRefresh: handleUserSessionRefresh,
+          handleRedirection: handleUserSessionRedirection,
+          callback: function (userSessionVerificationRes) {
+            if (typeof reqRes.error.meta === &apos;undefined&apos;) {
+              reqRes.error.meta = {};
+            }
+
+            reqRes.error.meta.userSessionVerificationRes = userSessionVerificationRes;
+
+            if (userSessionVerificationRes.error.code === &apos;0&apos;) { // session seems fine, retry to send the same request
+              params.retriedAfterUserSessionRefresh = true;
+              params.context = context + &apos; -&gt; retry&apos;;
+              Util.fetch(params);
+            } else {
+              submitResponse(reqRes);
+            }
+          }
+        });
+      } else {
+        submitResponse(reqRes);
+      }
+    }
+  };
+
+  var submitRequest = function () {
+    xhr.open(method, url, true);
+
+    for (var key in headers) {
+      if (headers.hasOwnProperty(key)) {
+        xhr.setRequestHeader(key, headers[key]);
+      }
+    }
+
+    if (withUserSession) {
+      xhr.setRequestHeader(&apos;Authorization&apos;, &apos;Bearer &apos; + Cookies.get(&apos;accessToken&apos;));
+    }
+
+    xhr.withCredentials = sendCookies;
+
+    // Util._logDebug(&apos;fetch -&gt; submitRequest -&gt; data: &apos;, data);
+
+    xhr.send(data);
+  };
+
+  if (withUserSession) {
+    UserSession.processUserSession({
+      context: context + &apos; -&gt; Util -&gt; fetch -&gt; init&apos;,
+      handleRefresh: handleUserSessionRefresh,
+      handleRedirection: false,
+      callback: function (userSessionVerificationRes) {
+        if (userSessionVerificationRes.error.code === &apos;0&apos;) {
+          submitRequest();
+        } else {
+          clearTimeout(reqTimeout);
+
+          if (handleUserSessionRedirection) {
+            UserSession.userSessionRedirectionLogicHandler(userSessionVerificationRes);
+          }
+
+          reqRes.error = userSessionVerificationRes.error;
+
+          submitResponse(reqRes);
+        }
+      }
+    });
+  } else {
+    submitRequest();
+  }
+};
+
+Util.elementIsInViewport = function (elm) {
+  var rect = elm.getBoundingClientRect();
+
+  return (
+    rect.top &gt;= 0 &amp;&amp;
+    rect.left &gt;= 0 &amp;&amp;
+    rect.bottom &lt;= (window.innerHeight || document.documentElement.clientHeight) &amp;&amp;
+    rect.right &lt;= (window.innerWidth || document.documentElement.clientWidth)
+  );
+};
+
+Util.elementIsAboveViewport = function (elm) {
+  var rect = elm.getBoundingClientRect();
+  if (rect.top &lt; 0) return true;
+  return false;
+};
+
+Util.elementIsVisible = function (elm) {
+  // Check if the element is not in the document
+  if (elm.offsetParent === null) {
+    return false;
+  }
+
+  // Check for the display property inline or via the style attribute
+  if (elm.style.display === &apos;none&apos; || elm.style.visibility === &apos;hidden&apos;) {
+    return false;
+  }
+
+  // Check for the display property by traversing up the DOM tree
+  var parent = elm.parentNode;
+  while (parent &amp;&amp; parent.style) {
+    if (parent.style.display === &apos;none&apos; || parent.style.visibility === &apos;hidden&apos;) {
+      return false;
+    }
+    parent = parent.parentNode;
+  }
+
+  // If none of the above, the element is likely visible
+  return true;
+};
+
+Util.findInnerElements = function (parentElement, queryStr, callback) {
+  var output = [];
+
+  var hasCallback = typeof callback !== &apos;undefined&apos;;
+
+  var elements = parentElement.querySelectorAll(queryStr);
+
+  for (var index = 0; index &lt; elements.length; index++) {
+    output.push(elements[index]);
+
+    if (hasCallback) {
+      callback(elements[index], index);
+    }
+  }
+
+  return output;
+};
+
+Util.getInnerElement = function (parentElement, queryStr) {
+  var elms = Util.findInnerElements(parentElement, queryStr);
+
+  if (elms.length) {
+    return elms[0];
+  }
+
+  return undefined;
+};
+
+Util.loopArray = function (arr, callback) {
+  for (var index = 0; index &lt; arr.length; index++) {
+    callback(arr[index], index);
+  }
+};
+
+Util.loopObj = function (obj, callback) {
+  for (var key in obj) {
+    if (obj.hasOwnProperty(key)) {
+      callback(obj[key], key);
+    }
+  }
+};
+
+Util.getProgressPercentage = function (currentAmount, totalAmount, round) {
+  if (!currentAmount || !totalAmount) {
+    return 0;
+  }
+
+  if (typeof round === &apos;undefined&apos;) {
+    round = true;
+  }
+
+  var percentage = (currentAmount / totalAmount) * 100;
+
+  if (round) {
+    return Math.ceil(percentage);
+  }
+
+  return percentage;
+};
+
+Util.isEmptyObject = function (obj) {
+  if (typeof obj === &apos;object&apos; &amp;&amp; obj !== null) {
+    // Check if the object has any own property
+    for (var key in obj) {
+      if (obj.hasOwnProperty(key)) {
+        return false;
+      }
+    }
+  }
+
+  return true;
+};
+
+Util.allObjectFieldsAreSet = function (obj) {
+  for (var key in obj) {
+    if (obj.hasOwnProperty(key)) {
+      var value = obj[key];
+
+      if (value === undefined || value === null || value === &apos;&apos;) {
+        return false;
+      }
+    }
+  }
+
+  return true;
+};
+
+Util.patchAllAuthLinksHelper = function (prs) {
+  var searchLogInUrl = prs.searchLogInUrl;
+  var replaceLogInUrl = prs.replaceLogInUrl;
+  var searchSignUpUrl = prs.searchSignUpUrl;
+  var replaceSignUpUrl = prs.replaceSignUpUrl;
+  var origin = prs.origin;
+
+  var links = document.querySelectorAll(&apos;a&apos;); // Select all anchor tags
+
+  var networkServices = [
+    &apos;spaces.w3schools.com&apos;,
+    &apos;pathfinder.w3schools.com&apos;,
+    &apos;billing.w3schools.com&apos;
+  ];
+
+  var isExplicitRedirectToNetworkService = function (url) {
+    for (var i = 0; i &lt; networkServices.length; i++) {
+      if (url.indexOf(&apos;redirect_url=https%3A%2F%2F&apos; + networkServices[i]) !== -1) {
+        return true;
+      }
+    }
+
+    return false;
+  };
+
+  for (var i = 0; i &lt; links.length; i++) {
+    var match = false;
+    var link = links[i];
+
+    if (link.getAttribute(&apos;data-skip-href-patch&apos;) === &apos;true&apos;) {
+      continue;
+    }
+
+    var linkHref = link.href;
+
+    if (linkHref.indexOf(searchLogInUrl) === 0) {
+      match = true;
+
+      if (isExplicitRedirectToNetworkService(linkHref)) {
+        if (linkHref.indexOf(&apos;origin=&apos;) === -1) {
+          link.href = linkHref + &apos;&amp;origin=&apos; + origin;
+        }
+      } else {
+        link.href = replaceLogInUrl;
+      }
+    } else if (linkHref.indexOf(searchSignUpUrl) === 0) {
+      match = true;
+
+      if (isExplicitRedirectToNetworkService(linkHref)) {
+        if (linkHref.indexOf(&apos;origin=&apos;) === -1) {
+          link.href = linkHref + &apos;&amp;origin=&apos; + origin;
+        }
+      } else {
+        link.href = replaceSignUpUrl;
+      }
+    }
+
+    if (match) {
+      Util._logDebug(&apos;_patchAllAuthLinksHelper -&gt; initialHref, patchedHref: &apos;, {
+        &apos;initialHref&apos;: linkHref,
+        &apos;patchedHref&apos;: link.href
+      });
+    }
+  }
+};
+
+Util.patchAuthLinks = function (prs) {
+  if (typeof prs === &apos;undefined&apos;) {
+    prs = {};
+  }
+
+  var loggedIn = typeof prs.loggedIn !== &apos;undefined&apos; ? prs.loggedIn : false;
+  var currentUrl = typeof prs.currentUrl !== &apos;undefined&apos; ? prs.currentUrl : window.location.href;
+  var currentUrlEncoded = encodeURIComponent(currentUrl);
+
+  if (loggedIn) {
+    Util.patchAllAuthLinksHelper({
+      searchLogInUrl: &apos;https://profile.w3schools.com/log-in&apos;,
+      replaceLogInUrl: &apos;https://profile.w3schools.com/log-in&apos;,
+      searchSignUpUrl: &apos;https://profile.w3schools.com/sign-up&apos;, // hidden
+      replaceSignUpUrl: &apos;https://profile.w3schools.com/sign-up&apos;, // hidden
+      origin: currentUrlEncoded
+    });
+  } else {
+    Util.patchAllAuthLinksHelper({
+      searchLogInUrl: &apos;https://profile.w3schools.com/log-in&apos;,
+      replaceLogInUrl: &apos;https://profile.w3schools.com/log-in?redirect_url=&apos; + currentUrlEncoded,
+      searchSignUpUrl: &apos;https://profile.w3schools.com/sign-up&apos;,
+      replaceSignUpUrl: &apos;https://profile.w3schools.com/sign-up?redirect_url=&apos; + currentUrlEncoded,
+      origin: currentUrlEncoded
+    });
+  }
+};
+
+Util.getUrlParsed = function (url) {
+  var parseHelper = document.createElement(&quot;a&quot;);
+  parseHelper.href = url;
+  parseHelper.href = parseHelper.href;
+
+  if (parseHelper.host === &quot;&quot;) {
+    var protocolAndHost = window.location.protocol + &quot;//&quot; + window.location.host;
+
+    if (url.charAt(1) === &quot;/&quot;) {
+      parseHelper.href = protocolAndHost + url;
+    } else {
+      var currentPath = (&quot;/&quot; + parseHelper.pathname).match(/.*\//)[0];
+      parseHelper.href = protocolAndHost + currentPath + url;
+    }
+  }
+
+  var output = {};
+
+  var props = [&apos;host&apos;, &apos;hostname&apos;, &apos;hash&apos;, &apos;href&apos;, &apos;port&apos;, &apos;protocol&apos;, &apos;search&apos;];
+
+  for (var i = 0, n = props.length; i &lt; n; i++) {
+    output[props[i]] = parseHelper[props[i]];
+  }
+
+  output.pathname = (parseHelper.pathname.charAt(0) !== &quot;/&quot; ? &quot;/&quot; : &quot;&quot;) + parseHelper.pathname;
+
+  if (
+    (
+      typeof output.hostname === &apos;undefined&apos;
+      || !output.hostname
+    ) &amp;&amp; typeof output.host !== &apos;undefined&apos;
+  ) {
+    output.hostname = output.host;
+  }
+
+  Util._logDebug(&apos;getUrlParsed -&gt; output: &apos;, output);
+
+  return output;
+};
+
+Util.getUrlQueryParam = function (param, location) {
+  if (typeof location === &apos;undefined&apos;) {
+    location = window.location;
+  }
+
+  var search = location.search.substring(1); // Remove the &quot;?&quot; at the start
+  var params = search.split(&apos;&amp;&apos;);
+
+  for (var i = 0; i &lt; params.length; i++) {
+    var pair = params[i].split(&apos;=&apos;); // Extract [key, value] pair
+
+    if (decodeURIComponent(pair[0]) === param) {
+      return decodeURIComponent(pair[1] || &quot;&quot;);
+    }
+  }
+
+  return null;
+};
+
+Util.itemIsNotInList = function (list, item) {
+  return list.indexOf(item) === -1;
+};
+
+Util.getStrByteSize = function (string) {
+  var size = 0;
+
+  for (var i = 0; i &lt; string.length; i++) {
+    var code = string.charCodeAt(i);
+
+    if (code &lt;= 0x7f) {
+      size += 1;
+    } else if (code &lt;= 0x7ff) {
+      size += 2;
+    } else if (code &gt;= 0xd800 &amp;&amp; code &lt;= 0xdbff) {
+      // Surrogate pair means 4 bytes
+      size += 4;
+      i++; // Skip the next code unit, which is the second part of the surrogate pair
+    } else {
+      size += 3;
+    }
+  }
+
+  return size;
+};
+
+Util.getLocalStorageUsedSpace = function () {
+  var b = 0; // bytes
+
+  for (var key in window.localStorage) {
+    if (window.localStorage.hasOwnProperty(key)) {
+      b += key.length + localStorage.getItem(key).length;
+    }
+  }
+
+  return b;
+};
+
+Util.setInLocalStorage = function (key, value) {
+  var output = {
+    error: {
+      code: &apos;1&apos;,
+      description: &apos;Failed to set k/v in local storage&apos;
+    }
+  };
+
+  try {
+    localStorage.setItem(key, value);
+
+    output.error = { code: &apos;0&apos; };
+  } catch (exc) {
+    Util._logError(&apos;setInLocalStorage -&gt; exc: &apos;, {
+      exc: exc
+    });
+    output.error = Util.getMetaPreparedFromException(exc);
+    output.error.code = &apos;2&apos;;
+  }
+
+  return output;
+};
+
+Util.removeStrPrefix = function (str, prefix) {
+  if (str.indexOf(prefix) === 0) {
+    return str.substr(prefix.length);
+  }
+
+  return str;
+};
+
+Util.getElementWidth = function (elm) {
+  if (!elm) {
+    return null;
+  }
+
+  var width = null;
+
+  if (window.getComputedStyle) {
+    width = window.getComputedStyle(elm, null).getPropertyValue(&apos;width&apos;);
+  } else {
+    width = element.style.width;
+
+    if (!width &amp;&amp; elm.currentStyle) {
+      width = element.currentStyle.width;
+    }
+  }
+
+  return width;
+};
+
+Util.getWindowWidth = function () {
+  var width = 0;
+
+  // For IE and other browsers that support it
+  if (document.documentElement &amp;&amp; document.documentElement.clientWidth) {
+    width = document.documentElement.clientWidth;
+  }
+  // For older versions of IE
+  else if (document.body &amp;&amp; document.body.clientWidth) {
+    width = document.body.clientWidth;
+  }
+  // As a last resort, use window.innerWidth (not supported in IE8 and earlier)
+  else if (window.innerWidth) {
+    width = window.innerWidth;
+  }
+
+  return width;
+};
+
+Util.findNextElementSibling = function (element) {
+  if (typeof element.nextElementSibling !== &apos;undefined&apos;) {
+    return element.nextElementSibling;
+  } else {
+    // Fallback for older browsers like IE8
+    var nextSibling = element.nextSibling;
+    while (nextSibling &amp;&amp; nextSibling.nodeType !== 1) {
+      nextSibling = nextSibling.nextSibling;
+    }
+    return nextSibling;
+  }
+};
+
+Util.findPreviousElementSibling = function (element) {
+  if (typeof element.previousElementSibling !== &apos;undefined&apos;) {
+    return element.previousElementSibling;
+  } else {
+    // Fallback for older browsers like IE8
+    var previousSibling = element.previousSibling;
+    while (previousSibling &amp;&amp; previousSibling.nodeType !== 1) {
+      previousSibling = previousSibling.previousSibling;
+    }
+    return previousSibling;
+  }
+};
+
+======= EXCEPTION END ========
+</pre></div><a href='#' onClick='toggleBox("stack-trace79094208", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace79094208'><pre>======= EXCEPTION START ========
+Exception class=[net.sourceforge.htmlunit.corejs.javascript.EvaluatorException]
+com.gargoylesoftware.htmlunit.ScriptException: missing formal parameter (https://www.w3schools.com/lib/common-deps.js?v=1.0.5#398)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:1001)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:590)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:484)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.callSecured(HtmlUnitContextFactory.java:349)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:830)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:796)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:118)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1153)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:1024)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport.executeScriptIfNeeded(ScriptElementSupport.java:196)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport$1.execute(ScriptElementSupport.java:120)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport.onAllChildrenAddedToPage(ScriptElementSupport.java:143)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:191)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.endElement(HtmlUnitNekoDOMBuilder.java:572)
+	at net.sourceforge.htmlunit.xerces.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:451)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.endElement(HtmlUnitNekoDOMBuilder.java:517)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1242)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1169)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:218)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:310)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3145)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2091)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:918)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:367)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:318)
+	at net.sourceforge.htmlunit.xerces.parsers.XMLParser.parse(XMLParser.java:80)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.parse(HtmlUnitNekoDOMBuilder.java:773)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoHtmlParser.parse(HtmlUnitNekoHtmlParser.java:204)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:299)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:219)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:669)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:571)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:489)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:396)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:534)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:516)
+	at it.smartpaper.app.AppTest.submittingForm(AppTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: net.sourceforge.htmlunit.corejs.javascript.EvaluatorException: missing formal parameter (https://www.w3schools.com/lib/common-deps.js?v=1.0.5#398)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory$HtmlUnitErrorReporter.error(HtmlUnitContextFactory.java:435)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.addError(Parser.java:257)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.reportError(Parser.java:336)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.reportError(Parser.java:332)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mustMatchToken(Parser.java:473)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mustMatchToken(Parser.java:464)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parseFunctionParams(Parser.java:804)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.function(Parser.java:910)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.function(Parser.java:845)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.primaryExpr(Parser.java:3081)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.memberExpr(Parser.java:2711)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.unaryExpr(Parser.java:2614)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.expExpr(Parser.java:2534)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mulExpr(Parser.java:2517)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.addExpr(Parser.java:2503)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.shiftExpr(Parser.java:2486)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.relExpr(Parser.java:2464)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.eqExpr(Parser.java:2440)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitAndExpr(Parser.java:2431)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitXorExpr(Parser.java:2422)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitOrExpr(Parser.java:2413)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.andExpr(Parser.java:2404)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.orExpr(Parser.java:2395)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.condExpr(Parser.java:2362)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.assignExpr(Parser.java:2320)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.assignExpr(Parser.java:2343)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.expr(Parser.java:2303)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.nameOrLabel(Parser.java:2061)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.statementHelper(Parser.java:1240)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.statement(Parser.java:1104)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parse(Parser.java:632)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parse(Parser.java:562)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.parse(Context.java:2549)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileImpl(Context.java:2480)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileString(Context.java:1448)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory$TimeoutContext.compileString(HtmlUnitContextFactory.java:221)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileString(Context.java:1436)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$1.doRun(JavaScriptEngine.java:821)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:984)
+	... 64 more
+Enclosed exception: 
+net.sourceforge.htmlunit.corejs.javascript.EvaluatorException: missing formal parameter (https://www.w3schools.com/lib/common-deps.js?v=1.0.5#398)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory$HtmlUnitErrorReporter.error(HtmlUnitContextFactory.java:435)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.addError(Parser.java:257)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.reportError(Parser.java:336)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.reportError(Parser.java:332)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mustMatchToken(Parser.java:473)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mustMatchToken(Parser.java:464)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parseFunctionParams(Parser.java:804)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.function(Parser.java:910)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.function(Parser.java:845)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.primaryExpr(Parser.java:3081)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.memberExpr(Parser.java:2711)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.unaryExpr(Parser.java:2614)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.expExpr(Parser.java:2534)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.mulExpr(Parser.java:2517)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.addExpr(Parser.java:2503)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.shiftExpr(Parser.java:2486)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.relExpr(Parser.java:2464)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.eqExpr(Parser.java:2440)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitAndExpr(Parser.java:2431)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitXorExpr(Parser.java:2422)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.bitOrExpr(Parser.java:2413)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.andExpr(Parser.java:2404)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.orExpr(Parser.java:2395)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.condExpr(Parser.java:2362)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.assignExpr(Parser.java:2320)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.assignExpr(Parser.java:2343)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.expr(Parser.java:2303)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.nameOrLabel(Parser.java:2061)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.statementHelper(Parser.java:1240)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.statement(Parser.java:1104)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parse(Parser.java:632)
+	at net.sourceforge.htmlunit.corejs.javascript.Parser.parse(Parser.java:562)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.parse(Context.java:2549)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileImpl(Context.java:2480)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileString(Context.java:1448)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory$TimeoutContext.compileString(HtmlUnitContextFactory.java:221)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.compileString(Context.java:1436)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$1.doRun(JavaScriptEngine.java:821)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:984)
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:590)
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:484)
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.callSecured(HtmlUnitContextFactory.java:349)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:830)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:796)
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.compile(JavaScriptEngine.java:118)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1153)
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:1024)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport.executeScriptIfNeeded(ScriptElementSupport.java:196)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport$1.execute(ScriptElementSupport.java:120)
+	at com.gargoylesoftware.htmlunit.html.ScriptElementSupport.onAllChildrenAddedToPage(ScriptElementSupport.java:143)
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:191)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.endElement(HtmlUnitNekoDOMBuilder.java:572)
+	at net.sourceforge.htmlunit.xerces.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:451)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.endElement(HtmlUnitNekoDOMBuilder.java:517)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1242)
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1169)
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:218)
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:310)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3145)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2091)
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:918)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:367)
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:318)
+	at net.sourceforge.htmlunit.xerces.parsers.XMLParser.parse(XMLParser.java:80)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoDOMBuilder.parse(HtmlUnitNekoDOMBuilder.java:773)
+	at com.gargoylesoftware.htmlunit.html.parser.neko.HtmlUnitNekoHtmlParser.parse(HtmlUnitNekoHtmlParser.java:204)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:299)
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:219)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:669)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:571)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:489)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:396)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:534)
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:516)
+	at it.smartpaper.app.AppTest.submittingForm(AppTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+== CALLING JAVASCRIPT ==
+/*
+  Common dependencies
+  Version: 1.0.5
+*/
+
+/* js-cookie v3.0.0-rc.1 | MIT */
+!function (e, t) { &quot;object&quot; == typeof exports &amp;&amp; &quot;undefined&quot; != typeof module ? module.exports = t() : &quot;function&quot; == typeof define &amp;&amp; define.amd ? define(t) : (e = e || self, function () { var n = e.Cookies, r = e.Cookies = t(); r.noConflict = function () { return e.Cookies = n, r } }()) }(this, function () { &quot;use strict&quot;; function e(e) { for (var t = 1; t &lt; arguments.length; t++) { var n = arguments[t]; for (var r in n) e[r] = n[r] } return e } var t = { read: function (e) { return e.replace(/(%[\dA-F]{2})+/gi, decodeURIComponent) }, write: function (e) { return encodeURIComponent(e).replace(/%(2[346BF]|3[AC-F]|40|5[BDE]|60|7[BCD])/g, decodeURIComponent) } }; return function n(r, o) { function i(t, n, i) { if (&quot;undefined&quot; != typeof document) { &quot;number&quot; == typeof (i = e({}, o, i)).expires &amp;&amp; (i.expires = new Date(Date.now() + 864e5 * i.expires)), i.expires &amp;&amp; (i.expires = i.expires.toUTCString()), t = encodeURIComponent(t).replace(/%(2[346B]|5E|60|7C)/g, decodeURIComponent).replace(/[()]/g, escape), n = r.write(n, t); var c = &quot;&quot;; for (var u in i) i[u] &amp;&amp; (c += &quot;; &quot; + u, !0 !== i[u] &amp;&amp; (c += &quot;=&quot; + i[u].split(&quot;;&quot;)[0])); return document.cookie = t + &quot;=&quot; + n + c } } return Object.create({ set: i, get: function (e) { if (&quot;undefined&quot; != typeof document &amp;&amp; (!arguments.length || e)) { for (var n = document.cookie ? document.cookie.split(&quot;; &quot;) : [], o = {}, i = 0; i &lt; n.length; i++) { var c = n[i].split(&quot;=&quot;), u = c.slice(1).join(&quot;=&quot;); &apos;&quot;&apos; === u[0] &amp;&amp; (u = u.slice(1, -1)); try { var f = t.read(c[0]); if (o[f] = r.read(u, f), e === f) break } catch (e) { } } return e ? o[e] : o } }, remove: function (t, n) { i(t, &quot;&quot;, e({}, n, { expires: -1 })) }, withAttributes: function (t) { return n(this.converter, e({}, this.attributes, t)) }, withConverter: function (t) { return n(e({}, this.converter, t), this.attributes) } }, { attributes: { value: Object.freeze(o) }, converter: { value: Object.freeze(r) } }) }(t, { path: &quot;/&quot; }) });
+
+/* base64.js | https://gist.github.com/chrisveness/e121cffb51481bd1c142 | MIT */
+function Base64Encode(r){if(/([^\u0000-\u00ff])/.test(r))throw Error(&quot;String must be ASCII&quot;);var t,e,n,o,h,a,i=&quot;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=&quot;,f=[],c=&quot;&quot;;if((a=r.length%3)&gt;0)for(;a++&lt;3;)c+=&quot;=&quot;,r+=&quot;\0&quot;;for(a=0;a&lt;r.length;a+=3)e=(t=r.charCodeAt(a)&lt;&lt;16|r.charCodeAt(a+1)&lt;&lt;8|r.charCodeAt(a+2))&gt;&gt;18&amp;63,n=t&gt;&gt;12&amp;63,o=t&gt;&gt;6&amp;63,h=63&amp;t,f[a/3]=i.charAt(e)+i.charAt(n)+i.charAt(o)+i.charAt(h);return r=(r=f.join(&quot;&quot;)).slice(0,r.length-c.length)+c}function Base64Decode(r){if(!/^[a-z0-9+/]+={0,2}$/i.test(r)||r.length%4!=0)throw Error(&quot;Not base64 string&quot;);for(var t,e,n,o,h,a,i=&quot;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=&quot;,f=[],c=0;c&lt;r.length;c+=4)t=(a=i.indexOf(r.charAt(c))&lt;&lt;18|i.indexOf(r.charAt(c+1))&lt;&lt;12|(o=i.indexOf(r.charAt(c+2)))&lt;&lt;6|(h=i.indexOf(r.charAt(c+3))))&gt;&gt;&gt;16&amp;255,e=a&gt;&gt;&gt;8&amp;255,n=255&amp;a,f[c/4]=String.fromCharCode(t,e,n),64==h&amp;&amp;(f[c/4]=String.fromCharCode(t,e)),64==o&amp;&amp;(f[c/4]=String.fromCharCode(t));return r=f.join(&quot;&quot;)};
+
+if (typeof window.atob === &apos;undefined&apos;) {
+  window.atob = Base64Decode;
+}
+
+if (typeof window.btoa === &apos;undefined&apos;) {
+  window.btoa = Base64Encode;
+}
+
+/* cross-browser shim that fully implements element.classList | http://purl.eligrey.com/github/classList.js/blob/master/classList.js | Unlicense */
+&quot;document&quot;in self&amp;&amp;(&quot;classList&quot;in document.createElement(&quot;_&quot;)&amp;&amp;(!document.createElementNS||&quot;classList&quot;in document.createElementNS(&quot;http://www.w3.org/2000/svg&quot;,&quot;g&quot;))||!function(t){&quot;use strict&quot;;if(&quot;Element&quot;in t){var e=&quot;classList&quot;,n=&quot;prototype&quot;,i=t.Element[n],s=Object,r=String[n].trim||function(){return this.replace(/^\s+|\s+$/g,&quot;&quot;)},o=Array[n].indexOf||function(t){for(var e=0,n=this.length;n&gt;e;e++)if(e in this&amp;&amp;this[e]===t)return e;return-1},c=function(t,e){this.name=t,this.code=DOMException[t],this.message=e},a=function(t,e){if(&quot;&quot;===e)throw new c(&quot;SYNTAX_ERR&quot;,&quot;The token must not be empty.&quot;);if(/\s/.test(e))throw new c(&quot;INVALID_CHARACTER_ERR&quot;,&quot;The token must not contain space characters.&quot;);return o.call(t,e)},l=function(t){for(var e=r.call(t.getAttribute(&quot;class&quot;)||&quot;&quot;),n=e?e.split(/\s+/):[],i=0,s=n.length;s&gt;i;i++)this.push(n[i]);this._updateClassName=function(){t.setAttribute(&quot;class&quot;,this.toString())}},u=l[n]=[],h=function(){return new l(this)};if(c[n]=Error[n],u.item=function(t){return this[t]||null},u.contains=function(t){return~a(this,t+&quot;&quot;)},u.add=function(){var t,e=arguments,n=0,i=e.length,s=!1;do t=e[n]+&quot;&quot;,~a(this,t)||(this.push(t),s=!0);while(++n&lt;i);s&amp;&amp;this._updateClassName()},u.remove=function(){var t,e,n=arguments,i=0,s=n.length,r=!1;do for(t=n[i]+&quot;&quot;,e=a(this,t);~e;)this.splice(e,1),r=!0,e=a(this,t);while(++i&lt;s);r&amp;&amp;this._updateClassName()},u.toggle=function(t,e){var n=this.contains(t),i=n?e!==!0&amp;&amp;&quot;remove&quot;:e!==!1&amp;&amp;&quot;add&quot;;return i&amp;&amp;this[i](t),e===!0||e===!1?e:!n},u.replace=function(t,e){var n=a(t+&quot;&quot;);~n&amp;&amp;(this.splice(n,1,e),this._updateClassName())},u.toString=function(){return this.join(&quot; &quot;)},s.defineProperty){var f={get:h,enumerable:!0,configurable:!0};try{s.defineProperty(i,e,f)}catch(p){void 0!==p.number&amp;&amp;-2146823252!==p.number||(f.enumerable=!1,s.defineProperty(i,e,f))}}else s[n].__defineGetter__&amp;&amp;i.__defineGetter__(e,h)}}(self),function(){&quot;use strict&quot;;var t=document.createElement(&quot;_&quot;);if(t.classList.add(&quot;c1&quot;,&quot;c2&quot;),!t.classList.contains(&quot;c2&quot;)){var e=function(t){var e=DOMTokenList.prototype[t];DOMTokenList.prototype[t]=function(t){var n,i=arguments.length;for(n=0;i&gt;n;n++)t=arguments[n],e.call(this,t)}};e(&quot;add&quot;),e(&quot;remove&quot;)}if(t.classList.toggle(&quot;c3&quot;,!1),t.classList.contains(&quot;c3&quot;)){var n=DOMTokenList.prototype.toggle;DOMTokenList.prototype.toggle=function(t,e){return 1 in arguments&amp;&amp;!this.contains(t)==!e?e:n.call(this,t)}}&quot;replace&quot;in document.createElement(&quot;_&quot;).classList||(DOMTokenList.prototype.replace=function(t,e){var n=this.toString().split(&quot; &quot;),i=n.indexOf(t+&quot;&quot;);~i&amp;&amp;(n=n.slice(i),this.remove.apply(this,n),this.add(e),this.add.apply(this,n.slice(1)))}),t=null}());
+
+/* String.prototype.startsWith() polyfill */
+if (!String.prototype.startsWith) {
+  String.prototype.startsWith = function (str, pos) {
+    if (pos) {
+      return this.slice(pos || 0, str.length) === str;
+    } else {
+      return this.indexOf(str) === 0;
+    }
+  };
+}
+
+/* Object.keys() polyfill | https://vanillajstoolkit.com/polyfills/objectkeys/ | MIT */
+if (!Object.keys) {
+  Object.keys = (function () {
+    &apos;use strict&apos;;
+    var hasOwnProperty = Object.prototype.hasOwnProperty,
+      hasDontEnumBug = !({ toString: null }).propertyIsEnumerable(&apos;toString&apos;),
+      dontEnums = [
+        &apos;toString&apos;,
+        &apos;toLocaleString&apos;,
+        &apos;valueOf&apos;,
+        &apos;hasOwnProperty&apos;,
+        &apos;isPrototypeOf&apos;,
+        &apos;propertyIsEnumerable&apos;,
+        &apos;constructor&apos;
+      ],
+      dontEnumsLength = dontEnums.length;
+
+    return function (obj) {
+      if (typeof obj !== &apos;function&apos; &amp;&amp; (typeof obj !== &apos;object&apos; || obj === null)) {
+        throw new TypeError(&apos;Object.keys called on non-object&apos;);
+      }
+
+      var result = [], prop, i;
+
+      for (prop in obj) {
+        if (hasOwnProperty.call(obj, prop)) {
+          result.push(prop);
+        }
+      }
+
+      if (hasDontEnumBug) {
+        for (i = 0; i &lt; dontEnumsLength; i++) {
+          if (hasOwnProperty.call(obj, dontEnums[i])) {
+            result.push(dontEnums[i]);
+          }
+        }
+      }
+      return result;
+    };
+  }());
+}
+
+/*
+  Util
+  Version: 1.0.0
+*/
+
+window.Util = {
+  _debug: {},
+};
+
+Util.getCurrentUts = function () {
+  return Math.floor((new Date()).getTime() / 1000);
+};
+
+Util.getCurrentUtms = function () {
+  return (new Date()).getTime();
+};
+
+Util.getDictSnapshot = function (data, refFallback) {
+  try {
+    return JSON.parse(JSON.stringify(data));
+  } catch (exc) {
+    console.error(exc);
+  }
+
+  if (typeof refFallback === &apos;undefined&apos;) {
+    refFallback = true;
+  }
+
+  return refFallback ? data : {};
+};
+
+Util.isDebugMode = function (context) {
+  if (typeof this._debug[context] !== &apos;undefined&apos;) {
+    return this._debug[context];
+  }
+
+  if (
+    localStorage.getItem(context + &apos;.debug&apos;) === &apos;true&apos;
+    || Cookies.get(context + &apos;.debug&apos;) === &apos;true&apos;
+  ) {
+    this._debug[context] = true;
+  } else {
+    this._debug[context] = false;
+  }
+
+  return this._debug[context];
+};
+
+Util.logDebug = function (context, message, data, logRawData) {
+  if (!Util.isDebugMode(context)) {
+    return;
+  }
+
+  if (typeof logRawData === &apos;undefined&apos;) {
+    logRawData = false;
+  }
+
+  if (typeof data === &apos;undefined&apos;) {
+    console.log(Util.getCurrentUtms().toString() + &apos; &apos; + context + &apos; -&gt; &apos; + message);
+  } else {
+    console.log(Util.getCurrentUtms().toString() + &apos; &apos; + context + &apos; -&gt; &apos; + message, logRawData ? data : Util.getDictSnapshot(data));
+  }
+};
+
+Util.logError = function (context, message, data, logRawData) {
+  if (typeof logRawData === &apos;undefined&apos;) {
+    logRawData = false;
+  }
+
+  if (typeof message !== &apos;string&apos;) { // handy for traceback logs
+    console.error(message);
+
+    return;
+  }
+
+  if (typeof data === &apos;undefined&apos;) {
+    console.error(Util.getCurrentUtms().toString() + &apos; &apos; + context + &apos; -&gt; &apos; + message);
+  } else {
+    console.error(Util.getCurrentUtms().toString() + &apos; &apos; + context + &apos; -&gt; &apos; + message, logRawData ? data : Util.getDictSnapshot(data));
+  }
+};
+
+Util._isDebugMode = function () {
+  return Util.isDebugMode(&apos;Util&apos;);
+};
+
+Util._logDebug = function (message, data, logRawData) {
+  return Util.logDebug(&apos;Util&apos;, message, data, logRawData);
+};
+
+Util._logError = function (message, data, logRawData) {
+  return Util.logError(&apos;Util&apos;, message, data, logRawData);
+};
+
+Util.attachCss = function (params) {
+  var cssId = params.id;
+  var cssPath = params.path;
+  var callback = params.callback;
+
+  if (document.getElementById(cssId)) {
+    return;
+  }
+
+  var cssElm = document.createElement(&apos;link&apos;);
+
+  cssElm.id = cssId;
+  cssElm.rel = &apos;stylesheet&apos;;
+  cssElm.type = &apos;text/css&apos;;
+  cssElm.href = cssPath;
+
+  if (typeof callback === &apos;function&apos;) {
+    cssElm.onload = callback;
+  }
+
+  document.head.appendChild(cssElm);
+};
+
+Util.attachScript = function (params) {
+  var scriptId = params.id;
+  var scriptPath = params.path;
+  var entityName = params.entityName;
+  var callback = params.callback;
+
+  if (document.getElementById(scriptId)) {
+    return;
+  }
+
+  var scriptElm = document.createElement(&apos;script&apos;);
+
+  scriptElm.id = scriptId;
+  scriptElm.type = &apos;text/javascript&apos;;
+  scriptElm.src = scriptPath;
+
+  document.head.appendChild(scriptElm);
+
+  if (
+    typeof entityName !== &apos;undefined&apos;
+    &amp;&amp; typeof callback === &apos;function&apos;
+  ) {
+    Util.objFieldOnSetCallback({
+      scopeRef: window,
+      fieldName: entityName,
+      callback: callback
+    });
+  }
+};
+
+Util.ObjFieldLookupControlState = function () { // state class
+  this.lazyHalt = false; // waits lookup interval to complete
+  this._halt = undefined;
+  this._completed = undefined;
+  this._elapsedTime = undefined; // milliseconds
+};
+
+Util.objFieldOnSetCallback = function (params) {
+  var scopeRef = (typeof params.scopeRef !== &apos;undefined&apos;) ? params.scopeRef : window;
+  var fieldName = params.fieldName;
+  var callback = params.callback;
+
+  var explicitValueEqualsIsSet = false;
+  var explicitValueNotEqualsIsSet = false;
+
+  var explicitValue = undefined;
+
+  if (typeof params.fieldValue !== &apos;undefined&apos;) {
+    explicitValue = params.fieldValue;
+
+    if (typeof params.fieldValueEquals !== &apos;undefined&apos;) {
+      explicitValueEqualsIsSet = params.fieldValueEquals === true;
+    } else {
+      explicitValueEqualsIsSet = true; // defaults to equal check
+    }
+
+    explicitValueNotEqualsIsSet = !explicitValueEqualsIsSet;
+  }
+
+  var lookupControlRef = (typeof params.lookupControlRef !== &apos;undefined&apos;) ? params.lookupControlRef : new Util.ObjFieldLookupControlState();
+  var lookupTimeout = (typeof params.lookupTimeout !== &apos;undefined&apos;) ? params.lookupTimeout : 300; // seconds
+  var lookupIntervalStep = (typeof params.lookupIntervalStep !== &apos;undefined&apos;) ? params.lookupIntervalStep : 5;
+  var debug = (typeof params.debug !== &apos;undefined&apos;) ? params.debug : false;
+
+  var intervalHandler = null;
+
+  lookupControlRef._completed = false;
+  lookupControlRef._elapsedTime = 0;
+
+  lookupControlRef._halt = function () {
+    clearInterval(intervalHandler);
+    if (lookupControlRef._completed) {
+      return;
+    }
+    lookupControlRef._completed = true;
+    callback({
+      error: {
+        code: &apos;OFOSCHLT&apos;,
+        description: &apos;objFieldOnSetCallback halt&apos;,
+        meta: {
+          fieldName: fieldName
+        }
+      },
+      data: scopeRef[fieldName]
+    });
+  };
+
+  var _fieldMeetsConditions = function (scopeRef) {
+    var fieldIsSet = typeof scopeRef[fieldName] !== &apos;undefined&apos;;
+
+    if (explicitValueEqualsIsSet) {
+      return (fieldIsSet &amp;&amp; scopeRef[fieldName] === explicitValue);
+    }
+
+    if (explicitValueNotEqualsIsSet) {
+      return (fieldIsSet &amp;&amp; scopeRef[fieldName] !== explicitValue);
+    }
+
+    return fieldIsSet;
+  }
+
+  if (_fieldMeetsConditions(scopeRef)) {
+    lookupControlRef._completed = true;
+    lookupControlRef._halt = undefined;
+
+    callback({
+      error: {
+        code: &apos;0&apos;
+      },
+      data: scopeRef[fieldName]
+    });
+    return;
+  }
+
+  var lookupTimeoutMs = lookupTimeout * 1000;
+
+  intervalHandler = setInterval(function () {
+    if (debug) {
+      console.log(&apos;lookupControlRef: &apos; + JSON.stringify(lookupControlRef));
+    }
+
+    if (lookupControlRef.lazyHalt) {
+      clearInterval(intervalHandler);
+      lookupControlRef._completed = true;
+      lookupControlRef._halt = undefined;
+      callback({
+        error: {
+          code: &apos;OFOSCLHLT&apos;,
+          description: &apos;objFieldOnSetCallback lazy halt&apos;,
+          meta: {
+            fieldName: fieldName
+          }
+        },
+        data: scopeRef[fieldName]
+      });
+      return;
+    }
+
+    if (_fieldMeetsConditions(scopeRef)) {
+      clearInterval(intervalHandler);
+      lookupControlRef._completed = true;
+      lookupControlRef._halt = undefined;
+      callback({
+        error: {
+          code: &apos;0&apos;
+        },
+        data: scopeRef[fieldName]
+      });
+      return;
+    }
+
+    lookupControlRef._elapsedTime += lookupIntervalStep;
+
+    if (lookupControlRef._elapsedTime &gt;= lookupTimeoutMs) {
+      clearInterval(intervalHandler);
+      lookupControlRef._completed = true;
+      lookupControlRef._halt = undefined;
+      callback({
+        error: {
+          code: &apos;OFOSCTO&apos;,
+          description: &apos;objFieldOnSetCallback timeout&apos;,
+          meta: {
+            fieldName: fieldName,
+            lookupTimeout: lookupTimeout
+          }
+        },
+        data: scopeRef[fieldName]
+      });
+      return;
+    }
+  }, lookupIntervalStep);
+};
+
+Util.getMetaPreparedFromException = function (exc) {
+  Util._logDebug(&apos;getMetaPreparedFromException&apos;);
+
+  if (Util._isDebugMode()) {
+    Util._logError(exc);
+  }
+
+  var output = {
+    code: &apos;2&apos;,
+    description: &apos;Internal error&apos;,
+  };
+
+  // if (exc instanceof Exception) {
+  //   output.code = exc.code;
+  //   output.description = exc.description;
+
+  //   if (typeof exc.meta !== &apos;undefined&apos;) {
+  //     output.meta = exc.meta;
+  //   }
+  // } else
+  if (exc instanceof Error) {
+    output.description = exc.message;
+  } else if (typeof exc === &apos;string&apos;) {
+    output.description = exc;
+  }
+
+  return output;
+};
+
+Util.parseJson = function (
+  jsonStr,
+  requiredFields,
+) {
+  var output = {
+    error: {
+      code: &apos;1&apos;,
+      description: &apos;Failed to parse JSON&apos;
+    },
+    data: {},
+  };
+
+  try {
+    output.data = JSON.parse(jsonStr);
+
+    if (typeof requiredFields !== &apos;undefined&apos;) {
+      for (var i = 0; i &lt; requiredFields.length; i++) {
+        var key = requiredFields[i];
+
+        if (
+          typeof output.data[key] === &apos;undefined&apos;
+        ) {
+          output.error = {
+            code: &apos;FINPID&apos;,
+            description: &apos;Field is not present in data&apos;,
+            meta: {
+              key: key,
+            }
+          };
+
+          return output;
+        }
+      }
+    }
+
+    output.error = { code: &apos;0&apos; };
+  } catch (exc) {
+    output.error = Util.getMetaPreparedFromException(exc);
+  }
+
+  return output;
+};
+
+Util.fetch = function (params) {
+  var context = (typeof params.context !== &apos;undefined&apos;) ? params.context : &apos;Unknown&apos;;
+  var method = (typeof params.method !== &apos;undefined&apos;) ? params.method : &apos;POST&apos;;
+  var url = params.url;
+  var data = params.data;
+  var callback = params.callback;
+  var reqTimeout = (typeof params.reqTimeout !== &apos;undefined&apos;) ? params.reqTimeout : 15000; // milliseconds
+  var headers = (typeof params.headers !== &apos;undefined&apos;) ? params.headers : {};
+  var sendCookies = (typeof params.sendCookies !== &apos;undefined&apos;) ? params.sendCookies : false; // aka withCredentials
+  var withUserSession = (typeof params.withUserSession !== &apos;undefined&apos;) ? params.withUserSession : true; // access token auth header
+  var handleUserSessionRefresh = (typeof params.handleUserSessionRefresh !== &apos;undefined&apos;) ? params.handleUserSessionRefresh : withUserSession;
+  var handleUserSessionRedirection = (typeof params.handleUserSessionRedirection !== &apos;undefined&apos;) ? params.handleUserSessionRedirection : undefined;
+  var retriedAfterUserSessionRefresh = (typeof params.retriedAfterUserSessionRefresh !== &apos;undefined&apos;) ? params.retriedAfterUserSessionRefresh : false;
+  var prepareResponseData = (typeof params.prepareResponseData !== &apos;undefined&apos;) ? params.prepareResponseData : true;
+
+  var xhr = new XMLHttpRequest();
+
+  var reqRes = {
+    error: {
+      code: &apos;0&apos;
+    },
+    context: context,
+    status: 0,
+    contentType: undefined,
+    dataStr: &apos;&apos;,
+    data: null,
+  };
+
+  var submitResponse = function (_reqRes) {
+    Util._logDebug(&apos;fetch -&gt; submitResponse -&gt; init -&gt; reqRes: &apos;, _reqRes);
+
+    if (
+      prepareResponseData
+      &amp;&amp; _reqRes.contentType
+      &amp;&amp; _reqRes.contentType.indexOf(&apos;application/json&apos;) !== -1
+    ) {
+      var parseJsonRes = Util.parseJson(_reqRes.dataStr);
+
+      if (parseJsonRes.error.code !== &apos;0&apos;) {
+        if (_reqRes.error.code === &apos;0&apos;) {
+          _reqRes.error = parseJsonRes.error;
+        }
+
+        _reqRes.data = parseJsonRes.data;
+      } else {
+        if (typeof parseJsonRes.data.error !== &apos;undefined&apos;) {
+          _reqRes.error = parseJsonRes.data.error;
+        }
+
+        if (typeof parseJsonRes.data.data !== &apos;undefined&apos;) {
+          _reqRes.data = parseJsonRes.data.data;
+        } else {
+          _reqRes.data = parseJsonRes.data;
+        }
+      }
+    }
+
+    Util._logDebug(&apos;fetch -&gt; submitResponse -&gt; callback -&gt; reqRes: &apos;, _reqRes);
+
+    callback(_reqRes);
+  };
+
+  var reqTimeout = setTimeout(function () {
+    reqRes.error = {
+      code: &apos;RWTE&apos;,
+      description: &apos;Request wait time exceeded&apos;
+    };
+
+    submitResponse(reqRes);
+  }, reqTimeout);
+
+  xhr.onreadystatechange = function () {
+    if (this.readyState == 4) {
+      clearTimeout(reqTimeout);
+
+      reqRes.status = this.status;
+      reqRes.dataStr = this.responseText;
+      reqRes.contentType = this.getResponseHeader(&apos;Content-Type&apos;);
+
+      if (typeof reqRes.status !== &apos;undefined&apos; &amp;&amp; reqRes.status) {
+        if (reqRes.status == 401) {
+          reqRes.error = {
+            code: &apos;UNAUTHORIZED&apos;,
+            description: &apos;Request unauthorized&apos;
+          };
+        } else if (!(reqRes.status &gt;= 200 &amp;&amp; reqRes.status &lt; 300)) {
+          reqRes.error = {
+            code: &apos;RSC_&apos; + reqRes.status,
+            description: (typeof this.statusText !== &apos;undefined&apos; &amp;&amp; this.statusText) ? this.statusText : &apos;Request failed&apos;
+          };
+        }
+      } else {
+        reqRes.error = {
+          code: &apos;RTWNSC&apos;, // Request terminated with no status code
+          description: &apos;Request failed&apos;
+        };
+      }
+
+      if (
+        withUserSession
+        &amp;&amp; reqRes.error.code === &apos;UNAUTHORIZED&apos;
+        &amp;&amp; !retriedAfterUserSessionRefresh
+      ) {
+        UserSession.changeStatusCodeInUserSessionCookies(&apos;-3&apos;); // UserSessionStatusCodeEnum.RefreshRequired
+
+        UserSession.processUserSession({
+          context: context + &apos; -&gt; Util -&gt; fetch -&gt; attempt&apos;,
+          handleRefresh: handleUserSessionRefresh,
+          handleRedirection: handleUserSessionRedirection,
+          callback: function (userSessionVerificationRes) {
+            if (typeof reqRes.error.meta === &apos;undefined&apos;) {
+              reqRes.error.meta = {};
+            }
+
+            reqRes.error.meta.userSessionVerificationRes = userSessionVerificationRes;
+
+            if (userSessionVerificationRes.error.code === &apos;0&apos;) { // session seems fine, retry to send the same request
+              params.retriedAfterUserSessionRefresh = true;
+              params.context = context + &apos; -&gt; retry&apos;;
+              Util.fetch(params);
+            } else {
+              submitResponse(reqRes);
+            }
+          }
+        });
+      } else {
+        submitResponse(reqRes);
+      }
+    }
+  };
+
+  var submitRequest = function () {
+    xhr.open(method, url, true);
+
+    for (var key in headers) {
+      if (headers.hasOwnProperty(key)) {
+        xhr.setRequestHeader(key, headers[key]);
+      }
+    }
+
+    if (withUserSession) {
+      xhr.setRequestHeader(&apos;Authorization&apos;, &apos;Bearer &apos; + Cookies.get(&apos;accessToken&apos;));
+    }
+
+    xhr.withCredentials = sendCookies;
+
+    // Util._logDebug(&apos;fetch -&gt; submitRequest -&gt; data: &apos;, data);
+
+    xhr.send(data);
+  };
+
+  if (withUserSession) {
+    UserSession.processUserSession({
+      context: context + &apos; -&gt; Util -&gt; fetch -&gt; init&apos;,
+      handleRefresh: handleUserSessionRefresh,
+      handleRedirection: false,
+      callback: function (userSessionVerificationRes) {
+        if (userSessionVerificationRes.error.code === &apos;0&apos;) {
+          submitRequest();
+        } else {
+          clearTimeout(reqTimeout);
+
+          if (handleUserSessionRedirection) {
+            UserSession.userSessionRedirectionLogicHandler(userSessionVerificationRes);
+          }
+
+          reqRes.error = userSessionVerificationRes.error;
+
+          submitResponse(reqRes);
+        }
+      }
+    });
+  } else {
+    submitRequest();
+  }
+};
+
+Util.elementIsInViewport = function (elm) {
+  var rect = elm.getBoundingClientRect();
+
+  return (
+    rect.top &gt;= 0 &amp;&amp;
+    rect.left &gt;= 0 &amp;&amp;
+    rect.bottom &lt;= (window.innerHeight || document.documentElement.clientHeight) &amp;&amp;
+    rect.right &lt;= (window.innerWidth || document.documentElement.clientWidth)
+  );
+};
+
+Util.elementIsAboveViewport = function (elm) {
+  var rect = elm.getBoundingClientRect();
+  if (rect.top &lt; 0) return true;
+  return false;
+};
+
+Util.elementIsVisible = function (elm) {
+  // Check if the element is not in the document
+  if (elm.offsetParent === null) {
+    return false;
+  }
+
+  // Check for the display property inline or via the style attribute
+  if (elm.style.display === &apos;none&apos; || elm.style.visibility === &apos;hidden&apos;) {
+    return false;
+  }
+
+  // Check for the display property by traversing up the DOM tree
+  var parent = elm.parentNode;
+  while (parent &amp;&amp; parent.style) {
+    if (parent.style.display === &apos;none&apos; || parent.style.visibility === &apos;hidden&apos;) {
+      return false;
+    }
+    parent = parent.parentNode;
+  }
+
+  // If none of the above, the element is likely visible
+  return true;
+};
+
+Util.findInnerElements = function (parentElement, queryStr, callback) {
+  var output = [];
+
+  var hasCallback = typeof callback !== &apos;undefined&apos;;
+
+  var elements = parentElement.querySelectorAll(queryStr);
+
+  for (var index = 0; index &lt; elements.length; index++) {
+    output.push(elements[index]);
+
+    if (hasCallback) {
+      callback(elements[index], index);
+    }
+  }
+
+  return output;
+};
+
+Util.getInnerElement = function (parentElement, queryStr) {
+  var elms = Util.findInnerElements(parentElement, queryStr);
+
+  if (elms.length) {
+    return elms[0];
+  }
+
+  return undefined;
+};
+
+Util.loopArray = function (arr, callback) {
+  for (var index = 0; index &lt; arr.length; index++) {
+    callback(arr[index], index);
+  }
+};
+
+Util.loopObj = function (obj, callback) {
+  for (var key in obj) {
+    if (obj.hasOwnProperty(key)) {
+      callback(obj[key], key);
+    }
+  }
+};
+
+Util.getProgressPercentage = function (currentAmount, totalAmount, round) {
+  if (!currentAmount || !totalAmount) {
+    return 0;
+  }
+
+  if (typeof round === &apos;undefined&apos;) {
+    round = true;
+  }
+
+  var percentage = (currentAmount / totalAmount) * 100;
+
+  if (round) {
+    return Math.ceil(percentage);
+  }
+
+  return percentage;
+};
+
+Util.isEmptyObject = function (obj) {
+  if (typeof obj === &apos;object&apos; &amp;&amp; obj !== null) {
+    // Check if the object has any own property
+    for (var key in obj) {
+      if (obj.hasOwnProperty(key)) {
+        return false;
+      }
+    }
+  }
+
+  return true;
+};
+
+Util.allObjectFieldsAreSet = function (obj) {
+  for (var key in obj) {
+    if (obj.hasOwnProperty(key)) {
+      var value = obj[key];
+
+      if (value === undefined || value === null || value === &apos;&apos;) {
+        return false;
+      }
+    }
+  }
+
+  return true;
+};
+
+Util.patchAllAuthLinksHelper = function (prs) {
+  var searchLogInUrl = prs.searchLogInUrl;
+  var replaceLogInUrl = prs.replaceLogInUrl;
+  var searchSignUpUrl = prs.searchSignUpUrl;
+  var replaceSignUpUrl = prs.replaceSignUpUrl;
+  var origin = prs.origin;
+
+  var links = document.querySelectorAll(&apos;a&apos;); // Select all anchor tags
+
+  var networkServices = [
+    &apos;spaces.w3schools.com&apos;,
+    &apos;pathfinder.w3schools.com&apos;,
+    &apos;billing.w3schools.com&apos;
+  ];
+
+  var isExplicitRedirectToNetworkService = function (url) {
+    for (var i = 0; i &lt; networkServices.length; i++) {
+      if (url.indexOf(&apos;redirect_url=https%3A%2F%2F&apos; + networkServices[i]) !== -1) {
+        return true;
+      }
+    }
+
+    return false;
+  };
+
+  for (var i = 0; i &lt; links.length; i++) {
+    var match = false;
+    var link = links[i];
+
+    if (link.getAttribute(&apos;data-skip-href-patch&apos;) === &apos;true&apos;) {
+      continue;
+    }
+
+    var linkHref = link.href;
+
+    if (linkHref.indexOf(searchLogInUrl) === 0) {
+      match = true;
+
+      if (isExplicitRedirectToNetworkService(linkHref)) {
+        if (linkHref.indexOf(&apos;origin=&apos;) === -1) {
+          link.href = linkHref + &apos;&amp;origin=&apos; + origin;
+        }
+      } else {
+        link.href = replaceLogInUrl;
+      }
+    } else if (linkHref.indexOf(searchSignUpUrl) === 0) {
+      match = true;
+
+      if (isExplicitRedirectToNetworkService(linkHref)) {
+        if (linkHref.indexOf(&apos;origin=&apos;) === -1) {
+          link.href = linkHref + &apos;&amp;origin=&apos; + origin;
+        }
+      } else {
+        link.href = replaceSignUpUrl;
+      }
+    }
+
+    if (match) {
+      Util._logDebug(&apos;_patchAllAuthLinksHelper -&gt; initialHref, patchedHref: &apos;, {
+        &apos;initialHref&apos;: linkHref,
+        &apos;patchedHref&apos;: link.href
+      });
+    }
+  }
+};
+
+Util.patchAuthLinks = function (prs) {
+  if (typeof prs === &apos;undefined&apos;) {
+    prs = {};
+  }
+
+  var loggedIn = typeof prs.loggedIn !== &apos;undefined&apos; ? prs.loggedIn : false;
+  var currentUrl = typeof prs.currentUrl !== &apos;undefined&apos; ? prs.currentUrl : window.location.href;
+  var currentUrlEncoded = encodeURIComponent(currentUrl);
+
+  if (loggedIn) {
+    Util.patchAllAuthLinksHelper({
+      searchLogInUrl: &apos;https://profile.w3schools.com/log-in&apos;,
+      replaceLogInUrl: &apos;https://profile.w3schools.com/log-in&apos;,
+      searchSignUpUrl: &apos;https://profile.w3schools.com/sign-up&apos;, // hidden
+      replaceSignUpUrl: &apos;https://profile.w3schools.com/sign-up&apos;, // hidden
+      origin: currentUrlEncoded
+    });
+  } else {
+    Util.patchAllAuthLinksHelper({
+      searchLogInUrl: &apos;https://profile.w3schools.com/log-in&apos;,
+      replaceLogInUrl: &apos;https://profile.w3schools.com/log-in?redirect_url=&apos; + currentUrlEncoded,
+      searchSignUpUrl: &apos;https://profile.w3schools.com/sign-up&apos;,
+      replaceSignUpUrl: &apos;https://profile.w3schools.com/sign-up?redirect_url=&apos; + currentUrlEncoded,
+      origin: currentUrlEncoded
+    });
+  }
+};
+
+Util.getUrlParsed = function (url) {
+  var parseHelper = document.createElement(&quot;a&quot;);
+  parseHelper.href = url;
+  parseHelper.href = parseHelper.href;
+
+  if (parseHelper.host === &quot;&quot;) {
+    var protocolAndHost = window.location.protocol + &quot;//&quot; + window.location.host;
+
+    if (url.charAt(1) === &quot;/&quot;) {
+      parseHelper.href = protocolAndHost + url;
+    } else {
+      var currentPath = (&quot;/&quot; + parseHelper.pathname).match(/.*\//)[0];
+      parseHelper.href = protocolAndHost + currentPath + url;
+    }
+  }
+
+  var output = {};
+
+  var props = [&apos;host&apos;, &apos;hostname&apos;, &apos;hash&apos;, &apos;href&apos;, &apos;port&apos;, &apos;protocol&apos;, &apos;search&apos;];
+
+  for (var i = 0, n = props.length; i &lt; n; i++) {
+    output[props[i]] = parseHelper[props[i]];
+  }
+
+  output.pathname = (parseHelper.pathname.charAt(0) !== &quot;/&quot; ? &quot;/&quot; : &quot;&quot;) + parseHelper.pathname;
+
+  if (
+    (
+      typeof output.hostname === &apos;undefined&apos;
+      || !output.hostname
+    ) &amp;&amp; typeof output.host !== &apos;undefined&apos;
+  ) {
+    output.hostname = output.host;
+  }
+
+  Util._logDebug(&apos;getUrlParsed -&gt; output: &apos;, output);
+
+  return output;
+};
+
+Util.getUrlQueryParam = function (param, location) {
+  if (typeof location === &apos;undefined&apos;) {
+    location = window.location;
+  }
+
+  var search = location.search.substring(1); // Remove the &quot;?&quot; at the start
+  var params = search.split(&apos;&amp;&apos;);
+
+  for (var i = 0; i &lt; params.length; i++) {
+    var pair = params[i].split(&apos;=&apos;); // Extract [key, value] pair
+
+    if (decodeURIComponent(pair[0]) === param) {
+      return decodeURIComponent(pair[1] || &quot;&quot;);
+    }
+  }
+
+  return null;
+};
+
+Util.itemIsNotInList = function (list, item) {
+  return list.indexOf(item) === -1;
+};
+
+Util.getStrByteSize = function (string) {
+  var size = 0;
+
+  for (var i = 0; i &lt; string.length; i++) {
+    var code = string.charCodeAt(i);
+
+    if (code &lt;= 0x7f) {
+      size += 1;
+    } else if (code &lt;= 0x7ff) {
+      size += 2;
+    } else if (code &gt;= 0xd800 &amp;&amp; code &lt;= 0xdbff) {
+      // Surrogate pair means 4 bytes
+      size += 4;
+      i++; // Skip the next code unit, which is the second part of the surrogate pair
+    } else {
+      size += 3;
+    }
+  }
+
+  return size;
+};
+
+Util.getLocalStorageUsedSpace = function () {
+  var b = 0; // bytes
+
+  for (var key in window.localStorage) {
+    if (window.localStorage.hasOwnProperty(key)) {
+      b += key.length + localStorage.getItem(key).length;
+    }
+  }
+
+  return b;
+};
+
+Util.setInLocalStorage = function (key, value) {
+  var output = {
+    error: {
+      code: &apos;1&apos;,
+      description: &apos;Failed to set k/v in local storage&apos;
+    }
+  };
+
+  try {
+    localStorage.setItem(key, value);
+
+    output.error = { code: &apos;0&apos; };
+  } catch (exc) {
+    Util._logError(&apos;setInLocalStorage -&gt; exc: &apos;, {
+      exc: exc
+    });
+    output.error = Util.getMetaPreparedFromException(exc);
+    output.error.code = &apos;2&apos;;
+  }
+
+  return output;
+};
+
+Util.removeStrPrefix = function (str, prefix) {
+  if (str.indexOf(prefix) === 0) {
+    return str.substr(prefix.length);
+  }
+
+  return str;
+};
+
+Util.getElementWidth = function (elm) {
+  if (!elm) {
+    return null;
+  }
+
+  var width = null;
+
+  if (window.getComputedStyle) {
+    width = window.getComputedStyle(elm, null).getPropertyValue(&apos;width&apos;);
+  } else {
+    width = element.style.width;
+
+    if (!width &amp;&amp; elm.currentStyle) {
+      width = element.currentStyle.width;
+    }
+  }
+
+  return width;
+};
+
+Util.getWindowWidth = function () {
+  var width = 0;
+
+  // For IE and other browsers that support it
+  if (document.documentElement &amp;&amp; document.documentElement.clientWidth) {
+    width = document.documentElement.clientWidth;
+  }
+  // For older versions of IE
+  else if (document.body &amp;&amp; document.body.clientWidth) {
+    width = document.body.clientWidth;
+  }
+  // As a last resort, use window.innerWidth (not supported in IE8 and earlier)
+  else if (window.innerWidth) {
+    width = window.innerWidth;
+  }
+
+  return width;
+};
+
+Util.findNextElementSibling = function (element) {
+  if (typeof element.nextElementSibling !== &apos;undefined&apos;) {
+    return element.nextElementSibling;
+  } else {
+    // Fallback for older browsers like IE8
+    var nextSibling = element.nextSibling;
+    while (nextSibling &amp;&amp; nextSibling.nodeType !== 1) {
+      nextSibling = nextSibling.nextSibling;
+    }
+    return nextSibling;
+  }
+};
+
+Util.findPreviousElementSibling = function (element) {
+  if (typeof element.previousElementSibling !== &apos;undefined&apos;) {
+    return element.previousElementSibling;
+  } else {
+    // Fallback for older browsers like IE8
+    var previousSibling = element.previousSibling;
+    while (previousSibling &amp;&amp; previousSibling.nodeType !== 1) {
+      previousSibling = previousSibling.previousSibling;
+    }
+    return previousSibling;
+  }
+};
+
+======= EXCEPTION END ========
+</pre></div></td>
+<td>3</td>
+<td>it.smartpaper.app.AppTest@6e6f2380</td></tr>
+</table><p>
+</body>
+</html>

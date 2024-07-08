@@ -1,0 +1,426 @@
+2024-05-31 10:07:00.370 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - ________________________________________
+2024-05-31 10:07:00.376 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - Creo un nuovo driver
+2024-05-31 10:07:05.256 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - Driver creato correttamente
+2024-05-31 10:07:12.408 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - Inserisco l'username e password
+2024-05-31 10:08:17.495 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - ________________________________________
+2024-05-31 10:08:17.502 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - Creo un nuovo driver
+2024-05-31 10:08:21.366 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - Driver creato correttamente
+2024-05-31 10:08:37.452 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - Inserisco l'username e password
+2024-05-31 10:10:46.857 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - ________________________________________
+2024-05-31 10:10:46.863 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - Creo un nuovo driver
+2024-05-31 10:10:50.120 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - Driver creato correttamente
+2024-05-31 10:10:54.798 [main] INFO  it.smartpaper.WebForm3Imple.AccountTest - Inserisco l'username e password
+2024-05-31 11:01:18.474 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:01:18.478 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:01:23.793 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:01:29.064 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 11:01:34.331 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco dati per la creazione dell'account
+2024-05-31 11:02:00.715 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:02:00.721 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:02:03.983 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:02:08.684 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 11:02:13.523 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco dati per la creazione dell'account
+2024-05-31 11:03:48.505 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:03:48.510 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:03:51.803 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:03:56.656 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 11:04:01.355 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco dati per la creazione dell'account
+2024-05-31 11:06:50.943 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:06:50.948 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:06:54.198 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:07:00.125 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 11:10:08.950 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:10:08.955 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:10:12.172 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:10:18.320 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 11:12:09.490 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:12:09.495 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:12:12.619 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:12:18.412 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 11:12:44.222 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:12:44.228 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:12:47.590 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:36:23.020 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:36:23.026 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:36:26.681 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:37:14.021 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 11:39:14.719 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:39:14.725 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:39:21.082 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:41:00.105 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:41:00.110 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:41:03.707 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:41:20.762 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 11:44:16.260 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:44:16.266 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:44:19.948 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:48:05.083 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:48:05.089 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:48:08.447 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:48:35.579 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:48:35.584 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:48:38.875 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:48:44.885 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 11:50:14.081 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:50:14.087 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:50:17.510 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:53:52.154 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:53:52.160 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:53:55.701 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:59:02.316 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:59:02.320 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:59:05.529 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:59:10.073 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 11:59:20.599 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 11:59:20.603 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 11:59:23.812 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 11:59:29.942 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:01:24.627 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:01:24.631 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:01:27.913 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:01:34.284 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:05:38.076 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:05:38.081 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:05:41.431 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:06:10.093 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:16:37.261 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:16:37.266 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:16:40.648 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:16:50.062 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:18:49.449 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:18:49.454 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:18:52.873 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:19:10.653 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco dati per la creazione dell'account
+2024-05-31 12:20:18.471 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:20:18.476 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:20:21.756 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:20:26.385 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco dati per la creazione dell'account
+2024-05-31 12:20:31.591 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Processo andato a buonFine
+2024-05-31 12:20:33.263 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:22:51.055 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:22:51.060 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:22:54.454 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:22:59.257 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco dati per la creazione dell'account
+2024-05-31 12:23:05.507 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Complimenti : Thank you for registering with Main Website Store.
+2024-05-31 12:23:07.713 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:24:15.332 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:24:15.336 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:24:18.598 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:24:23.414 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:46:21.551 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:46:21.555 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:46:26.949 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:46:31.948 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:46:36.289 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 12:47:51.118 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:47:51.123 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:47:54.364 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:47:59.351 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:48:03.472 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 12:51:19.843 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:51:19.847 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:51:23.093 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:51:27.697 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:51:31.589 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 12:52:40.491 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:52:40.495 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:52:43.716 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:52:48.742 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:52:52.625 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 12:54:19.154 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:54:19.157 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:54:22.463 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:54:27.420 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:54:31.750 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 12:55:54.351 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:55:54.355 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:55:58.657 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:56:03.513 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:56:07.569 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 12:56:10.096 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 12:58:10.633 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:58:10.638 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:58:13.904 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:58:18.970 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 12:58:23.017 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 12:58:25.816 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 12:59:32.299 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 12:59:32.303 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 12:59:35.566 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 12:59:40.715 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 13:03:27.830 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 13:03:27.834 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 13:03:31.081 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 13:03:36.262 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 13:03:40.392 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 13:03:42.880 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 13:03:43.248 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Procediamo con il prossimo passo DatiSpedizione
+2024-05-31 14:30:13.085 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:30:13.091 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:30:18.398 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:30:25.549 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:30:30.187 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:30:32.584 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:30:43.146 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 14:32:47.568 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:32:47.573 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:32:50.918 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:32:55.776 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:32:59.790 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:35:35.948 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:35:35.953 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:35:39.487 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:35:44.527 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:35:48.596 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:37:48.753 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:37:48.757 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:37:52.008 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:37:56.451 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:38:00.621 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:38:03.253 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:38:03.601 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Procediamo con il prossimo passo DatiSpedizione
+2024-05-31 14:38:03.622 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 14:39:17.030 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:39:17.035 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:39:20.404 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:39:25.396 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:39:29.273 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:39:32.407 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:39:35.194 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Procediamo con il prossimo passo DatiSpedizione
+2024-05-31 14:39:35.221 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 14:40:09.643 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:40:09.648 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:40:13.045 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:40:18.124 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:40:22.152 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:40:24.962 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:40:27.376 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Procediamo con il prossimo passo DatiSpedizione
+2024-05-31 14:40:47.336 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 14:41:26.629 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:41:26.634 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:41:30.144 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:41:36.276 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:41:40.644 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:41:43.855 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:42:46.075 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:42:46.080 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:42:49.566 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:42:54.294 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:42:58.160 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:43:00.542 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:43:17.494 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:43:17.500 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:43:20.943 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:43:25.280 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:43:29.328 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:43:35.042 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:43:43.175 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Procediamo con il prossimo passo DatiSpedizione
+2024-05-31 14:43:50.716 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 14:48:57.119 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:48:57.124 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:49:00.649 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:49:05.611 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:49:10.202 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:49:13.034 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:49:17.840 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Procediamo con il prossimo passo DatiSpedizione
+2024-05-31 14:49:27.364 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 14:55:08.440 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:55:08.446 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:55:11.781 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:55:16.788 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:55:22.264 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:55:25.189 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:56:01.880 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:56:01.885 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:56:05.087 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:56:09.372 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:56:12.971 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:56:15.753 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:56:16.116 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Procediamo con il prossimo passo DatiSpedizione
+2024-05-31 14:56:16.133 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 14:57:24.890 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 14:57:24.896 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 14:57:28.245 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 14:57:33.081 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 14:57:37.125 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 14:57:39.932 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 14:57:40.302 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Procediamo con il prossimo passo DatiSpedizione
+2024-05-31 14:58:04.649 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:01:51.852 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:01:51.857 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:01:55.063 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:02:00.924 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:02:05.461 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:02:08.650 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:02:19.095 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:02:32.018 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:02:32.022 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:02:35.229 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:02:39.940 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:02:44.404 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:02:46.880 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:02:57.365 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:03:54.331 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:03:54.336 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:03:57.690 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:04:02.432 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:04:06.488 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:04:09.696 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:05:29.683 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:05:29.687 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:05:32.901 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:05:37.990 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:05:41.933 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:05:44.426 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:05:49.531 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Procediamo con il prossimo passo DatiSpedizione
+2024-05-31 15:05:49.555 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:39:17.540 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:39:17.544 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:39:21.935 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:39:28.912 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:39:33.821 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:39:36.868 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:39:47.332 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:41:21.384 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:41:21.389 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:41:24.584 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:41:29.090 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:42:40.609 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:42:40.613 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:42:43.863 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:42:48.534 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:42:52.383 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:42:54.867 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:42:56.447 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:43:50.861 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:43:50.866 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:43:54.153 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:43:59.156 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:44:02.889 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:44:05.549 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:44:10.272 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:44:12.310 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la città scelta
+2024-05-31 15:48:03.933 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:48:03.939 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:48:07.189 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:48:12.048 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:48:15.659 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:48:18.508 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:48:23.260 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:48:25.288 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la città scelta
+2024-05-31 15:49:42.113 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:49:42.119 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:49:45.538 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:49:50.037 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:49:54.126 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:49:56.675 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:50:11.233 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:50:55.757 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la città scelta
+2024-05-31 15:51:54.795 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:51:54.799 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:51:57.971 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:52:02.773 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:52:06.756 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:52:09.384 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:52:11.444 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:52:16.196 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la città scelta
+2024-05-31 15:52:16.865 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La città selezionata : Colorado
+2024-05-31 15:52:16.866 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la regione scelta
+2024-05-31 15:52:17.622 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La Regione selezionata : Bermuda
+2024-05-31 15:52:17.622 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Concludo l'acquisto
+2024-05-31 15:53:13.549 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:53:13.552 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:53:16.798 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:53:21.500 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:53:25.431 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:53:27.946 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:53:30.013 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:53:34.588 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la città scelta
+2024-05-31 15:53:35.186 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La città selezionata : Colorado
+2024-05-31 15:53:35.186 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la regione scelta
+2024-05-31 15:53:35.901 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La Regione selezionata : Bermuda
+2024-05-31 15:53:35.901 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Concludo l'acquisto
+2024-05-31 15:54:30.503 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:54:30.508 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:54:33.603 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:54:38.593 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:54:42.835 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:54:46.688 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:54:52.197 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:54:54.359 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la città scelta
+2024-05-31 15:54:54.948 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La città selezionata : Colorado
+2024-05-31 15:54:54.949 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la regione scelta
+2024-05-31 15:54:55.650 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La Regione selezionata : Bermuda
+2024-05-31 15:54:55.650 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Concludo l'acquisto
+2024-05-31 15:56:58.487 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:56:58.491 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:57:01.739 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:57:06.794 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:57:10.872 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:57:13.395 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:57:52.849 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:57:52.854 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:57:56.089 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:58:00.697 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:58:04.587 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:58:07.189 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:58:11.380 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:58:13.989 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la città scelta
+2024-05-31 15:58:14.589 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La città selezionata : Colorado
+2024-05-31 15:58:14.590 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la regione scelta
+2024-05-31 15:58:15.349 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La Regione selezionata : Bermuda
+2024-05-31 15:58:15.350 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Concludo l'acquisto
+2024-05-31 15:58:39.180 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 15:58:39.185 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 15:58:42.469 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 15:58:49.000 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 15:58:53.283 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 15:58:56.080 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 15:59:01.009 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 15:59:04.056 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la città scelta
+2024-05-31 15:59:04.669 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La città selezionata : Colorado
+2024-05-31 15:59:04.669 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la regione scelta
+2024-05-31 15:59:05.385 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La Regione selezionata : Bermuda
+2024-05-31 15:59:05.386 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Concludo l'acquisto
+2024-05-31 16:00:05.280 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 16:00:05.288 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 16:00:14.591 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 16:00:14.596 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 16:00:17.829 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 16:00:23.105 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 16:00:28.002 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 16:00:30.630 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 16:00:35.678 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 16:00:38.598 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la città scelta
+2024-05-31 16:00:39.210 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La città selezionata : Colorado
+2024-05-31 16:00:39.210 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la regione scelta
+2024-05-31 16:00:39.934 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La Regione selezionata : Bermuda
+2024-05-31 16:00:39.935 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Concludo l'acquisto
+2024-05-31 16:01:56.633 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-05-31 16:01:56.645 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-05-31 16:02:00.021 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-05-31 16:02:04.975 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-05-31 16:02:09.064 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-05-31 16:02:12.010 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-05-31 16:02:17.042 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-05-31 16:02:19.068 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la città scelta
+2024-05-31 16:02:19.651 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La città selezionata : Colorado
+2024-05-31 16:02:19.651 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Verifico la regione scelta
+2024-05-31 16:02:20.334 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - La Regione selezionata : Bermuda
+2024-05-31 16:02:20.335 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Concludo l'acquisto
+2024-06-03 10:11:32.584 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-06-03 10:11:32.589 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-06-03 10:11:35.815 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-06-03 10:11:36.590 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Grazie è arrivederci il proramma funziona
+2024-06-03 10:12:47.094 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-06-03 10:12:47.100 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-06-03 10:12:50.308 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-06-03 10:12:56.708 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-06-03 16:39:29.381 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - ________________________________________
+2024-06-03 16:39:29.388 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Creo un nuovo driver
+2024-06-03 16:39:32.979 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Driver creato correttamente
+2024-06-03 16:39:38.406 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco l'username e password
+2024-06-03 16:39:42.939 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Seleziono i prodotti desiderati
+2024-06-03 16:39:45.362 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Clicco per andare al checkOut
+2024-06-03 16:39:52.467 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Inserisco i dati per la spedizione
+2024-06-03 16:40:04.327 [main] INFO  it.smartpaper.WebForm3Imple.AcquistoImplementationTest - Grazie è arrivederci il proramma funziona

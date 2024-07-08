@@ -1,0 +1,5 @@
+{
+"Name" : "John Doe",
+"Course": "Computer Science",
+"Subjects": ["Mathematics", "Physics", "Chemistry"]
+}
